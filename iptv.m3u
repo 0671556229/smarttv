@@ -12,7 +12,7 @@ http://50.7.120.165:8081/paramount/index.m3u8?wmsAuthSign=90fca50a8d284806beab11
 #EXTINF:-0,6ТНТ4
 http://50.7.92.82:8081/tnt4/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggf1443d253b00267ffdc4b37cf796e21abkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-0,7Дом кино
-http://50.7.92.82:8081/domkino/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg67525f7b944e344946735d3351ee971fbkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+http://50.7.92.82:8081/domkino/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggc03bd3cff084ff0abb9c9f7f71991283bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-0,8ЕвроКино
 http://50.7.92.82:8081/evrokino/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg60820a59ea045ee2801944e42b914c3cbkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-0,9НСТ
@@ -28,4 +28,6 @@ http://50.7.92.82:8081/megahit/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMD
 #EXTINF:-0,14VIP Comedy HD
 http://50.7.92.82:8081/comedy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg49ae8bfe8bb1a331ac681433de1cc14dbkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-0,15Шокирующее HD
-http://50.7.92.82:8081/kinopokaz1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg5ef944556c8272bacbb571255113d4eebkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+http://50.7.92.82:8081/kinopokaz1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg9cff967620e7ceddacc7adc8ea142364bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-0,16 Илюзион+
+http://50.7.92.82:8081/illyuzion-pl/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggcc1ec46f5f974db0a5e6b412ad5b718cbkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
