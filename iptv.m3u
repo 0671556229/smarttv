@@ -1,41 +1,55 @@
-#EXTM3U 
-#EXTINF:-0,1Новый канал
-http://50.7.92.82:8081/novyj-kanal/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg15d0dcb6447a9fd558ae9781b4fe2811bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:0, ICTV
+#EXTM3U
+#EXTINF:0, Интер
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:0,ICTV
 http://188.35.9.11:11051/j
 #EXTINF:0, ТНТ
 https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565870524/f0cf8e2504b8cce059330e81fe414e1e/playlist.m3u8
+
+#EXTINF:0, ТНТ4
+https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565880177/02c722166c67789201c2563e9dad203f/playlist.m3u8
+#EXTINF:-1,СТС
+http://194.28.155.235:81/udp/225.0.59.13:1234
+#EXTINF:-1,Дом Кино
+http://194.28.155.235:81/udp/225.0.55.23:1234
+#EXTINF:-1,5 Канал
+http://31.41.100.81:81/udp/225.0.59.5:1234
+#EXTINF:0,Рен ТВ
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+
+#EXTINF:0, НТВ
+http://188.35.9.5:10007/stolen/141n/parasite.install
+#EXTINF:0,VIP Megahit
+http://188.35.9.5:10020/stolen/403x/hot.dll
+
+#EXTINF:0,VIP Premiere
+http://188.35.9.11:2013
+
+#EXTINF:0, TV1000
+http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8
+
 #EXTINF:0, TV1000 Action
 http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8
-#EXTINF:-0,3тнт
-http://50.7.180.53:8081/tnt/index.m3u8?wmsAuthSign=1573209263S90062d3ad030367379b5faac244c3c71S632h25h89h64
-#EXTINF:-0,4стс
-http://50.7.127.59:8081/sts_/index.m3u8?wmsAuthSign=489e97dd7a8c9234f5b21fed6a125cfa-1573101201-312i96i89i64
-#EXTINF:-0,5Paramount Comedy
-http://50.7.120.165:8081/paramount/index.m3u8?wmsAuthSign=2c73c318e6610400d7fbd9ca77a98b4e-1573210961-632i25i89i64
-#EXTINF:-0,6ТНТ4
-http://50.7.92.82:8081/tnt4/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggce9b91e31528bb360a56aa70f059a0cfbkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-0,7Дом кино
-http://50.7.92.82:8081/domkino/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg878843dd09d4b3a1aad3b61e971bc7bfbkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-0,8ЕвроКино
-http://50.7.180.53:8081/s4g_eurokino/index.m3u8?wmsAuthSign=1573209519Sd3ddbcb5eb6cfd1b5f097d3e768e36b5S632h25h89h64
-#EXTINF:-0,9НСТ
-http://50.7.92.82:8081/nst/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggcd3ff6ad72ffa7058f2a0ea033047e2ebkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-0,10TV1000
-http://195.138.68.94:8811/hls_get/239.34.83.141-.m3u8?md5=VNC-C7jsmfdCLET4E3k-Zg&expires=1573191322
-#EXTINF:-0,11TV1000 Action
-http://50.7.92.82:8081/tv1000action/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg1c0c381e0f2ab426e8b65eeb258ed52dbkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-0,12VIP Premiere HD
-http://50.7.92.82:8081/premiere/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg1cf60c2ce98a9d368eeea25c9c196af3bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1,13VIP Megahit HD
-http://50.7.92.82:8081/megahit/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg9984edd090893ac12d43fe882c788ad5bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-0,14VIP Comedy HD
-http://50.7.92.82:8081/comedy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg49ae8bfe8bb1a331ac681433de1cc14dbkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-0,15Шокирующее HD
-http://50.7.180.53:8081/s4g_shokiruyusche/index.m3u8?wmsAuthSign=1573209648S317280d7c576cfe71c1f809e06148055S632h25h89h64
-#EXTINF:-0,16 ТВ Кино
-http://50.7.180.53:8081/s4g_illyuzion_pl/index.m3u8?wmsAuthSign=1573209578S98eeff5d68ae94b91676fe189217f859S632h25h89h64
-#EXTINF:-0,17 Пятый Канал
-http://50.7.127.59:8081/5kanal/index.m3u8?wmsAuthSign=02a5ceac0446ef712cc433d1bc3a2a39-1573211093-632i25i89i64
 
+#EXTINF:0, TV1000 Русское кино
+http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8
+#EXTINF:0, FOX
+http://178.124.183.5/hls/CH_FOX/variant.m3u8
 
+#EXTINF:0, FOX Life
+http://178.124.183.5/hls/CH_FOXL/variant.m3u8
+#EXTINF:-1,Кинокомедия
+http://194.28.155.235:81/udp/225.0.55.39:1234
+#EXTINF:-1,Комедия
+http://194.28.155.235:81/udp/225.0.55.149:1234
+
+#EXTINF:-1,2х2
+http://194.28.155.235:81/udp/225.0.55.51:1234
+#EXTINF:-1,Sony Sci-Fi
+http://194.28.155.235:81/udp/225.0.55.73:1234
+#EXTINF:-1,Кино ТВ
+http://194.28.155.235:81/udp/225.0.56.4:1234
+#EXTINF:-1,Кинохит
+http://31.41.100.81:81/udp/225.0.56.97:1234
+#EXTINF:-1,НСТ
+http://194.28.155.235:81/udp/225.0.55.76:1234
