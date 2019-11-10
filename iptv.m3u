@@ -833,7 +833,10 @@ http://stream.radiovan.fm/stream/index.m3u8
 http://luyse.mediatriple.net/luystv/luystv1/Playlist.m3u8
 #EXTINF:-1,НСТ
 http://194.28.155.235:81/udp/225.0.55.76:1234
-#EXTINF:-1
+#EXTINF:-1,aaaaa
 http://127.0.0.1:6878/content/3f97a7492ccd090a465811cd44877c3aa0d4e542/0.722214118483
-#EXTINF:-1
-http://127.0.0.1:6878/content/b5a5c015519090a299855abdf3918517117d3d9f/0.420138075787
+#EXTINF:-1,bbbbb
+#EXTINF:-1, cccccc
+http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/chunklist.m3u8 
+
+http://127.0.0.1:6878/content/389d0d5de0c667a540a8f9867868f06c05e90998/0.908484862065
