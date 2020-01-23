@@ -1,11 +1,4 @@
-#EXTM3U
-#EXTINF:-1 ,Первый HD
-http://cn02.iptv.monster/play/73/2D6E866C992891C/video.m3u8
-#EXTINF:-1 ,Россия 1 HD
-http://cn02.iptv.monster/play/173/2D6E866C992891C/video.m3u8
-#EXTINF:-1 ,Россия 1
-http://cn02.iptv.monster/play/2/2D6E866C992891C/video.m3u8
-#EXTINF:-1 ,Россия-24
+
 http://cn02.iptv.monster/play/49/2D6E866C992891C/video.m3u8
 #EXTINF:-1 ,ТНТ HD
 http://cn02.iptv.monster/play/86/2D6E866C992891C/video.m3u8
