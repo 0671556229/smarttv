@@ -1,21 +1,117 @@
 #EXTM3U
-#EXTINF:0,1 НСТ
-http://178.124.183.14/hls/NEZVX5TVZX/bw2000000/playlist.m3u8
-#EXTINF:0,2 ДОМ КИНО
-https://s83.glaz.tv:8082/liveg/domkino.stream/chunks.m3u8?nimblesessionid=722744382&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIwIDE6MDg6MzUgUE0maGFzaF92YWx1ZT1iK05JUXYxWDNsM0hQdGxNUWwrNzdnPT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:0,3 КИНОКОМЕДИЯ
-http://163.172.143.78:8081/tv/kinocomedia/chunks.m3u8?nimblesessionid=5618136&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIwIDg6NDM6MDggQU0maGFzaF92YWx1ZT1PRkxpR2toVUZJMnVnLzZHQXl3Wm93PT0mdmFsaWRtaW51dGVzPTcyMA==
-#EXTINF:0,4 XX1
-http://163.172.180.208:8081/tv/tv-xxi/chunks.m3u8?nimblesessionid=22686136&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIwIDg6NDU6NDcgQU0maGFzaF92YWx1ZT11TXNqNldoYjUydnAwU0NILzM3OWRnPT0mdmFsaWRtaW51dGVzPTcyMA==
-#EXTINF:0,5 КАНАЛ
-http://stream2.kuvalda.tv/hls/5kanal.m3u8
-#EXTINF:0,НТВ
-http://stream2.kuvalda.tv/hls/ntv.m3u8
-#EXTINF:0,МУЖКОЕКИНО
-http://51.15.91.226:8081/tv/mughskoe-kino/chunks.m3u8?nimblesessionid=4345152&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIwIDg6NTM6MzAgQU0maGFzaF92YWx1ZT1ubm4vZ3dWY3dYaGo0R2xBaGhBN3ZnPT0mdmFsaWRtaW51dGVzPTcyMA==
-#EXTINF:0,ТНТ4
-http://51.15.78.140:8081/tv/tnt4/chunks.m3u8?nimblesessionid=19673905&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIwIDEwOjA4OjMzIEFNJmhhc2hfdmFsdWU9bXRtSFd6bWk5a2M4WnJ2eGFKNkdSUT09JnZhbGlkbWludXRlcz03MjA=
-#EXTINF:0,ICTV
-http://50.7.222.90:8081/112/index.m3u8?wmsAuthSign=bd3dcd4d9db8604a1f6ae2b3b7dd5791-1580482238-932i412i89i64
-#EXTINF:0,ctc
-http://stream2.kuvalda.tv/hls/sts.m3u8
+#EXTINF:-1, Amedia 2
+http://178.124.183.13/hls/H4DP5GK3AE/bw1200000/playlist.m3u8
+#EXTINF:-1, Amedia Premium HD
+http://178.124.183.5/hls/CH_AMEDIAPREMIUM/variant.m3u8?version=2
+#EXTINF:-1, Blue Hustler
+http://178.124.183.5/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#EXTINF:-1, BOLT
+http://178.124.183.5/hls/CH_BOLT/variant.m3u8?version=2
+#EXTINF:-1, Boomerang
+http://178.124.183.13/hls/JSQ2S6VQTE/bw1200000/playlist.m3u8
+#EXTINF:-1, Cartoon Network
+http://178.124.183.13/hls/CNVX7JRQJI/bw1200000/playlist.m3u8
+#EXTINF:-1, FILM TV HD
+http://195.9.195.3:8080/manifest/165462_master.m3u8
+#EXTINF:-1, FOX
+http://178.124.183.4:80/hls/CH_FOX/variant.m3u8
+#EXTINF:-1, FOX
+http://178.124.183.13/hls/CH_FOX/bw1200000/playlist.m3u8
+#EXTINF:-1, FOX
+http://178.124.183.5/hls/CH_FOX/variant.m3u8?version=2
+#EXTINF:-1, FOX Life
+http://178.124.183.5/hls/CH_FOXL/variant.m3u8?version=2
+#EXTINF:-1, FOX Life
+http://178.124.183.4:80/hls/CH_FOXL/variant.m3u8
+#EXTINF:-1, FOX Life
+http://178.124.183.13/hls/CH_FOXL/bw1200000/playlist.m3u8
+#EXTINF:-1, History
+http://178.124.183.13/hls/CH_HISTORY/bw1200000/playlist.m3u8
+#EXTINF:-1, Nat Geo Wild
+http://178.124.183.13/hls/ESCMSBZJ8X/bw1200000/playlist.m3u8
+#EXTINF:-1, National Geographic
+http://178.124.183.13/hls/CH_NATGEO/bw1200000/playlist.m3u8
+#EXTINF:-1, Set HD
+http://178.124.183.4:80/hls/VPRSUR2WN2/variant.m3u8
+#EXTINF:-1, Sony Channel HD
+http://178.124.183.5/hls/VPRSUR2WN2/variant.m3u8?version=2
+#EXTINF:-1, Sony SciFi
+http://178.124.183.13/hls/EDVYQYGHF8/bw1200000/playlist.m3u8
+#EXTINF:-1, Sony SciFi
+http://178.124.183.4:80/hls/EDVYQYGHF8/variant.m3u8
+#EXTINF:-1, Sony Sci-Fi
+http://178.124.183.5/hls/EDVYQYGHF8/variant.m3u8?version=2
+#EXTINF:-1, STAR CINEMA
+http://178.124.183.5/hls/CH_STARCINEMA/variant.m3u8?version=2
+#EXTINF:-1, STAR FAMILY
+http://178.124.183.5/hls/CH_FAMILY/variant.m3u8?version=2
+#EXTINF:-1, TV1000
+http://178.124.183.13/hls/6WMZMUEWGN/bw1200000/playlist.m3u8
+#EXTINF:-1, TV1000
+http://178.124.183.4:80/hls/6WMZMUEWGN/variant.m3u8
+#EXTINF:-1, TV1000
+http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8?version=2
+#EXTINF:-1, TV1000 Action
+http://178.124.183.4:80/hls/9X9NUEEKGW/variant.m3u8
+#EXTINF:-1, TV1000 Action
+http://178.124.183.13/hls/9X9NUEEKGW/bw1200000/playlist.m3u8
+#EXTINF:-1, TV1000 Action
+http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8?version=2
+#EXTINF:-1, TV1000 Premium HD
+http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+#EXTINF:-1, TV1000 Русское кино
+http://178.124.183.13/hls/PWIKICZUYF/bw1200000/playlist.m3u8
+#EXTINF:-1, TV1000 Русское кино
+http://178.124.183.4:80/hls/PWIKICZUYF/variant.m3u8
+#EXTINF:-1, TV1000 Русское кино
+http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8?version=2
+#EXTINF:-1, U.HD
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF:-1, Viasat Explore
+http://178.124.183.13/hls/JQQ83OBHTQ/bw1200000/playlist.m3u8
+#EXTINF:-1, Viasat Nature
+http://178.124.183.13/hls/BN3FTDY3T8/bw1200000/playlist.m3u8
+#EXTINF:-1, Детский Мир/Телеклуб
+http://178.124.183.13/hls/9F67L3DGIF/bw1200000/playlist.m3u8
+#EXTINF:-1, Еврокино
+http://178.124.183.13/hls/JEDUS3FS7V/bw1200000/playlist.m3u8
+#EXTINF:-1, Индийское кино
+http://178.124.183.5/hls/CH_INDIYATV/variant.m3u8?version=2
+#EXTINF:-1, КиноМикс
+http://178.124.183.13/hls/VVG76MWUGX/bw1200000/playlist.m3u8
+#EXTINF:-1, Кинопремьера HD
+http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8?version=2
+#EXTINF:-1, Киносемья
+http://178.124.183.5/hls/FEDXG8XPOR/variant.m3u8?version=2
+#EXTINF:-1, Кинохит
+http://178.124.183.13/hls/HDOHSSZQCP/bw1200000/playlist.m3u8
+#EXTINF:-1, Классика кино
+http://serv25.vintera.tv:8081/klasskino/k_kino/chunks.m3u8
+#EXTINF:-1, Мужское кино
+http://178.124.183.5/hls/W7LNWHFGTB/variant.m3u8?version=2
+#EXTINF:-1, Мужское кино
+http://178.124.183.4:80/hls/W7LNWHFGTB/variant.m3u8
+#EXTINF:-1, Мужское кино
+http://178.124.183.13/hls/W7LNWHFGTB/bw1200000/playlist.m3u8
+#EXTINF:-1, Мульт
+http://178.124.183.13/hls/5MWF7XUWZI/bw1200000/playlist.m3u8
+#EXTINF:-1, Наше Новое Кино
+http://178.124.183.13/hls/UVPWPN2KTN/bw1200000/playlist.m3u8
+#EXTINF:-1, Ностальгия
+http://178.124.183.13/hls/SWPQU2UFKD/bw1200000/playlist.m3u8
+#EXTINF:-1, НСТ
+http://178.124.183.5/hls/NEZVX5TVZX/variant.m3u8?version=2
+#EXTINF:-1, НСТ
+http://178.124.183.13/hls/NEZVX5TVZX/bw1200000/playlist.m3u8
+#EXTINF:-1, НСТ
+http://178.124.183.4:80/hls/NEZVX5TVZX/variant.m3u8
+#EXTINF:-1, Русский Иллюзион
+http://178.124.183.13/hls/CMV4SNACFQ/bw1200000/playlist.m3u8
+#EXTINF:-1, Русский Иллюзион
+http://178.124.183.4:80/hls/CMV4SNACFQ/variant.m3u8
+#EXTINF:-1, Русский Роман
+http://188.35.9.11:11159/i
+#EXTINF:-1, ТВ 3
+http://178.124.183.13/hls/KLQQ9ECGSQ/bw1200000/playlist.m3u8
+#EXTINF:-1, Шокирующее HD
+http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&amp;p=87e0c783e9b31451
