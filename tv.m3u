@@ -2,18 +2,20 @@
 #EXTINF:0,1 НСТ
 http://178.124.183.14/hls/NEZVX5TVZX/bw2000000/playlist.m3u8
 #EXTINF:0,2 ДОМ КИНО
-http://163.172.180.138:8081/tv/dom-kino/chunks.m3u8?nimblesessionid=16832092&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIwIDg6NDI6MTIgQU0maGFzaF92YWx1ZT1rVUlzQVlORm5BTW9rdFhVV0toOEJnPT0mdmFsaWRtaW51dGVzPTcyMA==
+https://s83.glaz.tv:8082/liveg/domkino.stream/chunks.m3u8?nimblesessionid=722744382&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIwIDE6MDg6MzUgUE0maGFzaF92YWx1ZT1iK05JUXYxWDNsM0hQdGxNUWwrNzdnPT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:0,3 КИНОКОМЕДИЯ
 http://163.172.143.78:8081/tv/kinocomedia/chunks.m3u8?nimblesessionid=5618136&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIwIDg6NDM6MDggQU0maGFzaF92YWx1ZT1PRkxpR2toVUZJMnVnLzZHQXl3Wm93PT0mdmFsaWRtaW51dGVzPTcyMA==
 #EXTINF:0,4 XX1
 http://163.172.180.208:8081/tv/tv-xxi/chunks.m3u8?nimblesessionid=22686136&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIwIDg6NDU6NDcgQU0maGFzaF92YWx1ZT11TXNqNldoYjUydnAwU0NILzM3OWRnPT0mdmFsaWRtaW51dGVzPTcyMA==
 #EXTINF:0,5 КАНАЛ
-http://163.172.180.208:8081/tv/5-kanal/chunks.m3u8?nimblesessionid=22686181&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIwIDg6NDk6MzEgQU0maGFzaF92YWx1ZT1wKzczWnp3cEluWjlKc0dYUnJXRlF3PT0mdmFsaWRtaW51dGVzPTcyMA==
+http://stream2.kuvalda.tv/hls/5kanal.m3u8
 #EXTINF:0,НТВ
-http://51.15.71.196:8081/tv/ntv/chunks.m3u8?nimblesessionid=7328646&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIwIDg6NTE6MTggQU0maGFzaF92YWx1ZT1TUzFTZmYxL0oycFRsV3hDamQ3SDFBPT0mdmFsaWRtaW51dGVzPTcyMA==
+http://stream2.kuvalda.tv/hls/ntv.m3u8
 #EXTINF:0,МУЖКОЕКИНО
 http://51.15.91.226:8081/tv/mughskoe-kino/chunks.m3u8?nimblesessionid=4345152&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIwIDg6NTM6MzAgQU0maGFzaF92YWx1ZT1ubm4vZ3dWY3dYaGo0R2xBaGhBN3ZnPT0mdmFsaWRtaW51dGVzPTcyMA==
 #EXTINF:0,ТНТ4
 http://51.15.78.140:8081/tv/tnt4/chunks.m3u8?nimblesessionid=19673905&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIwIDEwOjA4OjMzIEFNJmhhc2hfdmFsdWU9bXRtSFd6bWk5a2M4WnJ2eGFKNkdSUT09JnZhbGlkbWludXRlcz03MjA=
 #EXTINF:0,ICTV
 http://50.7.222.90:8081/112/index.m3u8?wmsAuthSign=bd3dcd4d9db8604a1f6ae2b3b7dd5791-1580482238-932i412i89i64
+#EXTINF:0,ctc
+http://stream2.kuvalda.tv/hls/sts.m3u8
