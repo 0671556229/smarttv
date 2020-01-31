@@ -14,6 +14,6 @@ http://51.15.71.196:8081/tv/ntv/chunks.m3u8?nimblesessionid=7328646&wmsAuthSign=
 #EXTINF:0,МУЖКОЕКИНО
 http://51.15.91.226:8081/tv/mughskoe-kino/chunks.m3u8?nimblesessionid=4345152&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIwIDg6NTM6MzAgQU0maGFzaF92YWx1ZT1ubm4vZ3dWY3dYaGo0R2xBaGhBN3ZnPT0mdmFsaWRtaW51dGVzPTcyMA==
 #EXTINF:0,ТНТ4
-http://50.7.222.90:8081/tnt_com/2020/01/31/10/01/38-05000.ts?wmsAuthSign=0347e3e7e1f1c488e68c116da61e44c5-1580482877-932i412i89i64
+http://51.15.78.140:8081/tv/tnt4/chunks.m3u8?nimblesessionid=19673905&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIwIDEwOjA4OjMzIEFNJmhhc2hfdmFsdWU9bXRtSFd6bWk5a2M4WnJ2eGFKNkdSUT09JnZhbGlkbWludXRlcz03MjA=
 #EXTINF:0,ICTV
 http://50.7.222.90:8081/112/index.m3u8?wmsAuthSign=bd3dcd4d9db8604a1f6ae2b3b7dd5791-1580482238-932i412i89i64
