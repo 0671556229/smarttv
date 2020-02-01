@@ -117,3 +117,6 @@ http://178.124.183.13/hls/KLQQ9ECGSQ/bw1200000/playlist.m3u8
 http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&amp;p=87e0c783e9b31451
 #EXTINF:0,ТНТ4
 http://127.0.0.1:6878/hls/r/08ac9b0e19a1ead1359837f0e86a1c584c118abc/43555b19a16d9ecdf85d4b7ce83290fc.m3u8
+#EXTINF:0,кино тв
+http://50.7.222.90:8081/tv_kino/index.m3u8?wmsAuthSign=7bb2834265bf45b63d4ee7b8aa328c7e-1580580500-832i24i89i64
+
