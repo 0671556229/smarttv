@@ -1,21 +1,89 @@
-#EXTM3U
-#EXTINF:-1,Пятый канал
-https://sr2.24tv.org:30443/hls/5tv/chunks.m3u8?nimblesessionid=176314&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6Mjk6MjYgQU0maGFzaF92YWx1ZT1hWGZGeDNsSGF3Tk83UVhWUzRONzN3PT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1,НТВ
-https://sr4.24tv.org:30443/hls/ntv/chunks.m3u8?nimblesessionid=335467&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6MzM6MDQgQU0maGFzaF92YWx1ZT1ucTF6Y3FBYmdmS003RmJWam9vVU9RPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1,РЕН ТВ
-https://sr4.24tv.org:30443/hls/ren/chunks.m3u8?nimblesessionid=335589&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6MzU6MzEgQU0maGFzaF92YWx1ZT1YMVpLYmlPc1RnSklkRzN1UC9wWE5BPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1,КИНОМИКС
-http://163.172.180.208:8081/tv/kinomix/chunks.m3u8?nimblesessionid=22742982&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTE6Mzg6NDkgQU0maGFzaF92YWx1ZT1aT3FHNW9EbFRkNlgzY1NkeW0rbGdBPT0mdmFsaWRtaW51dGVzPTcyMA==
-#EXTINF:-1,КИНО ТВ
-http://51.158.65.13:8081/tv/kino-tv/chunks.m3u8?nimblesessionid=4942018&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6NTE6MzUgQU0maGFzaF92YWx1ZT1pRENpcFhGWWRZeEtyalZCVVhJVWVBPT0mdmFsaWRtaW51dGVzPTcyMA==
-#EXTINF:-1,TV1000
-http://163.172.180.208:8081/tv/tv1000/chunks.m3u8?nimblesessionid=22744990&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTI6NTY6NDcgUE0maGFzaF92YWx1ZT1nQTM4V2Vvb2hHK0xJeDVybVhMK3hBPT0mdmFsaWRtaW51dGVzPTcyMA==
-#EXTINF:-1,кинокомедия
-http://50.7.231.220:8081/129/index.m3u8?wmsAuthSign=1580666437p82i21i89i64S109cd46ec2e8c8e24becd163fc5dea20
-#EXTINF:-1,ictv
-http://50.7.231.220:8081/103/index.m3u8?wmsAuthSign=1580666510p82i21i89i64S0d63b46a1d53e73dd7bbe83fafe831fc
-#EXTINF:-1,домкино
-http://50.7.172.58:8081/555/index.m3u8?wmsAuthSign=1580666575p82i21i89i64S6ec41d4c661923cdecca83d11cc76b8f
-#EXTINF:-1,ЕВРОКИНО
-http://163.172.180.208:8081/tv/evrokino/chunks.m3u8?nimblesessionid=22745207&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTowNDo1MiBQTSZoYXNoX3ZhbHVlPUMzc1F4ekIzMnJxSUZ4eUJtRk0xZnc9PSZ2YWxpZG1pbnV0ZXM9NzIw
+﻿#EXTM3U
+#EXTINF:-1 ,Беларусь 1
+http://s2.mnogotv.club:4444/hd/bel1HD/index.m3u8
+#EXTINF:-1 ,Беларусь 2
+http://s2.mnogotv.club:4444/hd/bel2HD/index.m3u8
+#EXTINF:-1 ,Беларусь 3
+http://s2.mnogotv.club:4444/hd/bel3HD/index.m3u8
+#EXTINF:-1,ТВ 3 Minsk
+http://s2.mnogotv.club:4444/sd/TV3MINSK/index.m3u8
+#EXTINF:-1,ВТВ
+http://s2.mnogotv.club:4444/sd/VTV/index.m3u8
+#EXTINF:-1,Яснае
+http://s2.mnogotv.club:4444/sd/jasnoetv/index.m3u8
+#EXTINF:-1,ТНТ international
+http://s2.mnogotv.club:4444/sd/TNTINT/index.m3u8
+#EXTINF:-1 ,Перец Int
+http://s2.mnogotv.club:4444/sd/PEREZ/index.m3u8
+#EXTINF:-1 ,8 канал (Беларусь)
+http://s2.mnogotv.club:4444/hd/8channelHD/index.m3u8
+#EXTINF:-1,+TV
+http://s2.mnogotv.club:4444/sd/plusTV/index.m3u8
+#EXTINF:-1,+TV 3 LV
+http://s2.mnogotv.club:4444/sd/3plus_LV/index.m3u8
+#EXTINF:-1 ,Супер
+http://s2.mnogotv.club:4444/sd/Super/index.m3u8
+#EXTINF:-1,Анекдот ТВ
+http://s2.mnogotv.club:4444/sd/ANEKDOT/index.m3u8
+#EXTINF:-1 ,Euronews
+http://s2.mnogotv.club:4444/sd/Euronews/index.m3u8
+#EXTINF:-1 ,Boomerang
+http://s2.mnogotv.club:4444/sd/Boomerang/index.m3u8
+#EXTINF:-1 ,В гостях у сказки
+http://s2.mnogotv.club:4444/sd/VGOSTYAH/index.m3u8
+#EXTINF:-1,Nicktoons
+http://s2.mnogotv.club:4444/sd/Nicktoons/index.m3u8
+#EXTINF:-1,Disney Channel EU
+http://s2.mnogotv.club:4444/sd/DisneyEU/index.m3u8
+#EXTINF:-1,Disney Junior EU
+http://s2.mnogotv.club:4444/sd/DisneyJuniorEU/index.m3u8
+#EXTINF:-1,Disney XD EU
+http://s2.mnogotv.club:4444/sd/DisneyXD/index.m3u8
+#EXTINF:-1 ,FAN HD
+http://s2.mnogotv.club:4444/hd/FANHD/index.m3u8
+#EXTINF:-1,Советские мультфильмы HD
+http://s2.mnogotv.club:4444/hd/sovmultHD/index.m3u8
+#EXTINF:-1,Fantasy TV ( test )
+http://mnogotv.club/hls/Fantasyn/index.m3u8
+#EXTINF:-1,KIDS TV( test )
+http://mnogotv.club/hls/kids/index.m3u8
+#EXTINF:-1,Кинозал UHD 4K( test )
+http://mnogotv.club/hls/channel-5/index.m3u8
+#EXTINF:-1 ,Ultra HD Cinema 4K
+http://s2.mnogotv.club:4444/hd/ULTRAHDCINEMA/index.m3u8
+#EXTINF:-1,Советское кино HD
+http://s2.mnogotv.club:4444/hd/sovkinoHD/index.m3u8
+#EXTINF:-1,Star Cinema
+http://s2.mnogotv.club:4444/sd/StarCinema/index.m3u8
+#EXTINF:-1,Болт
+http://s2.mnogotv.club:4444/sd/BOLT/index.m3u8
+#EXTINF:-1,Film.Ua Drama
+http://s2.mnogotv.club:4444/sd/FILMUADRAMA/index.m3u8
+#EXTINF:-1 ,НТВ Хит
+http://s2.mnogotv.club:4444/sd/ntvhit/index.m3u8
+#EXTINF:-1 ,Sony Channel HD
+http://s2.mnogotv.club:4444/hd/SonyHD/index.m3u8
+#EXTINF:-1,3 FILM HD
+http://s2.mnogotv.club:4444/hd/3FILMHD/index.m3u8
+#EXTINF:-1,Epic Drama HD
+http://s2.mnogotv.club:4444/hd/EpicDramaHD/index.m3u8
+#EXTINF:-1,Поехали!
+http://s2.mnogotv.club:4444/sd/POEHALY/index.m3u8
+#EXTINF:-1 ,LOVE NATURE 4K test
+http://s2.mnogotv.club:4444/hd/LOVENATURE4K/index.m3u8
+#EXTINF:-1 ,Eurosport 4K
+http://s2.mnogotv.club:4444/hd/Eurosport4K/index.m3u8
+#EXTINF:-1 ,Russian Extreme 4K
+http://s2.mnogotv.club:4444/hd/RussianExtreme4K/index.m3u8
+#EXTINF:-1 ,Футбол
+http://s2.mnogotv.club:4444/sd/futbol/index.m3u8
+#EXTINF:-1,Беларусь 5 HD
+http://s2.mnogotv.club:4444/hd/BT5HD/index.m3u8
+#EXTINF:-1 ,М-1 Глобал
+http://s2.mnogotv.club:4444/sd/M1/index.m3u8
+#EXTINF:-1 ,Моторспорт.ТВ
+http://s2.mnogotv.club:4444/sd/motosport/index.m3u8
+#EXTINF:-1 ,Спорт 2
+http://s2.mnogotv.club:4444/sd/sport2/index.m3u8
+#EXTINF:-1,БелМуз ТВ
+http://s2.mnogotv.club:4444/sd/BELMUZ/index.m3u8
