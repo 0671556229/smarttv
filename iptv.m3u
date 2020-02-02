@@ -1,12 +1,2497 @@
-#EXTM3U
-#EXTINF:-1,Пятый канал
-https://sr2.24tv.org:30443/hls/5tv/chunks.m3u8?nimblesessionid=176314&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6Mjk6MjYgQU0maGFzaF92YWx1ZT1hWGZGeDNsSGF3Tk83UVhWUzRONzN3PT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1,НТВ
-https://sr4.24tv.org:30443/hls/ntv/chunks.m3u8?nimblesessionid=335467&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6MzM6MDQgQU0maGFzaF92YWx1ZT1ucTF6Y3FBYmdmS003RmJWam9vVU9RPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1,РЕН ТВ
-https://sr4.24tv.org:30443/hls/ren/chunks.m3u8?nimblesessionid=335589&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6MzU6MzEgQU0maGFzaF92YWx1ZT1YMVpLYmlPc1RnSklkRzN1UC9wWE5BPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1,КИНОМИКС
-http://163.172.180.208:8081/tv/kinomix/chunks.m3u8?nimblesessionid=22742982&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTE6Mzg6NDkgQU0maGFzaF92YWx1ZT1aT3FHNW9EbFRkNlgzY1NkeW0rbGdBPT0mdmFsaWRtaW51dGVzPTcyMA==
-#EXTINF:-1,КИНО ТВ
-http://51.158.65.13:8081/tv/kino-tv/chunks.m3u8?nimblesessionid=4942018&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6NTE6MzUgQU0maGFzaF92YWx1ZT1pRENpcFhGWWRZeEtyalZCVVhJVWVBPT0mdmFsaWRtaW51dGVzPTcyMA==
-#EXTINF:-1,
+ ﻿#EXTM3U
+#EXTINF:-1 group-title="Новости",1+1
+http://188.35.9.11:2001
+#EXTINF:-1 group-title="Новости",1+1
+http://stream2g03-f23.ovva.tv/227022/smil:227022.smil/playlist.m3u8
+#EXTINF:-1 group-title="Новости",1+1 HD
+http://193.33.39.106:8783
+#EXTINF:-1 group-title="Новости",1+1 HD
+https://live-k2302-kbp.1plus1.video/184723/smil:184723.smil/chunklist_b4628000.m3u8
+#EXTINF:-1 group-title="Новости",1 1 INTERNATIONAL
+http://188.35.9.26:2050/udp/238.0.2.1:69000
+#EXTINF:-1 group-title="Новости",1 1 INTERNATIONAL
+http://188.35.9.26:2051/udp/238.0.2.1:69000
+#EXTINF:-1 group-title="Новости",1+1 INTERNATIONAL
+https://live-k2302-kbp.1plus1.video/227022/smil:227022.smil/chunklist_b2928000.m3u8
+#EXTINF:-1 group-title="Новости",1+1 INTERNATIONAL
+https://live-k2304-kbp.1plus1.video/227022/smil:227022.smil/chunklist_b2928000.m3u8
+#EXTINF:-1 group-title="Новости",1PLUS1 INTERNATIONAL
+https://live-k2302-kbp.1plus1.video/227022/smil:227022.smil/playlist.m3u8
+#EXTINF:-1 group-title="Новости",CDM INTERNATIONAL
+https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w815796812.m3u8
+#EXTINF:-1 group-title="Новости",INTERNATIONAL
+https://sc.id-tv.kz/RenTV_38_39.m3u8
+#EXTINF:-1 group-title="Кино",2+2
+http://109.95.47.229:809/2+2/index.m3u8
+#EXTINF:-1 group-title="Кино",2+2
+http://193.107.128.15:9000/2+2/index.m3u8
+#EXTINF:-1 group-title="Кино",2+2
+https://live-k2301-kbp.1plus1.video/361665/smil:361665.smil/playlist.m3u8
+#EXTINF:-1 group-title="Кино",2+2
+https://live-k2310-kbp.1plus1.video/361665/smil:361665.smil/chunklist_b2928000.m3u8
+#EXTINF:-1 group-title="Кино",2+2
+https://live-k2302-kbp.1plus1.video/361665/smil:361665.smil/chunklist_b2928000.m3u8
+#EXTINF:-1 group-title="Кино",2+2
+https://live-k2310-kbp.1plus1.video/361665/smil:361665.smil/chunklist_b700000.m3u8
+#EXTINF:-1 group-title="Новости",12 КАНАЛ
+http://12channel.bonus-tv.ru/stream549837052987/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Новости",12 КАНАЛ
+https://12channel.bonus-tv.ru/stream549837052987/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Новости",24 KANAL UA
+http://188.35.9.12:21121/udp/152p
+#EXTINF:-1 group-title="Новости",24 КАНАЛ
+http://streamvideol1.luxnet.ua/Новости24/smil:Новости24.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Новости",24 КАНАЛ HD
+http://188.35.9.26:5031/udp/115g
+#EXTINF:-1 group-title="Новости",24 КАНАЛ HD
+http://streamvideol1.luxnet.ua/Новости24/smil:Новости24.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Новости",24 КАНАЛ SD
+http://streamvideol1.luxnet.ua/Новости24/smil:Новости24.stream.smil/chunklist_b386000.m3u8
+#EXTINF:-1 group-title="Новости",28 KANALA
+https://5940924978228.streamlock.net/8157/8157/.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Познавательные",24 ТЕХНО
+http://217.25.216.4:8085/udp/225.1.2.153:2020
+#EXTINF:-1 group-title="Познавательные",24 ТЕХНО
+http://185.184.233.174:5000/udp/225.1.2.81:1234
+#EXTINF:-1 group-title="Познавательные",24 ТЕХНО
+http://178.163.18.154:4022/udp/234.0.0.247:2000
+#EXTINF:-1 group-title="Развлекательные",2X2 (+2)
+http://5.59.200.247:81/udp/239.72.6.72:1234
+#EXTINF:-1 group-title="Развлекательные",2X2 (+4)
+http://185.184.233.174:5000/udp/225.1.2.30:1234
+#EXTINF:-1 group-title="Развлекательные",2X2
+http://46.180.99.15:81/udp/239.255.42.29:1234
+#EXTINF:-1 group-title="Развлекательные",2X2
+http://188.242.237.246:65535/udp/239.239.3.3:5239
+#EXTINF:-1 group-title="Развлекательные",2X2
+http://188.242.199.174:81/udp/239.239.3.3:5239
+#EXTINF:-1 group-title="Развлекательные",2X2
+http://188.35.9.5:10020/stolen/427r/hot.dll
+#EXTINF:-1 group-title="Развлекательные",2X2
+http://178.163.18.154:4022/udp/234.0.0.244:2000
+#EXTINF:-1 group-title="Развлекательные",2X2
+http://178.163.58.72:4022/udp/234.0.0.244:2000
+#EXTINF:-1 group-title="Кино",A-MEDIA 1 HD
+http://5.59.200.247:81/udp/239.72.4.62:1234
+#EXTINF:-1 group-title="Кино",A-MEDIA HIT
+http://178.163.109.216:34040/udp/234.0.0.169:2000
+#EXTINF:-1 group-title="Кино",A-MEDIA HIT
+http://178.163.87.28:4022/udp/234.0.0.169:2000
+#EXTINF:-1 group-title="Кино",A-MEDIA HIT HD
+http://78.111.93.102:53022/udp/233.166.172.254:1234
+#EXTINF:-1 group-title="Кино",AMEDIA 1
+http://217.25.216.4:8085/udp/225.1.2.109:2020
+#EXTINF:-1 group-title="Кино",AMEDIA 1
+http://178.163.18.154:4022/udp/234.0.0.155:2000
+#EXTINF:-1 group-title="Кино",AMEDIA 2
+http://217.25.216.4:8085/udp/225.1.2.110:2020
+#EXTINF:-1 group-title="Кино",AMEDIA 2
+http://89.106.234.3/A2_36_37.m3u8
+#EXTINF:-1 group-title="Кино",AMEDIA 2
+http://182.73.122.74:10000/bysid/306
+#EXTINF:-1 group-title="Кино",AMEDIA 2
+http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1 group-title="Кино",AMEDIA HIT
+http://178.163.1.77:4022/udp/234.0.0.169:2000
+#EXTINF:-1 group-title="Кино",AMEDIA HIT
+http://178.163.18.154:4022/udp/234.0.0.169:2000
+#EXTINF:-1 group-title="Кино",AMEDIA HIT
+http://178.163.58.72:4022/udp/234.0.0.169:2000
+#EXTINF:-1 group-title="Кино",AMEDIA HIT
+http://217.25.216.4:8085/udp/238.2.18.120:1234
+#EXTINF:-1 group-title="Кино",AMEDIA HIT HD
+https://rt-cache1.peers.tv/streaming/amedia_hit/16/variable.m3u8
+#EXTINF:-1 group-title="Кино",AMEDIA HIT HD
+http://217.25.216.4:8085/udp/225.1.2.111:2020
+#EXTINF:-1 group-title="Кино",A-MEDIA PREMIUM
+http://178.163.117.112:4022/udp/234.0.0.209:2000
+#EXTINF:-1 group-title="Кино",A-MEDIA PREMIUM HD
+http://5.59.200.247:81/udp/239.72.6.48:1234
+#EXTINF:-1 group-title="Кино",AMEDIA PREMIUM
+http://178.163.32.6:81/udp/234.0.0.209:2000
+#EXTINF:-1 group-title="Кино",AMEDIA PREMIUM
+http://178.163.58.72:4022/udp/234.0.0.209:2000
+#EXTINF:-1 group-title="Кино",AMEDIA PREMIUM HBO
+http://178.163.18.154:4022/udp/234.0.0.209:2000
+#EXTINF:-1 group-title="Кино",AMEDIA PREMIUM HD
+http://217.25.216.4:8085/udp/238.2.16.187:1234
+#EXTINF:-1 group-title="Кино",AMEDIA PREMIUM HD
+http://217.25.216.4:8085/udp/225.1.2.112:2020
+#EXTINF:-1 group-title="Кино",AMEDIA PREMIUM HD
+http://188.35.9.11:21031/udp/035c
+#EXTINF:-1 group-title="Кино",АМЕДИА 1
+http://178.163.43.72:4022/udp/234.0.0.155:2000
+#EXTINF:-1 group-title="Кино",АМЕДИА 1
+http://37.195.247.86:81/udp/239.1.4.4:1234
+#EXTINF:-1 group-title="Кино",АМЕДИА 1
+http://178.163.58.72:4022/udp/234.0.0.155:2000
+#EXTINF:-1 group-title="Познавательные",ANIMAL PLANET
+http://37.194.55.105:81/udp/239.1.5.3:1234
+#EXTINF:-1 group-title="Познавательные",ANIMAL PLANET
+http://178.163.58.72:4022/udp/234.0.0.97:2000
+#EXTINF:-1 group-title="Познавательные",ANIMAL PLANET
+http://178.49.77.88:3371/udp/239.1.5.3:1234
+#EXTINF:-1 group-title="Познавательные",ANIMAL PLANET
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Познавательные",ANIMAL PLANET
+http://37.195.247.86:81/udp/239.1.5.3:1234
+#EXTINF:-1 group-title="Познавательные",ANIMAL PLANET
+http://182.73.122.74:10004/bysid/1112
+#EXTINF:-1 group-title="Познавательные",ANIMAL PLANET (CST)
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1 group-title="Познавательные",ANIMAL PLANET HD
+http://91.123.82.10:81/udp/239.1.11.3:1234
+#EXTINF:-1 group-title="Познавательные",ANIMAL PLANET HD
+http://217.25.216.4:8085/udp/225.1.2.4:2020
+#EXTINF:-1 group-title="Познавательные",ANIMAL PLANET HD
+http://217.25.216.4:8085/udp/238.2.16.175:1234
+#EXTINF:-1 group-title="Познавательные",ANIMAL PLANET
+http://46.49.25.122:9001/udp/224.100.1.79:1079
+#EXTINF:-1 group-title="Познавательные",ANIMAL PLANET РОССИЯ
+http://217.25.216.4:8085/udp/225.1.2.3:2020
+#EXTINF:-1 group-title="Новости",ATR
+http://78.26.147.80:9981/stream/channelid/1192482018?ticket=CED0C4DABF37F9491A4AF15D2C41A8A6EF0CEB52&profile=pass
+#EXTINF:-1 group-title="Новости",ATR
+https://cdnua01.hls.tv/hls/f656cabfabc76f85eb594e6bf6094df0/3936/stream.m3u8
+#EXTINF:-1 group-title="Новости",ATR
+http://stream.atr.ua/atr/live/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Новости",ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1 group-title="Новости",LA TR3
+https://59ef7ad665d1d.streamlock.net:1443/eslife/_definst_/eslife/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Познавательные",AVTO24
+http://185.184.233.174:5000/udp/225.1.2.138:1234
+#EXTINF:-1 group-title="Познавательные",АВТО 24
+http://178.163.127.249:81/udp/234.0.0.227:2000
+#EXTINF:-1 group-title="Познавательные",АВТО 24
+http://217.25.216.4:8085/udp/225.1.2.57:2020
+#EXTINF:-1 group-title="Познавательные",АВТО 24
+http://tv.ttk.mx:9031
+#EXTINF:-1 group-title="Познавательные",АВТО 24
+http://188.35.9.5:10016/stolen/304n/onehalf.cab
+#EXTINF:-1 group-title="Познавательные",АВТО 24
+http://85.15.88.189:4022/udp/238.0.2.50:1234
+#EXTINF:-1 group-title="Познавательные",АВТО 24
+http://195.14.45.212:4000/udp/233.33.221.29:5050
+#EXTINF:-1 group-title="Познавательные",АВТО 24
+http://178.163.12.60:4022/udp/234.0.0.227:2000
+#EXTINF:-1 group-title="Познавательные",АВТО 24
+http://178.163.58.72:4022/udp/234.0.0.227:2000
+#EXTINF:-1 group-title="Познавательные",АВТО 24
+http://37.235.150.138:81/udp/225.50.64.27:1234
+#EXTINF:-1 group-title="Познавательные",АВТО 24
+http://178.163.18.154:4022/udp/234.0.0.227:2000
+#EXTINF:-1 group-title="Познавательные",PAT PLUS
+https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/chunklist.m3u8
+#EXTINF:-1 group-title="Познавательные",TVPLUS
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:-1 group-title="Познавательные",АВТО ПЛЮС
+http://217.25.216.4:8085/udp/225.1.2.58:2020
+#EXTINF:-1 group-title="Познавательные",АВТО ПЛЮС
+http://176.114.192.51:9988/udp/239.255.11.97:1234
+#EXTINF:-1 group-title="Познавательные",АВТО ПЛЮС
+http://178.49.77.88:3371/udp/239.1.2.6:1234
+#EXTINF:-1 group-title="Познавательные",АВТО ПЛЮС
+http://185.184.233.174:5000/udp/225.1.2.177:1234
+#EXTINF:-1 group-title="Познавательные",АВТО ПЛЮС
+http://185.184.233.174:5000/udp/225.1.2.177:1234?zona-iptv.ru
+#EXTINF:-1 group-title="Познавательные",АВТО ПЛЮС
+https://rt-cache1.peers.tv/streaming/auto_plus/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",АВТО ПЛЮС
+http://46.180.99.15:81/udp/239.255.42.25:1234
+#EXTINF:-1 group-title="Новости",BBC WORLD Новости
+http://2.92.160.55:4022/udp/233.33.210.16:5050
+#EXTINF:-1 group-title="Новости",BBC WORLD Новости
+http://195.142.109.181:8013
+#EXTINF:-1 group-title="Новости",BBC WORLD Новости
+http://128.69.251.143:4022/udp/233.33.210.16:5050
+#EXTINF:-1 group-title="Новости",BBC WORLD Новости
+http://46.49.25.122:9001/udp/224.100.1.134:1134
+#EXTINF:-1 group-title="Новости",BBC WORLD Новости
+http://213.252.252.17/live/eds/BBC/HLS_encr/BBC.m3u8
+#EXTINF:-1 group-title="Новости",BBC WORLD Новости (EN)
+http://51.52.156.22:8888/http/004
+#EXTINF:-1 group-title="Новости",BBC WORLD Новости GB
+http://178.22.107.67:7000/play/BBCWorldНовостиGB
+#EXTINF:-1 group-title="Новости",BELARUS 24
+http://tv.ttk.mx:9090
+#EXTINF:-1 group-title="Новости",BELARUS 24
+http://176.114.192.51:9988/udp/239.255.11.35:1234
+#EXTINF:-1 group-title="Новости",БЕКЛАРУСЬ 24
+http://178.163.50.209:4022/udp/234.0.0.199:2000
+#EXTINF:-1 group-title="Новости",БЕЛАРУСЬ 24
+http://178.163.109.216:34040/udp/234.0.0.199:2000
+#EXTINF:-1 group-title="Новости",БЕЛАРУСЬ 24
+https://rt-cache1.peers.tv/streaming/belarus_24/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Новости",БЕЛАРУСЬ 24
+http://178.163.58.72:4022/udp/234.0.0.199:2000
+#EXTINF:-1 group-title="Новости",БЕЛАРУСЬ 24
+http://178.163.18.154:4022/udp/234.0.0.199:2000
+#EXTINF:-1 group-title="Новости",БЕЛАРУСЬ 24 HD
+https://nimble01edge01.hoster.by/belarus24hd/livehd/chunks.m3u8
+#EXTINF:-1 group-title="Новости",БЕЛАРУСЬ 24 [HD]
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1 group-title="Новости",БЕЛАРУСЬ 4
+http://95.46.208.8:26258/belarus4
+#EXTINF:-1 group-title="Новости",БЕЛАРУСЬ 5
+http://178.124.183.150/hls/JRKVSUPCP8_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Новости",БЕЛАРУСЬ 5
+https://mfe12.svc.ott.zala.by/hls/JRKVSUPCP8_HLS/bw5000000/playlist.m3u8?version=2
+#EXTINF:-1 group-title="Новости",БЕЛАРУСЬ 5
+http://86.57.225.245:7002/play/a00k
+#EXTINF:-1 group-title="Новости",БЕЛАРУСЬ 5 HD
+http://mfe20.svc.ott.zala.by:80/hls/JRKVSUPCP8_HLS/bw5000000/playlist.m3u8
+#EXTINF:-1 group-title="Новости",БЕЛАРУСЬ 8
+http://91.215.176.238:8000/8channel
+#EXTINF:-1 group-title="Новости",BLOOMBERG
+http://46.49.25.122:9001/udp/224.100.1.227:1227
+#EXTINF:-1 group-title="Новости",BLOOMBERG (EN)
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
+#EXTINF:-1 group-title="Новости",BLOOMBERG EUROPE TV
+http://77.109.171.191:8000/play/a06s
+#EXTINF:-1 group-title="Новости",BLOOMBERG TV
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+#EXTINF:-1 group-title="Новости",BLOOMBERG TV EUROPE
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 group-title="Новости",BLOOMBERG TV HD
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 group-title="Новости",BOOMERANG
+http://178.124.183.12/hls/JSQ2S6VQTE/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Новости",BOOMERANG
+http://hls.goodgame.ru/hls/147367.m3u8
+#EXTINF:-1 group-title="Новости",BOOMERANG
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
+#EXTINF:-1 group-title="Новости",BOOMERANG
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Новости",BOOMERANG
+http://178.124.183.13/hls/JSQ2S6VQTE/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Новости",БОБЁР
+http://37.235.254.189:81/udp/225.50.64.29:1234
+#EXTINF:-1 group-title="Новости",БОБЁР
+http://tv.ttk.mx:9077
+#EXTINF:-1 group-title="Новости",БОБЁР
+http://46.180.99.15:81/udp/239.255.42.207:1234
+#EXTINF:-1 group-title="Новости",БОБЁР
+http://37.195.247.86:81/udp/239.1.2.19:1234
+#EXTINF:-1 group-title="Новости",БОБЕР
+http://7489d2fd.ottrast.com/iptv/WW5BTY9VQ6QXEY/725/index.m3u8
+#EXTINF:-1 group-title="Новости",БОБЕР
+http://37.235.158.42:81/udp/225.50.64.29:1234
+#EXTINF:-1 group-title="Новости",БОБЕР
+http://217.25.216.4:8085/udp/225.1.2.87:2020
+#EXTINF:-1 group-title="Новости",БОБЕР
+http://46.49.25.122:9001/udp/224.100.1.97:1097
+#EXTINF:-1 group-title="Спорт",БОЕЦ
+http://178.163.93.172:4022/udp/234.0.0.6:2000
+#EXTINF:-1 group-title="Спорт",БОЕЦ
+http://tv.ttk.mx:9107
+#EXTINF:-1 group-title="Спорт",БОЕЦ
+http://178.163.59.56:4022/udp/234.0.0.6:2000
+#EXTINF:-1 group-title="Спорт",БОЕЦ
+http://185.184.233.174:5000/udp/225.1.2.157:1234
+#EXTINF:-1 group-title="Спорт",БОКС
+http://178.163.18.154:4022/udp/234.0.0.211:2000
+#EXTINF:-1 group-title="Спорт",БОКС ТВ
+http://185.184.233.174:5000/udp/225.1.2.90:1234
+#EXTINF:-1 group-title="Музыкальные",BRIDGE TV DANCE
+http://188.242.173.37:81/udp/239.239.3.69:5239
+#EXTINF:-1 group-title="Музыкальные",BRIDGE TV DANCE
+http://88.201.131.123:4022/udp/239.239.3.69:5239
+#EXTINF:-1 group-title="Музыкальные",BRIDGE TV DANCE
+http://178.49.77.88:3371/udp/239.1.8.17:1234
+#EXTINF:-1 group-title="Музыкальные",BRIDGE TV DANCE
+http://88.201.130.132:81/udp/239.239.3.69:5239
+#EXTINF:-1 group-title="Детские",CARTOON NETWORK
+http://37.195.3.13:81/udp/239.1.3.3:1234
+#EXTINF:-1 group-title="Детские",CARTOON NETWORK
+http://178.124.183.14/hls/CNVX7JRQJI/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Детские",CARTOON NETWORK
+http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
+#EXTINF:-1 group-title="Детские",CARTOON NETWORK
+http://178.124.183.13/hls/CNVX7JRQJI/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Детские",CARTOON NETWORK (ENGLAND)
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1 group-title="Детские",CARTOON NETWORK (LA)
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Детские",CARTOON NETWORK HD
+http://188.35.9.11:21151/udp/185f
+#EXTINF:-1 group-title="Детские",CARTOON NETWORK HD
+http://188.35.9.12:21151/udp/185f
+#EXTINF:-1 group-title="Детские",CARTOON NETWORK [FHD]
+https://rt-cache1.peers.tv/streaming/cartoonnetwork/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Детские",CARTOON NETWORK [FHD]
+http://178.124.183.12/hls/CNVX7JRQJI/bw2000000/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",ЧЕ
+http://79.135.71.195:8023
+#EXTINF:-1 group-title="Развлекательные",ЧЕ
+http://tv.ttk.mx:9141
+#EXTINF:-1 group-title="Развлекательные",ЧЕ
+http://188.242.199.174:81/udp/239.239.3.64:5239
+#EXTINF:-1 group-title="Развлекательные",ЧЕ
+http://46.180.99.15:81/udp/239.255.42.64:1234
+#EXTINF:-1 group-title="Развлекательные",ЧЕ
+http://178.49.77.88:3371/udp/239.1.15.14:1234
+#EXTINF:-1 group-title="Развлекательные",ЧЕ
+http://tvsever.ru:8080/hls/ach2.m3u8
+#EXTINF:-1 group-title="Развлекательные",ЧЕ
+http://37.145.19.235:4022/udp/233.33.210.125:5050
+#EXTINF:-1 group-title="Развлекательные",ЧЕ
+http://182.73.122.74:10001/bysid/707
+#EXTINF:-1 group-title="Развлекательные",ЧЕ
+http://178.163.18.154:4022/udp/234.0.0.218:2000
+#EXTINF:-1 group-title="Развлекательные",ЧЕ!
+http://178.163.32.6:81/udp/234.0.0.218:2000
+#EXTINF:-1 group-title="Развлекательные",ЧЕ!
+http://188.242.237.246:65535/udp/239.239.3.64:5239
+#EXTINF:-1 group-title="Развлекательные",ЧЕ!
+http://195.14.45.212:4000/udp/233.33.210.125:5050
+#EXTINF:-1 group-title="Развлекательные",ЧЕ! +1
+http://37.192.131.195:81/udp/239.1.15.14:1234
+#EXTINF:-1 group-title="Развлекательные",ЧЕ! +2
+http://95.47.155.22:4022/udp/239.254.2.33:1234
+#EXTINF:-1 group-title="Развлекательные",ЧЕ! +7
+http://176.114.128.43:81/udp/239.100.2.13:1234
+#EXTINF:-1 group-title="Новости",CNN
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
+#EXTINF:-1 group-title="Новости",CNN
+https://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 group-title="Новости",CNN
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 group-title="Новости",CNN
+https://live.dogannet.tv/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 group-title="Новости",CNN
+https://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8?key=&amp;live=true&amp;app=com.cnnturk
+#EXTINF:-1 group-title="Новости",CNN
+http://46.49.25.122:9001/udp/224.100.1.217:1217
+#EXTINF:-1 group-title="Новости",CNN
+https://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8?key=&live=true&app=com.cnnturk
+#EXTINF:-1 group-title="Новости",CNN
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Новости",CNN
+http://df7lqp0btxdx2.cloudfront.net/11227_500.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Развлекательные",COMEDY CENTRAL / VIVA AT
+http://77.109.171.191:8000/play/a050
+#EXTINF:-1 group-title="Развлекательные",COMEDY CENTRAL AUSTRIA
+http://188.35.9.12:21031/udp/080w
+#EXTINF:-1 group-title="Развлекательные",COMEDY CENTRAL/VIVA
+http://77.109.171.191:8000/play/a05a
+#EXTINF:-1 group-title="Познавательные",ДИАЛОГИ О РЫБАЛКЕ
+http://188.35.9.11:21101/udp/121m
+#EXTINF:-1 group-title="Познавательные",ДИАЛОГИ О РЫБАЛКЕ
+http://37.235.254.189:81/udp/225.50.64.59:1234
+#EXTINF:-1 group-title="Познавательные",DISCOVERY CHANNEL
+http://188.35.9.12:21081/udp/155b
+#EXTINF:-1 group-title="Познавательные",DISCOVERY CHANNEL
+http://213.174.8.7:8000/play/24/index.m3u8
+#EXTINF:-1 group-title="Познавательные",DISCOVERY CHANNEL (РОССИЯ)
+http://217.25.216.4:8085/udp/225.1.2.12:2020
+#EXTINF:-1 group-title="Познавательные",DISCOVERY CHANNEL HD
+http://217.25.216.4:8085/udp/238.2.16.147:1234
+#EXTINF:-1 group-title="Познавательные",DISCOVERY CHANNEL [FHD]
+http://46.49.25.122:9001/udp/224.100.1.75:1075
+#EXTINF:-1 group-title="Познавательные",DISCOVERY CHANNEL
+http://178.49.77.88:3371/udp/239.1.5.1:1234
+#EXTINF:-1 group-title="Познавательные",DISCOVERY CHANNEL
+http://37.192.100.141:81/udp/239.1.5.1:1234
+#EXTINF:-1 group-title="Познавательные",DISCOVERY CHANNEL
+http://83.167.253.110:5000/live/discovery/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",DISCOVERY
+http://178.124.183.150/hls/CH_DISCOVERY_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",DISCOVERY SCIENCE
+http://217.25.216.4:8085/udp/225.1.2.15:2020
+#EXTINF:-1 group-title="Познавательные",DISCOVERY SCIENCE
+http://94.177.136.29:7478/play/a039
+#EXTINF:-1 group-title="Познавательные",DISCOVERY SCIENCE
+http://46.49.25.122:9001/udp/224.100.1.222:1222
+#EXTINF:-1 group-title="Познавательные",DISCOVERY SCIENCE
+http://188.35.9.12:21151/udp/188k
+#EXTINF:-1 group-title="Познавательные",DISCOVERY SCIENCE
+http://188.35.9.11:21151/udp/188k
+#EXTINF:-1 group-title="Познавательные",DISCOVERY SCIENCE
+http://182.73.122.74:10003/bysid/914
+#EXTINF:-1 group-title="Познавательные",DISCOVERY SCIENCE HD
+http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/03/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",DISCOVERY SCIENCE HD
+http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",DISCOVERY HD SHOWCASE
+http://54.38.180.196/play/272/2D6E866C992891C/video.m3u8
+#EXTINF:-1 group-title="Детские",DISNEY CHANNEL
+http://178.163.96.140:4022/udp/234.0.0.198:2000
+#EXTINF:-1 group-title="Детские",DISNEY CHANNEL
+http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
+#EXTINF:-1 group-title="Детские",DISNEY CHANNEL
+http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Детские",DISNEY CHANNEL
+http://188.35.9.5:10007/stolen/199w/parasite.install
+#EXTINF:-1 group-title="Детские",DISNEY CHANNEL
+http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
+#EXTINF:-1 group-title="Детские",DISNEY CHANNEL
+http://37.145.19.235:4022/udp/233.33.210.7:5050
+#EXTINF:-1 group-title="Детские",DISNEY CHANNEL
+http://77.109.171.191:8000/play/a04q
+#EXTINF:-1 group-title="Детские",DISNEY CHANNEL
+http://178.163.18.154:4022/udp/234.0.0.198:2000
+#EXTINF:-1 group-title="Детские",WINE CHANNEL
+http://212.43.97.35:1935/winechannel/winechannel/playlist.m3u8
+#EXTINF:-1 group-title="Детские",DISNEY
+http://158.46.126.41:81/udp/239.255.42.26:1234
+#EXTINF:-1 group-title="Детские",DISNEY
+http://185.184.233.174:5000/udp/225.1.2.34:1234
+#EXTINF:-1 group-title="Детские",DISNEY
+http://178.163.47.26:4022/udp/234.0.0.198:2000
+#EXTINF:-1 group-title="Детские",DISNEY
+http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8?version=2
+#EXTINF:-1 group-title="Детские",DISNEY
+http://178.163.58.72:4022/udp/234.0.0.198:2000
+#EXTINF:-1 group-title="Детские",DISNEY
+http://178.163.81.6:4022/udp/234.0.0.198:2000
+#EXTINF:-1 group-title="Детские",DISNEY (+7)
+http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:-1 group-title="Детские",DISNEY XD
+http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
+#EXTINF:-1 group-title="Детские",DISNEY
+http://37.235.216.120:81/udp/225.50.64.67:1234
+#EXTINF:-1 group-title="Детские",DISNEY
+http://37.235.150.138:81/udp/225.50.64.67:1234
+#EXTINF:-1 group-title="Детские",DISNEY
+http://46.180.99.15:81/udp/239.255.42.26:1234
+#EXTINF:-1 group-title="Детские",DISNEY
+http://178.49.77.88:3371/udp/239.1.15.12:1234
+#EXTINF:-1 group-title="Детские",DISNEY
+http://182.73.122.74:10001/bysid/701
+#EXTINF:-1 group-title="Детские",ДИСНЕЙ
+http://195.14.45.212:4000/udp/233.33.210.7:5050
+#EXTINF:-1 ,#EXTGRP:XXX
+http://188.35.9.11:21141/udp/214h
+#EXTINF:-1 group-title="Детские",DUCK TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF:-1 group-title="Детские",DUCK TV
+http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
+#EXTINF:-1 group-title="Познавательные",ED TV
+https://593b04c4c5670.streamlock.net/8070/8070/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",ЕДА HD
+https://rt-cache1.peers.tv/streaming/eda_hd/16/variable.m3u8
+#EXTINF:-1 group-title="Детские",ENGLISH CLUB TV
+http://178.163.45.64:4022/udp/234.0.0.174:2000
+#EXTINF:-1 group-title="Детские",ENGLISH CLUB TV
+http://178.163.84.27:4022/udp/234.0.0.174:2000
+#EXTINF:-1 group-title="Детские",ENGLISH CLUB TV
+http://46.49.25.122:9001/udp/224.100.1.145:1145
+#EXTINF:-1 group-title="Детские",ENGLISH CLUB TV
+http://178.163.58.72:4022/udp/234.0.0.174:2000
+#EXTINF:-1 group-title="Детские",ENGLISH CLUB TV
+http://178.163.99.66:81/udp/234.0.0.174:2000
+#EXTINF:-1 group-title="Детские",ENGLISH CLUB TV
+http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
+#EXTINF:-1 group-title="Детские",ENGLISH CLUB TV
+http://livecdnh2.tvanywhere.ae/hls/english_club/index.m3u8
+#EXTINF:-1 group-title="Детские",ENGLISH CLUB TV
+http://178.163.18.154:4022/udp/234.0.0.174:2000
+#EXTINF:-1 group-title="Кино",ENTER ФІЛЬМ
+http://188.35.9.11:11052/g
+#EXTINF:-1 group-title="Кино",ENTER ФИЛЬМ
+http://188.35.9.5:10007/stolen/138w/parasite.install
+#EXTINF:-1 group-title="Новости",ЕСПРЕСО ТВ
+http://188.35.9.11:11154/s
+#EXTINF:-1 group-title="Музыкальные",B4U MUSIC
+http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
+#EXTINF:-1 group-title="Музыкальные",B4U MUSIC
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",B4U MUSIC
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",DELUXE MUSIC
+http://188.35.9.12:21031/udp/082r
+#EXTINF:-1 group-title="Музыкальные",DELUXE MUSIC
+http://77.109.171.191:8000/play/xxxDeluxeMusicxxx
+#EXTINF:-1 group-title="Музыкальные",DELUXE MUSIC
+http://188.35.9.11:21031/udp/082r
+#EXTINF:-1 group-title="Музыкальные",DELUXE MUSIC HD
+http://188.35.9.5:10007/stolen/200b/parasite.install
+#EXTINF:-1 group-title="Новости",EUROНовости
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
+#EXTINF:-1 group-title="Новости",EUROНовости
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1 group-title="Новости",EUROНовости
+http://178.124.183.13/hls/C5P6YOXJZT/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Новости",EUROНовости (DE)
+http://188.35.9.5:10020/stolen/511h/hot.dll
+#EXTINF:-1 group-title="Новости",EUROНовости (FR)
+http://188.35.9.5:10020/stolen/510i/hot.dll
+#EXTINF:-1 group-title="Новости",EUROНовости DE
+http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_LQ.m3u8
+#EXTINF:-1 group-title="Новости",EUROНовости DE
+http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_HQ.m3u8
+#EXTINF:-1 group-title="Спорт",EUROSPORT 1
+http://cdn.iptv.monster/play/15/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="Спорт",EUROSPORT 1
+http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",EUROSPORT 1
+http://176.114.192.51:9988/udp/239.255.11.4:1234
+#EXTINF:-1 group-title="Спорт",EUROSPORT 1
+http://46.49.25.122:9001/udp/224.100.1.187:1187
+#EXTINF:-1 group-title="Спорт",EUROSPORT 1
+http://46.49.25.122:9001/udp/224.100.1.41:1041
+#EXTINF:-1 group-title="Спорт",EUROSPORT 1
+http://213.174.8.7:8000/play/15/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт",EUROSPORT 1
+http://213.174.8.7:8000/play/15/index.m3u8
+#EXTINF:-1 group-title="Спорт",EUROSPORT 1
+https://95-213-224-184.livesports24.online/eurosport1ru.m3u8
+#EXTINF:-1 group-title="Спорт",EUROSPORT 1 HD
+http://cdn.iptv.monster/play/145/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="Спорт",EUROSPORT 1 HD
+http://217.25.216.4:8085/udp/225.1.2.115:2020
+#EXTINF:-1 group-title="Спорт",EUROSPORT 1 HD
+http://188.35.9.11:21081/udp/098t
+#EXTINF:-1 group-title="Спорт",EUROSPORT 1 HD
+http://nexterr.ottv.info/iptv/F7WWXGUG4PCU8S/228/index.m3u8
+#EXTINF:-1 group-title="Спорт",EUROSPORT 1 HD
+http://217.25.216.4:8085/udp/238.2.16.145:1234
+#EXTINF:-1 group-title="Спорт",EUROSPORT 1 HD (RU)
+http://188.35.9.11:21031/udp/033z
+#EXTINF:-1 group-title="Спорт",EUROSPORT 1 HD (RU)
+http://188.35.9.12:21031/udp/033z
+#EXTINF:-1 group-title="Спорт",EUROSPORT 2
+http://cdn.iptv.monster/play/43/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="Спорт",EUROSPORT 2
+http://178.124.183.150/hls/CH_EUROSPORT2_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",EUROSPORT 2
+http://217.25.216.4:8085/udp/238.2.15.171:1234
+#EXTINF:-1 group-title="Спорт",EUROSPORT 2
+http://217.25.216.4:8085/udp/225.1.2.114:2020
+#EXTINF:-1 group-title="Спорт",EUROSPORT 2
+http://31.133.47.1:8800/eurosport_2
+#EXTINF:-1 group-title="Спорт",EUROSPORT 2
+http://217.25.216.4:8085/udp/238.2.15.168:1234
+#EXTINF:-1 group-title="Спорт",EUROSPORT 2 HD
+http://5.129.5.72:81/udp/239.1.18.2:1234
+#EXTINF:-1 group-title="Спорт",EUROSPORT 2 HD
+http://188.35.9.11:11089/e
+#EXTINF:-1 group-title="Спорт",EUROSPORT
+http://217.25.216.4:8085/udp/225.1.2.113:2020
+#EXTINF:-1 group-title="Спорт",EUROSPORT
+http://31.133.47.1:8800/eurosport
+#EXTINF:-1 group-title="Спорт",EUROSPORT Новости
+http://83.97.104.124:5555/udp/224.0.45.169:1234
+#EXTINF:-1 group-title="Спорт",EUROSPORT 2 HD POLAND
+http://188.35.9.11:21151/udp/192c
+#EXTINF:-1 group-title="Спорт",EUROSPORT 2 HD POLAND
+http://188.35.9.12:21151/udp/192c
+#EXTINF:-1 group-title="Кино",EUROKINO
+http://185.184.233.174:5000/udp/225.1.2.139:1234
+#EXTINF:-1 group-title="Кино",SEVER TV KINO HD
+https://hls.goodgame.ru/hls/146065.m3u8
+#EXTINF:-1 group-title="Кино",ЕВРОКИНО
+http://178.163.43.72:4022/udp/234.0.0.176:2000
+#EXTINF:-1 group-title="Кино",ЕВРОКИНО
+http://178.163.17.180:4022/udp/234.0.0.176:2000
+#EXTINF:-1 group-title="Кино",ЕВРОКИНО
+http://tv.ttk.mx:9030
+#EXTINF:-1 group-title="Кино",ЕВРОКИНО
+http://178.124.183.150/hls/JEDUS3FS7V_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Кино",ЕВРОКИНО
+http://178.163.16.87:4022/udp/234.0.0.176:2000
+#EXTINF:-1 group-title="Кино",ЕВРОКИНО
+http://178.163.58.72:4022/udp/234.0.0.176:2000
+#EXTINF:-1 group-title="Кино",ЕВРОКИНО
+http://178.163.18.154:4022/udp/234.0.0.176:2000
+#EXTINF:-1 group-title="Музыкальные",4K FASHION
+http://ott-stream.sevstar.net/2201/video.m3u8?token=8330162968
+#EXTINF:-1 group-title="Музыкальные",FASHION BOX TV
+http://46.49.25.122:9001/udp/224.100.1.160:1160
+#EXTINF:-1 group-title="Музыкальные",FASHION ONE
+http://77.109.171.191:8000/play/a07o
+#EXTINF:-1 group-title="Музыкальные",FASHION ONE
+http://188.35.9.11:21031/udp/058v
+#EXTINF:-1 group-title="Музыкальные",FASHION ONE HD
+http://178.163.1.77:4022/udp/234.0.0.212:2000
+#EXTINF:-1 group-title="Музыкальные",FASHION ONE HD
+http://178.163.18.154:4022/udp/234.0.0.212:2000
+#EXTINF:-1 group-title="Музыкальные",FASHION TV
+http://176.114.128.43:81/udp/239.100.5.7:1234
+#EXTINF:-1 group-title="Музыкальные",FASHION TV
+https://rt-cache1.peers.tv/streaming/fashion_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Музыкальные",FASHION TV
+http://176.114.192.51:9988/udp/239.255.11.8:1234
+#EXTINF:-1 group-title="Музыкальные",FASHION TV
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",FASHION TV
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Музыкальные",FASHION TV (HD)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Музыкальные",FASHION TV (SK)
+http://80.94.54.42/fashiontv/stream/chunklist_w1498188138.m3u8
+#EXTINF:-1 group-title="Музыкальные",FASHION TV (SK)
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+#EXTINF:-1 group-title="Музыкальные",FASHION TV (SK)
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",FASHION TV 1
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",FASHION TV PARIS
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 group-title="Музыкальные",FASHION TV PARIS
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Музыкальные",FASHION TV PARIS
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8
+#EXTINF:-1 group-title="Музыкальные",FASHION TV PG13
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
+#EXTINF:-1 group-title="Музыкальные",FASHION TV PG13
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Музыкальные",FASHION TV PG16
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Музыкальные",FASHION TV PG16
+https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/chunklist_b4700000.m3u8
+#EXTINF:-1 group-title="Музыкальные",FASHION TV PG16
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1 group-title="Музыкальные",FASHION TV VOD
+http://fash1043.cloudycdn.services/vod/_definst_/43/00/11/102218/1o2_dm_x3oqree.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",FASHION TV [FHD]
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",FASHION TV
+http://37.235.150.138:81/udp/225.50.64.35:1234
+#EXTINF:-1 group-title="Музыкальные",FASHION TV
+https://rt-cache1.peers.tv/streaming/fashion/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",FASHION TV
+http://46.180.99.15:81/udp/239.255.42.51:1234
+#EXTINF:-1 group-title="Музыкальные",FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",FASHION UA
+http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Кино",FILM 1 ACTION
+http://188.35.9.5:10005/stolen/142w/imposter.rar
+#EXTINF:-1 group-title="Познавательные",FOOD NETWORK
+http://158.46.115.68:81/udp/239.255.42.201:1234
+#EXTINF:-1 group-title="Познавательные",FOOD NETWORK
+http://46.180.99.15:81/udp/239.255.42.201:1234
+#EXTINF:-1 group-title="Познавательные",FOOD NETWORK
+http://95.86.32.7:999/food
+#EXTINF:-1 group-title="Познавательные",FOOD NETWORK
+http://182.73.122.74:10003/bysid/916
+#EXTINF:-1 group-title="Познавательные",FOOD NETWORK РОССИЯ HD
+http://217.25.216.4:8085/udp/225.1.2.136:2020
+#EXTINF:-1 group-title="Познавательные",FOOD NETWORK РОССИЯ HD
+http://217.25.216.4:8085/udp/238.2.19.162:1234
+#EXTINF:-1 group-title="Кино",FOX
+http://178.163.87.241:4022/udp/234.0.0.184:2000
+#EXTINF:-1 group-title="Кино",FOX
+http://178.124.183.13/hls/CH_FOX/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Кино",FOX
+http://178.124.183.12/hls/CH_FOX/bw2000000/playlist.m3u8
+#EXTINF:-1 group-title="Кино",FOX
+http://178.163.12.60:4022/udp/234.0.0.184:2000
+#EXTINF:-1 group-title="Кино",FOX
+http://178.163.96.140:4022/udp/234.0.0.184:2000
+#EXTINF:-1 group-title="Кино",FOX
+http://178.163.58.72:4022/udp/234.0.0.184:2000
+#EXTINF:-1 group-title="Кино",FOX
+http://178.163.87.28:4022/udp/234.0.0.184:2000
+#EXTINF:-1 group-title="Кино",FOX
+http://178.163.18.154:4022/udp/234.0.0.184:2000
+#EXTINF:-1 group-title="Кино",FOX HD
+http://37.235.254.189:81/udp/225.50.71.25:1234
+#EXTINF:-1 group-title="Кино",FOX HD
+http://188.35.9.12:21141/udp/187g
+#EXTINF:-1 group-title="Кино",FOX HD
+http://178.49.241.78:81/udp/239.1.17.5:1234
+#EXTINF:-1 group-title="Кино",FOX HD
+http://37.195.247.86:81/udp/239.1.17.5:1234
+#EXTINF:-1 group-title="Кино",FOX HD
+http://188.35.9.11:21131/udp/147l
+#EXTINF:-1 group-title="Кино",FOX HD
+http://188.35.9.12:21131/udp/147l
+#EXTINF:-1 group-title="Спорт",FLOW SPORTS
+http://161.0.157.5/PLTV/88888888/224/3221226899/index.m3u8
+#EXTINF:-1 group-title="Спорт",FLOW SPORTS 1
+http://161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8
+#EXTINF:-1 group-title="Спорт",FLOW SPORTS 1
+http://161.0.157.9/PLTV/88888888/224/3221226899/04.m3u8
+#EXTINF:-1 group-title="Спорт",FLOW SPORTS 1
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1 group-title="Спорт",FLOW SPORTS 1
+http://161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8
+#EXTINF:-1 group-title="Спорт",FLOW SPORTS 1 HD
+http://161.0.157.9/PLTV/88888888/224/3221226899/01.m3u8
+#EXTINF:-1 group-title="Спорт",FLOW SPORTS 1 HD
+http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Спорт",FLOW SPORTS 1 HD
+http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8
+#EXTINF:-1 group-title="Спорт",FOX SPORTS
+http://45.58.62.92:8080
+#EXTINF:-1 group-title="Спорт",FOX SPORTS 1 HD
+http://95.170.215.118/hls/m3u8/Fox-Sport-1.m3u8
+#EXTINF:-1 group-title="Спорт",FOX SPORTS HD
+http://198.255.23.18:2095/streams/55_.m3u8
+#EXTINF:-1 group-title="Спорт",FOX SPORTS RACING
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 group-title="Спорт",FOX SPORTS RACING
+http://161.0.157.8/PLTV/88888888/224/3221226181/02.m3u8
+#EXTINF:-1 group-title="Спорт",FOX SPORTS RACING HD
+http://161.0.157.8/PLTV/88888888/224/3221226181/01.m3u8
+#EXTINF:-1 group-title="Спорт",ФУТБОЛ 2
+https://95-213-224-184.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 group-title="Спорт",ФУТБОЛ 2
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/1110/index.m3u8
+#EXTINF:-1 group-title="Спорт",SPERFUTBOL TV HD
+http://46.105.233.106:8005/hls/ntvspor/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",ФУТБОЛ
+http://tv.ttk.mx:9065
+#EXTINF:-1 group-title="Спорт",ФУТБОЛ
+http://185.184.233.174:5000/udp/225.1.2.82:1234
+#EXTINF:-1 group-title="Спорт",ФУТБОЛ
+http://178.49.77.88:3371/udp/239.1.12.5:1234
+#EXTINF:-1 group-title="Спорт",ФУТБОЛ
+http://37.195.247.86:81/udp/239.1.12.5:1234
+#EXTINF:-1 group-title="Спорт",ФУТБОЛ 1
+https://95-213-224-184.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 group-title="Спорт",ФУТБОЛ 1
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/1109/index.m3u8
+#EXTINF:-1 group-title="Спорт",ФУТБОЛ БОРТ
+http://46.180.99.15:81/udp/239.255.42.163:1234
+#EXTINF:-1 group-title="Новости",ГРОМАДСЬКЕ ТЕЛЕБАЧЕННЯ (HROMADSKE.TV)
+http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
+#EXTINF:-1 group-title="Кино",A HBO
+http://188.35.9.11:21131/udp/164g
+#EXTINF:-1 group-title="Кино",FOX COMEDY
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:-1 group-title="Кино",FOX COMEDY HD
+http://188.35.9.12:21161/udp/173c
+#EXTINF:-1 group-title="Кино",FOX COMEDY HD
+http://188.35.9.11:21161/udp/173c
+#EXTINF:-1 group-title="Кино",HBO
+http://186.236.211.198:9981/stream/channelid/535789944
+#EXTINF:-1 group-title="Кино",HBO
+http://188.35.9.11:21151/udp/190z
+#EXTINF:-1 group-title="Кино",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Кино",HBO 2
+http://161.0.157.5:80/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Кино",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 group-title="Кино",HBO 2 HD
+http://188.35.9.12:21151/udp/157a
+#EXTINF:-1 group-title="Кино",HBO 2 HD
+http://188.35.9.11:21151/udp/157a
+#EXTINF:-1 group-title="Кино",HBO 3 HD
+http://188.35.9.11:21151/udp/154k
+#EXTINF:-1 group-title="Кино",HBO 3 HD
+http://188.35.9.12:21151/udp/154k
+#EXTINF:-1 group-title="Кино",HBO HD
+http://pdsrv.io:80/paulo01/paulo01/6108
+#EXTINF:-1 group-title="Кино",HBO HD
+http://pdsrv.io:25461/cristiano/123456/6108
+#EXTINF:-1 group-title="Кино",HBO HD
+http://pdsrv.io:25461/paulo01/paulo01/6108
+#EXTINF:-1 group-title="Кино",HBO HD
+http://188.35.9.12:21151/udp/190z
+#EXTINF:-1 group-title="Кино",HBO2
+http://161.0.157.51/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:-1 group-title="Кино",HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:-1 group-title="Кино",HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Кино",HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/3.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Познавательные",HISTORY
+http://7489d2fd.ottrast.com/iptv/WW5BTY9VQ6QXEY/231/index.m3u8
+#EXTINF:-1 group-title="Познавательные",HISTORY
+http://178.124.183.150/hls/CH_HISTORY_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",HISTORY
+http://188.35.9.12:21121/udp/128c
+#EXTINF:-1 group-title="Познавательные",HISTORY
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
+#EXTINF:-1 group-title="Познавательные",HISTORY 2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:-1 group-title="Познавательные",HISTORY HD
+http://188.35.9.11:21121/udp/128c
+#EXTINF:-1 group-title="Познавательные",HISTORY [FHD]
+http://188.35.9.5:10005/stolen/152p/imposter.rar
+#EXTINF:-1 group-title="Познавательные",HISTORY
+http://182.73.122.74:10002/bysid/1213
+#EXTINF:-1 group-title="Кино",BOLLYWOOD
+http://178.163.1.77:4022/udp/234.0.0.195:2000
+#EXTINF:-1 group-title="Кино",BOLLYWOOD
+http://178.163.55.176:4022/udp/234.0.0.195:2000
+#EXTINF:-1 group-title="Кино",BOLLYWOOD
+http://178.163.109.216:34040/udp/234.0.0.195:2000
+#EXTINF:-1 group-title="Кино",BOLLYWOOD
+http://178.163.18.154:4022/udp/234.0.0.195:2000
+#EXTINF:-1 group-title="Кино",BOLLYWOOD HD
+http://5.59.200.247:81/udp/239.72.6.170:1234
+#EXTINF:-1 group-title="Кино",BOLLYWOOD HD
+http://178.163.58.72:4022/udp/234.0.0.195:2000
+#EXTINF:-1 group-title="Кино",BOLLYWOOD TV
+https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
+#EXTINF:-1 group-title="Кино",HOLLYWOOD
+http://5.59.200.247:81/udp/239.72.6.197:1234
+#EXTINF:-1 group-title="Кино",HOLLYWOOD
+http://212.121.249.34:8080/amc/index.m3u8
+#EXTINF:-1 group-title="Кино",HOLLYWOOD FHD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/11211
+#EXTINF:-1 ,#EXTGRP:XXX
+http://217.25.216.4:8085/udp/238.2.18.80:1234
+#EXTINF:-1 ,#EXTGRP:XXX
+http://re.strah.video:1234/play/hustlerhd?auth=zarin:RJsKR
+#EXTINF:-1 group-title="Новости",INTER
+http://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1 group-title="Новости",INTER
+http://188.35.9.11:2020
+#EXTINF:-1 group-title="Новости",IНТЕР
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1 group-title="Новости",IНТЕР
+http://188.35.9.11:11031/z
+#EXTINF:-1 group-title="Новости",IНТЕР
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Новости",ИНТЕР
+http://109.68.41.148:1935/live/inter_1/playlist.m3u8
+#EXTINF:-1 group-title="Новости",ИНТЕР
+http://46.49.25.122:9001/udp/224.100.1.184:1184
+#EXTINF:-1 group-title="Новости",ИНТЕР
+http://lb1.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1 group-title="Новости",ИНТЕР
+https://edge2.iptv.macc.com.ua/img/inter_2/index.m3u8
+#EXTINF:-1 group-title="Новости",ИНТЕР
+https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1 group-title="Новости",ИНТЕР
+https://edge2.iptv.macc.com.ua/img/inter.m3u8
+#EXTINF:-1 group-title="Новости",ИНТЕР
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8?version=2
+#EXTINF:-1 group-title="Новости",ИНТЕР
+http://lb1.macc.com.ua/img/inter_2/index.m3u8
+#EXTINF:-1 group-title="Новости",ИНТЕР
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1 group-title="Новости",ИНТЕР
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Новости",ИНТЕР
+http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",K1
+http://109.68.40.67:80/life/k1_3/index.m3u8
+#EXTINF:-1 group-title="Познавательные",K1
+https://edge2.iptv.macc.com.ua/life/k1_3/index.m3u8
+#EXTINF:-1 group-title="Познавательные",K1
+http://188.35.9.11:11032/j
+#EXTINF:-1 group-title="Познавательные",K16
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",K16
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Познавательные",К1
+https://edge3.iptv.macc.com.ua/life/k1_3/index.m3u8
+#EXTINF:-1 group-title="Познавательные",К1
+http://109.68.41.148:1935/live/k1_3/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",К1
+https://edge2.iptv.macc.com.ua/life/k1_2/index.m3u8
+#EXTINF:-1 group-title="Познавательные",К1
+http://edge3.iptv.macc.com.ua/life/k1_3/index.m3u8
+#EXTINF:-1 group-title="Познавательные",К1
+http://lb1.macc.com.ua/life/k1_3/index.m3u8
+#EXTINF:-1 group-title="Познавательные",К1
+http://109.68.40.67:80/life/k1_1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",К1
+http://109.68.40.67/life/k1_3/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Познавательные",К1
+http://109.68.40.67/life/k1_3/index.m3u8?version=2
+#EXTINF:-1 group-title="Познавательные",К1
+http://109.68.40.72/life/k1_2/index.m3u8
+#EXTINF:-1 group-title="Познавательные",К1
+http://109.68.40.72/life/k1_2/index.m3u8
+#EXTINF:-1 group-title="Познавательные",К1
+http://109.68.40.67/life/k1.m3u8
+#EXTINF:-1 group-title="Познавательные",К1
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1 group-title="Познавательные",К2
+http://109.95.47.229:809/K2/index.m3u8
+#EXTINF:-1 group-title="Познавательные",К2
+http://188.35.9.11:11072/d
+#EXTINF:-1 group-title="Детские",KANAL DISNEY
+http://88.201.131.123:4022/udp/239.239.3.10:5239
+#EXTINF:-1 group-title="Детские",KANAL DISNEY
+http://188.242.237.246:65535/udp/239.239.3.10:5239
+#EXTINF:-1 group-title="Детские",KANAL DISNEY
+http://176.114.192.51:9988/udp/239.255.11.68:1234
+#EXTINF:-1 group-title="Детские",КАНАЛ DISNEY
+http://188.243.212.85:4444/udp/239.239.3.10:5239
+#EXTINF:-1 group-title="Детские",КАНАЛ DISNEY
+http://188.242.199.174:81/udp/239.239.3.10:5239
+#EXTINF:-1 group-title="Детские",КАНАЛ DISNEY
+http://176.14.238.215:4022/udp/233.33.210.7:5050
+#EXTINF:-1 group-title="Развлекательные",КИНОКОМЕДИЯ
+http://178.163.1.77:4022/udp/234.0.0.118:2000
+#EXTINF:-1 group-title="Развлекательные",КИНОКОМЕДИЯ
+http://telesfor.kartoshkaka.ru/iptv/FBTD4P2R5Q8KFE/145/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",КИНОКОМЕДИЯ
+http://178.163.118.138:81/udp/234.0.0.118:2000
+#EXTINF:-1 group-title="Развлекательные",КИНОКОМЕДИЯ
+http://178.163.65.153:4022/udp/234.0.0.118:2000
+#EXTINF:-1 group-title="Развлекательные",КИНОКОМЕДИЯ
+http://178.163.22.87:81/udp/234.0.0.118:2000
+#EXTINF:-1 group-title="Развлекательные",КИНОКОМЕДИЯ
+http://217.25.216.4:8085/udp/225.1.2.9:2020
+#EXTINF:-1 group-title="Развлекательные",КИНОКОМЕДИЯ
+http://176.114.192.51:9988/udp/239.255.11.41:1234
+#EXTINF:-1 group-title="Развлекательные",КИНОКОМЕДИЯ
+http://2.92.160.55:4022/udp/233.33.210.57:5050
+#EXTINF:-1 group-title="Развлекательные",КИНОКОМЕДИЯ
+http://178.49.77.88:3371/udp/239.1.4.3:1234
+#EXTINF:-1 group-title="Развлекательные",КИНОКОМЕДИЯ
+http://37.145.19.235:4022/udp/233.33.210.57:5050
+#EXTINF:-1 group-title="Развлекательные",КИНОКОМЕДИЯ
+http://178.163.39.204:4022/udp/234.0.0.118:2000
+#EXTINF:-1 group-title="Развлекательные",КИНОКОМЕДИЯ
+http://178.163.50.209:4022/udp/234.0.0.118:2000
+#EXTINF:-1 group-title="Развлекательные",КИНОКОМЕДИЯ
+http://178.163.58.72:4022/udp/234.0.0.118:2000
+#EXTINF:-1 group-title="Развлекательные",КИНОКОМЕДИЯ
+http://178.163.18.154:4022/udp/234.0.0.118:2000
+#EXTINF:-1 group-title="Развлекательные",КИНОКОМЕДИЯ
+http://178.163.16.87:4022/udp/234.0.0.118:2000
+#EXTINF:-1 group-title="Развлекательные",КИНОКОМЕДИЯ
+http://46.180.99.15:81/udp/239.255.42.43:1234
+#EXTINF:-1 group-title="Развлекательные",КИНОКОМЕДИЯ
+http://37.235.191.107:81/udp/225.50.64.36:1234
+#EXTINF:-1 group-title="Развлекательные",КИНОКОМЕДИЯ
+http://37.235.150.138:81/udp/225.50.64.36:1234
+#EXTINF:-1 group-title="Развлекательные",KVARTAL TV
+http://178.124.183.150/hls/CH_KVARTALTV_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",KVARTAL TV
+http://193.46.210.28/stream/zc3dgjyuacdaj64ak8vsqit67jef3nnxp8vw7ixehj8pekdt58i89idvtttd6pjv6z4uav43wuyk7fn7y47g2y3vfimf6mdxpmcyh4xi8hb47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
+#EXTINF:-1 group-title="Развлекательные",КВАРТАЛ ТВ
+http://178.124.183.150/hls/CH_KVARTALTV_HLS/bw2000000/playlist.m3u8
+#EXTINF:-1 group-title="Детские",MALYATKO
+http://193.33.39.107:8088/malyatko/index.m3u8
+#EXTINF:-1 group-title="Детские",МАЛЯТКО TV
+http://163.172.179.78:8081/tv/maliatko/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! АРЕНА
+http://37.235.254.189:81/udp/225.50.64.42:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! АРЕНА
+http://7489d2fd.ottrast.com/iptv/WW5BTY9VQ6QXEY/528/index.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! АРЕНА
+http://7489d2fd.ottrast.com/iptv/WW5BTY9VQ6QXEY/207/index.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! АРЕНА
+http://176.114.192.51:9988/udp/239.255.11.100:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! АРЕНА
+http://85.15.88.189:4022/udp/238.0.2.102:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! АРЕНА
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/528/index.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! АРЕНА HD
+http://91.123.82.10:81/udp/239.1.10.15:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! АРЕНА HD
+http://185.184.233.174:5000/udp/225.1.2.156:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! АРЕНА HD
+http://217.25.216.4:8085/udp/225.1.2.94:2020
+#EXTINF:-1 group-title="Спорт",МАТЧ! АРЕНА HD
+http://217.25.216.4:8085/udp/238.2.16.146:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! АРЕНА HD
+http://ott-stream.sevstar.net/1836/video.m3u8?token=8330162968
+#EXTINF:-1 group-title="Спорт",МАТЧ! АРЕНА HD
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/207/index.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! БОЕЦ
+http://37.235.254.189:81/udp/225.50.64.19:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! БОЕЦ
+http://7489d2fd.ottrast.com/iptv/WW5BTY9VQ6QXEY/150/index.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! БОЕЦ
+http://217.25.216.4:8085/udp/225.1.2.59:2020
+#EXTINF:-1 group-title="Спорт",МАТЧ! БОЕЦ
+http://176.114.192.51:9988/udp/239.255.11.90:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! БОЕЦ
+http://217.25.216.4:8085/udp/238.2.0.30:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! БОЕЦ
+https://95-213-224-184.livesports24.online/matchboetsru.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! БОЕЦ
+http://178.163.16.87:4022/udp/234.0.0.6:2000
+#EXTINF:-1 group-title="Спорт",МАТЧ! БОЕЦ
+http://178.163.58.72:4022/udp/234.0.0.6:2000
+#EXTINF:-1 group-title="Спорт",МАТЧ! БОЕЦ
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/150/index.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! БОЕЦ
+http://37.235.158.42:81/udp/225.50.64.19:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! БОЕЦ
+http://37.235.191.107:81/udp/225.50.64.19:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! БОЕЦ
+http://37.235.150.138:81/udp/225.50.64.19:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! БОЕЦ
+http://46.180.99.15:81/udp/239.255.42.61:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ ФУТБОЛ 1
+http://tv.ttk.mx:9108
+#EXTINF:-1 group-title="Спорт",МАТЧ ФУТБОЛ1 HD
+http://tv.ttk.mx:9114
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 1
+http://188.35.9.11:2025
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 1
+https://95-213-224-184.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 1
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/124/index.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 1 HD
+http://cdn.iptv.monster/play/260/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 1 HD
+http://188.35.9.12:21151/udp/167u
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 1 HD
+http://188.35.9.11:21151/udp/167u
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 1 HD
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/222/index.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ ФУТБОЛ 2
+http://tv.ttk.mx:9111
+#EXTINF:-1 group-title="Спорт",МАТЧ ФУТБОЛ2 HD
+http://tv.ttk.mx:9115
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 2
+https://95-213-224-184.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 2
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/530/index.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 2 HD
+http://cdn.iptv.monster/play/271/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 2 HD
+http://128.69.251.143:4022/udp/233.33.221.95:5050
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 2 HD
+http://2.92.160.55:4022/udp/233.33.221.95:5050
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 2 HD
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/211/index.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ ФУТБОЛ3 HD
+http://tv.ttk.mx:9116
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 3
+http://91.235.148.209:999/udp/239.191.255.20:13343
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 3
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/522/index.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 3 HD
+http://cdn.iptv.monster/play/329/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 3 HD
+http://5.129.5.72:81/udp/239.1.23.3:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 3 HD
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/206/index.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! ФУТБОЛ 3 HD (720)
+http://ott-stream.sevstar.net/1930/video.m3u8?token=8330162968
+#EXTINF:-1 group-title="Спорт",МАТЧ ИГРА
+http://178.163.83.4:4022/udp/234.0.0.211:2000
+#EXTINF:-1 group-title="Спорт",МАТЧ ИГРА
+http://178.163.15.103:4022/udp/234.0.0.211:2000
+#EXTINF:-1 group-title="Спорт",МАТЧ ИГРА
+http://178.163.50.209:4022/udp/234.0.0.211:2000
+#EXTINF:-1 group-title="Спорт",МАТЧ! ИГРА
+http://37.235.254.189:81/udp/225.50.64.41:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! ИГРА
+http://37.235.158.42:81/udp/225.50.64.41:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! ИГРА
+http://217.25.216.4:8085/udp/225.1.2.96:2020
+#EXTINF:-1 group-title="Спорт",МАТЧ! ИГРА
+http://176.114.192.51:9988/udp/239.255.11.32:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! ИГРА
+http://188.35.9.5:10016/stolen/307k/onehalf.cab
+#EXTINF:-1 group-title="Спорт",МАТЧ! ИГРА
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/529/index.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! ИГРА HD
+http://185.184.233.174:5000/udp/225.1.2.155:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! ИГРА HD
+http://178.163.87.241:4022/udp/234.0.0.6:2000
+#EXTINF:-1 group-title="Спорт",МАТЧ! ИГРА HD
+http://178.163.33.194:81/udp/234.0.0.6:2000
+#EXTINF:-1 group-title="Спорт",МАТЧ! ИГРА HD
+http://178.163.50.209:4022/udp/234.0.0.6:2000
+#EXTINF:-1 group-title="Спорт",МАТЧ! ИГРА HD
+http://178.163.18.154:4022/udp/234.0.0.6:2000
+#EXTINF:-1 group-title="Спорт",МАТЧ! ИГРА HD
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/225/index.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ СТРАНА
+http://195.14.45.212:4000/udp/233.33.220.19:5050
+#EXTINF:-1 group-title="Спорт",МАТЧ! СТРАНА
+http://217.25.216.4:8085/udp/225.1.2.97:2020
+#EXTINF:-1 group-title="Спорт",МАТЧ! СТРАНА
+http://176.114.192.51:9988/udp/239.255.11.74:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! СТРАНА
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/107/index.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! СТРАНА
+http://188.35.9.5:10007/stolen/124n/parasite.install
+#EXTINF:-1 group-title="Спорт",МАТЧ!
+http://178.49.77.88:3371/udp/239.1.15.23:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ!
+http://185.184.233.174:5000/udp/225.1.2.8:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ!
+http://178.49.77.88:3371/udp/239.1.15.16:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ!
+http://37.145.19.235:4022/udp/233.33.210.93:5050
+#EXTINF:-1 group-title="Спорт",МАТЧ!
+http://46.165.2.202:8080/matchtv/index.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ!
+http://178.163.109.216:34040/udp/234.0.0.204:2000
+#EXTINF:-1 group-title="Спорт",МАТЧ!
+http://178.163.18.154:4022/udp/234.0.0.204:2000
+#EXTINF:-1 group-title="Спорт",МАТЧ!
+http://195.191.208.2:8086/udp/238.2.47.108:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ!  HD
+http://213.234.9.46:7088/udp/239.1.11.39:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! HD
+http://91.123.82.10:81/udp/239.1.11.39:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ! HD
+http://88.201.131.123:4022/udp/239.239.3.34:5239
+#EXTINF:-1 group-title="Спорт",МАТЧ! HD
+http://94.19.167.157:55555/udp/239.239.3.34:5239
+#EXTINF:-1 group-title="Спорт",МАТЧ! HD
+http://188.242.237.246:65535/udp/239.239.3.34:5239
+#EXTINF:-1 group-title="Спорт",МАТЧ! HD
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/212/index.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! ТВ
+http://46.165.2.202:8080/matchtv/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! ТВ
+http://ott-stream.sevstar.net/2095/video.m3u8?token=8330162968
+#EXTINF:-1 group-title="Спорт",03 МАТЧ
+http://188.242.237.246:65535/udp/239.239.1.66:5239
+#EXTINF:-1 group-title="Спорт",МАТЧ ПРЕМЬЕР
+http://5.128.100.70:81/udp/239.1.20.11:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ ПРЕМЬЕР
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/531/index.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ ПРЕМЬЕР HD
+http://217.25.216.4:8085/udp/238.2.16.250:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ ПРЕМЬЕР HD
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/220/index.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! ПРЕМЬЕР
+http://7489d2fd.ottrast.com/iptv/WW5BTY9VQ6QXEY/220/index.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! ПРЕМЬЕР
+http://37.235.155.216:81/udp/225.50.67.1:1234?denms.ru
+#EXTINF:-1 group-title="Спорт",МАТЧ! ПРЕМЬЕР HD
+http://217.25.216.4:8085/udp/225.1.2.104:2020
+#EXTINF:-1 group-title="Спорт",МАТЧ! ПРЕМЬЕР HD
+http://ott-stream.sevstar.net/2202/video.m3u8?token=8330162968
+#EXTINF:-1 group-title="Спорт",МАТЧ! ПРЕМЬЕР
+http://182.73.122.74:10001/bysid/706
+#EXTINF:-1 group-title="Спорт",МАТЧ! ПРЕМЬЕР
+http://188.191.36.106:8080/hls/nashfutbol.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ HD
+http://85.112.114.11:8086/udp/238.2.47.108:1234.1.3
+#EXTINF:-1 group-title="Спорт",МАТЧ HD
+http://85.112.114.11:8086/udp/238.2.50.8:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ HD
+http://85.112.114.11:8086/udp/238.2.47.108:1234.1.1
+#EXTINF:-1 group-title="Спорт",МАТЧ HD
+http://85.112.114.11:8086/udp/238.2.47.108:1234.1.2
+#EXTINF:-1 group-title="Спорт",МАТЧ HD
+http://85.112.114.11:8086/udp/238.2.47.108:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ HD
+http://85.112.114.11:8086/udp/238.2.47.108:1234.1.0
+#EXTINF:-1 group-title="Спорт",МАТЧ HD
+http://85.112.114.11:8086/udp/233.170.170.93:58631
+#EXTINF:-1 group-title="Спорт",МАТЧ HD
+http://217.25.216.4:8085/udp/238.2.17.141:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ ТВ
+http://178.163.97.128:4022/udp/234.0.0.204:2000
+#EXTINF:-1 group-title="Спорт",МАТЧ ТВ
+http://37.235.254.189:81/udp/225.50.66.91:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ ТВ
+http://tv.ttk.mx:9002
+#EXTINF:-1 group-title="Спорт",МАТЧ ТВ
+http://178.163.50.209:4022/udp/234.0.0.204:2000
+#EXTINF:-1 group-title="Спорт",МАТЧ ТВ
+http://178.163.58.72:4022/udp/234.0.0.204:2000
+#EXTINF:-1 group-title="Спорт",МАТЧ ТВ
+http://37.195.247.86:81/udp/239.1.15.23:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ ТВ
+http://178.163.47.26:4022/udp/234.0.0.204:2000
+#EXTINF:-1 group-title="Спорт",МАТЧ ТВ
+http://217.25.226.215:4022/udp/235.1.10.3:10000
+#EXTINF:-1 group-title="Спорт",МАТЧ ТВ
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/535/index.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ ТВ HD
+http://37.235.254.189:81/udp/225.50.64.150:1234
+#EXTINF:-1 group-title="Спорт",МАТЧ ТВ HD
+http://217.25.216.4:8085/udp/225.1.2.95:2020
+#EXTINF:-1 group-title="Спорт",МАТЧ ТВ HD
+http://tv.ttk.mx:9094
+#EXTINF:-1 group-title="Спорт",МАТЧ ТВ HD
+http://176.114.192.51:9988/udp/239.255.11.77:1234
+#EXTINF:-1 group-title="Познавательные",MEGA
+http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",МЕГА
+http://188.35.9.11:11082/s
+#EXTINF:-1 group-title="Познавательные",МЕГА
+http://188.35.9.5:10007/stolen/140r/parasite.install
+#EXTINF:-1 group-title="Спорт",MOTORSPORT TV
+http://45.58.62.92:8084
+#EXTINF:-1 group-title="Спорт",МОТОРСПОРТ HD
+http://ott-stream.sevstar.net/2160/video.m3u8?token=8330162968
+#EXTINF:-1 group-title="Спорт",МОТОРСПОРТ ТВ
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/2145/index.m3u8
+#EXTINF:-1 group-title="Спорт",МОТОРСПОРТ ТВ HD
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/2146/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",MTV DANCE
+http://178.163.1.77:4022/udp/234.0.0.233:2000
+#EXTINF:-1 group-title="Музыкальные",MTV DANCE
+http://37.193.232.78:81/udp/239.1.8.15:1234
+#EXTINF:-1 group-title="Музыкальные",MTV DANCE
+http://178.163.12.60:4022/udp/234.0.0.233:2000
+#EXTINF:-1 group-title="Музыкальные",MTV DANCE
+http://178.163.58.72:4022/udp/234.0.0.233:2000
+#EXTINF:-1 group-title="Музыкальные",MTV DANCE
+https://rt-cache1.peers.tv/streaming/mtv_dance/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",MTV DANCE
+http://178.163.18.154:4022/udp/234.0.0.233:2000
+#EXTINF:-1 group-title="Музыкальные",MTV DANCE
+http://178.49.77.88:3371/udp/239.1.8.15:1234
+#EXTINF:-1 group-title="Музыкальные",MTV HITS
+https://rt-cache1.peers.tv/streaming/mtv_hits/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",MTV HITS
+http://217.25.216.4:8085/udp/225.1.2.116:2020
+#EXTINF:-1 group-title="Музыкальные",MTV HITS
+http://c17166b9.iptvzone.net/iptv/QZ9SNCDE8C7UZ6/153/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",MTV HITS
+http://88.119.220.2/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
+#EXTINF:-1 group-title="Музыкальные",MTV HITS
+http://178.163.58.72:4022/udp/234.0.0.194:2000
+#EXTINF:-1 group-title="Музыкальные",MTV HITS
+http://46.49.25.122:9001/udp/224.100.1.235:1235
+#EXTINF:-1 group-title="Музыкальные",MTV HITS
+http://178.163.18.154:4022/udp/234.0.0.194:2000
+#EXTINF:-1 group-title="Музыкальные",MTV LIVE HD
+https://rt-cache1.peers.tv/streaming/mtv_live_hd/16/variable.m3u8
+#EXTINF:-1 group-title="Музыкальные",MTV LIVE HD
+http://217.25.216.4:8085/udp/225.1.2.28:2020
+#EXTINF:-1 group-title="Музыкальные",MTV LIVE HD
+http://217.25.216.4:8085/udp/238.2.16.144:1234
+#EXTINF:-1 group-title="Музыкальные",MTV LIVE HD [FHD]
+http://178.49.77.88:3371/udp/239.1.17.83:1234
+#EXTINF:-1 group-title="Музыкальные",MTV ROCKS
+http://178.163.1.77:4022/udp/234.0.0.193:2000
+#EXTINF:-1 group-title="Музыкальные",MTV ROCKS
+http://217.25.216.4:8085/udp/225.1.2.117:2020
+#EXTINF:-1 group-title="Музыкальные",MTV ROCKS
+http://178.163.58.72:4022/udp/234.0.0.193:2000
+#EXTINF:-1 group-title="Музыкальные",MTV ROCKS
+http://178.163.18.154:4022/udp/234.0.0.193:2000
+#EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО
+http://178.124.183.12/hls/W7LNWHFGTB/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО
+http://2ecba0eb.iptvzone.net/iptv/FBTD4P2R5Q8KFE/164/index.m3u8
+#EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО
+http://178.163.55.176:4022/udp/234.0.0.213:2000
+#EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО
+http://178.163.52.134:4022/udp/234.0.0.213:2000
+#EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО
+http://91.123.82.10:81/udp/239.1.9.27:1234
+#EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО
+http://178.163.47.26:4022/udp/234.0.0.213:2000
+#EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО
+http://178.163.12.60:4022/udp/234.0.0.213:2000
+#EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО
+http://185.184.233.174:5000/udp/225.1.2.174:1234?zona-iptv.ru
+#EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО
+http://178.163.117.112:4022/udp/234.0.0.213:2000
+#EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО
+http://178.163.99.66:81/udp/234.0.0.213:2000
+#EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО
+http://178.124.183.12/hls/W7LNWHFGTB/bw2000000/playlist.m3u8
+#EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО
+http://178.163.18.154:4022/udp/234.0.0.213:2000
+#EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО
+http://178.124.183.13/hls/W7LNWHFGTB/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО
+http://86.57.225.245:7015/play/a00r
+#EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО HD
+http://217.25.216.4:8085/udp/225.1.2.139:2020
+#EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО HD
+http://tv545.com/stream/3znj4KV/channel/339.m3u8
+#EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО HD
+http://217.25.216.4:8085/udp/238.2.16.148:1234
+#EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО HD
+http://188.35.9.11:2022
+#EXTINF:-1 group-title="Кино",МУХСКОЕ КИНО
+http://185.184.233.174:5000/udp/225.1.2.174:1234
+#EXTINF:-1 group-title="Познавательные",МУЖСКОЙ
+http://217.25.216.4:8085/udp/225.1.2.78:2020
+#EXTINF:-1 group-title="Познавательные",МУЖСКОЙ
+http://185.184.233.174:5000/udp/225.1.2.96:1234
+#EXTINF:-1 group-title="Познавательные",МУЖСКОЙ
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/2047/index.m3u8
+#EXTINF:-1 group-title="Познавательные",МУЖСКОЙ
+https://rt-cache1.peers.tv/streaming/muzhskoj/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",MUSIC BOX
+http://37.145.19.235:4022/udp/233.33.210.70:5050
+#EXTINF:-1 group-title="Музыкальные",MUSIC BOX AU
+http://212.26.132.86/hls/mb_ua_2500.m3u8?
+#EXTINF:-1 group-title="Музыкальные",MUSIC BOX HD (UA)
+http://195.138.79.232:4022/udp/239.0.153.173:1234
+#EXTINF:-1 group-title="Музыкальные",MUSIC BOX RU
+http://46.180.99.15:81/udp/239.255.42.100:1234
+#EXTINF:-1 group-title="Музыкальные",MUSIC BOX RU
+http://176.114.192.51:9988/udp/239.255.11.43:1234
+#EXTINF:-1 group-title="Музыкальные",MUSIC BOX RU
+http://185.184.233.174:5000/udp/225.1.2.43:1234
+#EXTINF:-1 group-title="Музыкальные",MUSIC BOX RUSSIA
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",MUSIC BOX TV
+http://46.49.25.122:9001/udp/224.100.1.45:1045
+#EXTINF:-1 group-title="Музыкальные",MUSIC BOX TV
+http://212.26.132.86/hls/mb_ua.m3u8
+#EXTINF:-1 group-title="Музыкальные",MUSIC BOX UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:-1 group-title="Музыкальные",MUSICBOX RU
+http://37.192.100.141:81/udp/239.1.8.5:1234
+#EXTINF:-1 group-title="Музыкальные",MUSICBOX RU
+http://195.14.45.212:4000/udp/233.33.210.70:5050
+#EXTINF:-1 group-title="Музыкальные",MUSICBOX UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные",MUSICBOX UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8?user-4pda-denms-ru-v1-a1
+#EXTINF:-1 group-title="Спорт",НАШ ФУТБОЛ
+http://37.235.254.189:81/udp/225.50.67.1:1234
+#EXTINF:-1 group-title="Спорт",НАШ ФУТБОЛ
+http://b80e31b0.kazmazpaz.org/iptv/3XZ376R3C9MC6X/531/index.m3u8
+#EXTINF:-1 group-title="Новости",НАСТОЯЩЕЕ ВРЕМЯ
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0720_av-b.m3u8
+#EXTINF:-1 group-title="Новости",НАСТОЯЩЕЕ ВРЕМЯ 1
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0540_av-b.m3u8
+#EXTINF:-1 group-title="Новости",НАСТОЯЩЕЕ ВРЕМЯ HD
+http://188.35.9.12:21031/udp/053c
+#EXTINF:-1 group-title="Новости",НАСТОЯЩЕЕ ВРЕМЯ HD
+http://188.35.9.12:21031/udp/054b
+#EXTINF:-1 group-title="Новости",НАСТОЯЩЕЕ ВРЕМЯ HD
+http://188.35.9.11:21031/udp/053c
+#EXTINF:-1 group-title="Новости",НАСТОЯЩЕЕ ВРЕМЯ HD
+http://188.35.9.11:21031/udp/054b
+#EXTINF:-1 group-title="Новости",НАСТОЯЩЕЕ ВРЕМЯ HD 720
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0720_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Новости",НАСТОЯЩЕЕ ВРЕМЯ [FHD]
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Новости",НАСТОЯЩЕЕ ВРЕМЯ [FHD]
+https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-b.m3u8
+#EXTINF:-1 group-title="Новости",НАСТОЯЩЕЕ ВРЕМЯ [FHD]
+http://46.49.25.122:9001/udp/224.100.1.109:1109
+#EXTINF:-1 group-title="Новости",НАСТОЯЩЕЕ ВРЕМЯ [FHD]
+https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-p.m3u8
+#EXTINF:-1 group-title="Новости",НАСТОЯЩЕЕ ВРЕМЯ
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0540_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Познавательные",NAT GEO
+http://185.184.233.174:5000/udp/225.1.2.107:1234
+#EXTINF:-1 group-title="Познавательные",NAT GEO WILD
+http://158.46.126.41:81/udp/239.255.42.36:1234
+#EXTINF:-1 group-title="Познавательные",NAT GEO WILD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/4457
+#EXTINF:-1 group-title="Познавательные",NAT GEO WILD
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/03.m3u8
+#EXTINF:-1 group-title="Познавательные",NAT GEO WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+#EXTINF:-1 group-title="Познавательные",NAT GEO WILD
+http://188.35.9.12:21121/udp/126z
+#EXTINF:-1 group-title="Познавательные",NAT GEO WILD
+http://188.35.9.5:10020/stolen/487n/hot.dll
+#EXTINF:-1 group-title="Познавательные",NAT GEO WILD
+http://188.35.9.11:21121/udp/126z
+#EXTINF:-1 group-title="Познавательные",NAT GEO WILD
+http://178.124.183.13/hls/ESCMSBZJ8X/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",NAT GEO WILD (ASIA)
+http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
+#EXTINF:-1 group-title="Познавательные",NAT GEO WILD (MENA)
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 group-title="Познавательные",NAT GEO WILD HD
+http://178.48.238.135:8001/1:0:19:7725:2C1:600:E080000:0:0:0:
+#EXTINF:-1 group-title="Познавательные",NAT GEO WILD HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
+#EXTINF:-1 group-title="Познавательные",NAT GEO WILD HD (РЕЗЕРВ)
+http://213.234.9.46:7088/udp/239.1.12.6:1234
+#EXTINF:-1 group-title="Познавательные",NATGEO WILD
+http://178.124.183.14/hls/ESCMSBZJ8X/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",NATGEOHD
+http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Познавательные",NATIONAL GEOGRAPHIC
+http://37.235.254.189:81/udp/225.50.64.69:1234
+#EXTINF:-1 group-title="Познавательные",NATIONAL GEOGRAPHIC
+http://46.180.99.15:81/udp/239.255.42.37:1234
+#EXTINF:-1 group-title="Познавательные",NATIONAL GEOGRAPHIC
+http://188.35.9.12:21121/udp/127x
+#EXTINF:-1 group-title="Познавательные",NATIONAL GEOGRAPHIC
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:-1 group-title="Познавательные",NATIONAL GEOGRAPHIC
+http://188.35.9.11:21121/udp/127x
+#EXTINF:-1 group-title="Познавательные",NATIONAL GEOGRAPHIC
+http://178.163.18.154:4022/udp/234.0.0.241:2000
+#EXTINF:-1 group-title="Познавательные",NATIONAL GEOGRAPHIC
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:-1 group-title="Познавательные",NATIONAL GEOGRAPHIC
+http://178.124.183.14/hls/CH_NATGEO/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",NATIONAL GEOGRAPHIC
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1 group-title="Познавательные",NATIONAL GEOGRAPHIC HD
+http://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+#EXTINF:-1 group-title="Познавательные",NATIONAL GEOGRAPHIC HD
+http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+#EXTINF:-1 group-title="Познавательные",NATIONAL GEOGRAPHIC HD (RU)
+http://188.35.9.12:21031/udp/034x
+#EXTINF:-1 group-title="Познавательные",NATIONAL GEOGRAPHIC HD EUROPA
+http://213.234.9.46:7088/udp/239.1.12.5:1234
+#EXTINF:-1 group-title="Познавательные",NATIONAL GEOGRAPHIC WILD
+http://188.35.9.12:21141/udp/180c
+#EXTINF:-1 group-title="Познавательные",NATIONAL GEOGRAPHIC WILD HD
+http://188.35.9.5:10005/stolen/149u/imposter.rar
+#EXTINF:-1 group-title="Познавательные",NATIONAL GEOGRAPHIC [FHD]
+http://188.35.9.11:21031/udp/034x
+#EXTINF:-1 group-title="Познавательные",NATIONAL GEOGRAPHIC [FHD]
+http://188.35.9.5:10005/stolen/151i/imposter.rar
+#EXTINF:-1 group-title="Познавательные",NATIONAL GEOGRAPHIC
+http://46.49.25.122:9001/udp/224.100.1.88:1088
+#EXTINF:-1 group-title="Познавательные",NATIONAL GEOGRAPHIC
+http://178.49.77.88:3371/udp/239.1.5.8:1234
+#EXTINF:-1 group-title="Познавательные",NATIONAL GEOGRAPHIK
+http://83.97.104.124:5555/udp/224.0.45.184:1234
+#EXTINF:-1 group-title="Познавательные",NATIONAL GEOGRAPHIK
+http://188.35.9.11:21141/udp/180c
+#EXTINF:-1 group-title="Познавательные",НАУКА 2.0
+http://178.163.52.134:4022/udp/234.0.0.226:2000
+#EXTINF:-1 group-title="Познавательные",НАУКА 2.0
+http://178.163.65.153:4022/udp/234.0.0.226:2000
+#EXTINF:-1 group-title="Познавательные",НАУКА 2.0
+http://217.25.216.4:8085/udp/225.1.2.80:2020
+#EXTINF:-1 group-title="Познавательные",НАУКА 2.0
+http://b80e31b0.kazmazpaz.org/iptv/3XZ376R3C9MC6X/118/index.m3u8
+#EXTINF:-1 group-title="Познавательные",НАУКА 2.0
+http://tv.ttk.mx:9041
+#EXTINF:-1 group-title="Познавательные",НАУКА 2.0
+http://178.163.55.176:4022/udp/234.0.0.226:2000
+#EXTINF:-1 group-title="Познавательные",НАУКА 2.0
+http://178.163.1.48:4022/udp/234.0.0.226:2000
+#EXTINF:-1 group-title="Познавательные",НАУКА 2.0
+http://178.163.33.171:4022/udp/234.0.0.226:2000
+#EXTINF:-1 group-title="Познавательные",НАУКА 2.0
+http://178.163.58.72:4022/udp/234.0.0.226:2000
+#EXTINF:-1 group-title="Познавательные",НАУКА 2.0
+http://178.163.45.64:4022/udp/234.0.0.226:2000
+#EXTINF:-1 group-title="Познавательные",НАУКА 2.0
+http://178.163.18.154:4022/udp/234.0.0.226:2000
+#EXTINF:-1 group-title="Познавательные",NAYKA
+http://176.114.192.51:9988/udp/239.255.11.25:1234
+#EXTINF:-1 group-title="Познавательные",НАУКА
+http://46.49.25.122:9001/udp/224.100.1.82:1082
+#EXTINF:-1 group-title="Познавательные",НАУКА 2
+http://185.184.233.174:5000/udp/225.1.2.144:1234
+#EXTINF:-1 group-title="Познавательные",НАУКА HD
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/2155/index.m3u8
+#EXTINF:-1 group-title="Детские",NICKELODEON
+http://91.123.82.10:81/udp/239.1.9.15:1234
+#EXTINF:-1 group-title="Детские",NICKELODEON
+https://rt-cache1.peers.tv/streaming/nickelodeon/126/variable.m3u8
+#EXTINF:-1 group-title="Детские",NICKELODEON
+http://clientbox.tv:80/Cesar65/cJzqe9z7/5111
+#EXTINF:-1 group-title="Детские",NICKELODEON
+https://cdn2.tvplayhome.lt/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+#EXTINF:-1 group-title="Детские",NICKELODEON
+http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Детские",NICKELODEON
+http://178.49.77.88:3371/udp/239.1.3.4:1234
+#EXTINF:-1 group-title="Детские",NICKELODEON
+http://37.145.19.235:4022/udp/233.33.210.80:5050
+#EXTINF:-1 group-title="Детские",NICKELODEON
+http://195.14.45.212:4000/udp/233.33.210.80:5050
+#EXTINF:-1 group-title="Детские",NICKELODEON
+http://46.49.25.122:9001/udp/224.100.1.65:1065
+#EXTINF:-1 group-title="Детские",NICKELODEON
+http://178.163.58.72:4022/udp/234.0.0.153:2000
+#EXTINF:-1 group-title="Детские",NICKELODEON
+http://88.119.220.2/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+#EXTINF:-1 group-title="Детские",NICKELODEON
+http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+#EXTINF:-1 group-title="Детские",NICKELODEON (РОССИЯ)
+http://217.25.216.4:8085/udp/225.1.2.33:2020
+#EXTINF:-1 group-title="Детские",NICKELODEON AT
+http://77.109.171.191:8000/play/a051
+#EXTINF:-1 group-title="Детские",NICKELODEON HD
+http://217.25.216.4:8085/udp/225.1.2.34:2020
+#EXTINF:-1 group-title="Детские",NICKELODEON HD
+http://217.25.216.4:8085/udp/238.2.16.174:1234
+#EXTINF:-1 group-title="Детские",NICKELODEON HD
+http://188.35.9.12:21151/udp/210d
+#EXTINF:-1 group-title="Детские",NICKELODEON HD
+http://188.35.9.11:21031/udp/109b
+#EXTINF:-1 group-title="Детские",NICKELODEON HD
+http://188.35.9.11:21151/udp/210d
+#EXTINF:-1 group-title="Детские",NICKELODEON HD
+http://188.35.9.12:21031/udp/109b
+#EXTINF:-1 group-title="Детские",NICKELODEON HD [FHD]
+https://rt-cache1.peers.tv/streaming/nickelodeon_hd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Детские",NICKELODEON
+http://46.180.99.15:81/udp/239.255.42.32:1234
+#EXTINF:-1 group-title="Детские",NICKELODEON
+http://37.192.100.141:81/udp/239.1.3.4:1234
+#EXTINF:-1 group-title="Детские",NICKELODEON
+http://178.163.18.154:4022/udp/234.0.0.153:2000
+#EXTINF:-1 group-title="Детские",NICKELODION
+http://178.163.50.209:4022/udp/234.0.0.153:2000
+#EXTINF:-1 group-title="Детские",NICK JR
+http://217.25.216.4:8085/udp/225.1.2.32:2020
+#EXTINF:-1 group-title="Детские",NICK JR
+http://b80e31b0.kazmazpaz.org/iptv/3XZ376R3C9MC6X/114/index.m3u8
+#EXTINF:-1 group-title="Детские",NICK JR
+https://cdn2.tvplayhome.lt/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
+#EXTINF:-1 group-title="Детские",NICK JR
+http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
+#EXTINF:-1 group-title="Детские",NICK JR.
+http://46.180.99.15:81/udp/239.255.42.126:1234
+#EXTINF:-1 group-title="Детские",NICK JR.
+http://213.174.8.7:9100/index.m3u8
+#EXTINF:-1 group-title="Детские",NICK JR.
+http://213.174.8.7:8000/play/7/index.m3u8
+#EXTINF:-1 group-title="Познавательные",NLO TV
+http://188.35.9.12:21141/udp/175d
+#EXTINF:-1 group-title="Познавательные",НЛО TV
+http://193.46.210.28/stream/pehgmkf3673fmwa7tnhu2ufvyusm9skzuvqb8equi4v9zref7n37rypnw3hwesramgu7m4y88zscecjp4ytv4cfm3h9guiiuq38vh7qvjkb47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
+#EXTINF:-1 group-title="Познавательные",НОВЫЙ КАНАЛ
+http://stream.ont.by:1935/ont/live576p/playlist.m3u8
+#EXTINF:-1 group-title="Новости",НТН
+https://edge2.iptv.macc.com.ua/img/ntn.m3u8
+#EXTINF:-1 group-title="Новости",НТН
+http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
+#EXTINF:-1 group-title="Новости",НТН
+http://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
+#EXTINF:-1 group-title="Новости",НТН
+http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
+#EXTINF:-1 group-title="Новости",НТН
+http://lb1.macc.com.ua/img/ntn_3/index.m3u8
+#EXTINF:-1 group-title="Новости",НТН
+http://lb1.macc.com.ua/img/ntn_2/index.m3u8
+#EXTINF:-1 ,#EXTGRP:XXX
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/2057/index.m3u8
+#EXTINF:-1 group-title="Познавательные",OHOTA I RYBALKA
+http://176.114.192.51:9988/udp/239.255.11.60:1234
+#EXTINF:-1 group-title="Познавательные",OHOTA I RYBALKA
+http://185.184.233.174:5000/udp/225.1.2.116:1234
+#EXTINF:-1 group-title="Познавательные",ОХОТА И РЫБАЛКА
+http://178.163.47.26:4022/udp/234.0.0.230:2000
+#EXTINF:-1 group-title="Познавательные",ОХОТА И РЫБАЛКА
+http://37.235.254.189:81/udp/225.50.64.104:1234
+#EXTINF:-1 group-title="Познавательные",ОХОТА И РЫБАЛКА
+http://tv.ttk.mx:9034
+#EXTINF:-1 group-title="Познавательные",ОХОТА И РЫБАЛКА
+http://178.163.12.60:4022/udp/234.0.0.230:2000
+#EXTINF:-1 group-title="Познавательные",ОХОТА И РЫБАЛКА
+http://178.163.58.72:4022/udp/234.0.0.230:2000
+#EXTINF:-1 group-title="Познавательные",ОХОТА И РЫБАЛКА
+http://178.163.109.216:34040/udp/234.0.0.230:2000
+#EXTINF:-1 group-title="Познавательные",ОХОТА И РЫБАЛКА
+http://178.124.183.13/hls/VF5ELDF8AL/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",ОХОТА И РЫБАЛКА
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/2019/index.m3u8
+#EXTINF:-1 group-title="Познавательные",ОХОТА И РЫБАЛКА
+http://37.235.158.42:81/udp/225.50.64.104:1234
+#EXTINF:-1 group-title="Познавательные",ОХОТА И РЫБАЛКА
+http://37.235.191.107:81/udp/225.50.64.104:1234
+#EXTINF:-1 group-title="Познавательные",ОХОТА И РЫБАЛКА
+http://37.235.150.138:81/udp/225.50.64.104:1234
+#EXTINF:-1 group-title="Познавательные",ОХОТА И РЫБАЛКА
+http://37.235.216.120:81/udp/225.50.64.104:1234
+#EXTINF:-1 group-title="Познавательные",ОХОТА И РЫБАЛКА
+https://rt-cache1.peers.tv/streaming/hafi/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",ОХОТА И РЫБАЛКА
+http://46.180.99.15:81/udp/239.255.42.39:1234
+#EXTINF:-1 group-title="Познавательные",ОХОТА И РЫБАЛКА
+http://178.163.18.154:4022/udp/234.0.0.230:2000
+#EXTINF:-1 group-title="Познавательные",ОХОТНИК И РЫБОЛОВ
+http://91.123.82.10:81/udp/239.1.10.13:1234
+#EXTINF:-1 group-title="Познавательные",ОХОТНИК И РЫБОЛОВ
+https://rt-cache1.peers.tv/streaming/ohotnik_i_rybolov_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",ОХОТНИК И РЫБОЛОВ
+http://217.25.216.4:8085/udp/225.1.2.84:2020
+#EXTINF:-1 group-title="Познавательные",ОХОТНИК И РЫБОЛОВ
+http://185.184.233.174:5000/udp/225.1.2.67:1234
+#EXTINF:-1 group-title="Познавательные",ОХОТНИК И РЫБОЛОВ
+http://178.163.117.112:4022/udp/234.0.0.98:2000
+#EXTINF:-1 group-title="Познавательные",ОХОТНИК И РЫБОЛОВ HD
+http://178.163.43.72:4022/udp/234.0.0.98:2000
+#EXTINF:-1 group-title="Познавательные",ОХОТНИК И РЫБОЛОВ HD
+http://178.163.58.72:4022/udp/234.0.0.98:2000
+#EXTINF:-1 group-title="Познавательные",ОХОТНИК И РЫБОЛОВ HD
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/917/index.m3u8
+#EXTINF:-1 group-title="Познавательные",ОХОТНИК И РЫБОЛОВ HD (РЕЗЕРВ)
+http://ott-stream.sevstar.net/2054/video.m3u8?token=8330162968
+#EXTINF:-1 group-title="Познавательные",ОХОТНИК И РЫБОЛОВ
+https://rt-cache1.peers.tv/streaming/ohotnik_i_rybolov/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",ОРУЖИЕ
+http://176.114.128.43:81/udp/239.100.8.24:1234
+#EXTINF:-1 group-title="Познавательные",ОРУЖИЕ
+http://217.25.216.4:8085/udp/225.1.2.82:2020
+#EXTINF:-1 group-title="Познавательные",ОРУЖИЕ
+http://178.163.18.154:4022/udp/234.0.0.97:2000
+#EXTINF:-1 group-title="Познавательные",ОРУЖИЕ
+http://178.124.183.14/hls/EWEXU8FWAZ/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",ОРУЖИЕ
+http://178.124.183.13/hls/EWEXU8FWAZ/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",ОРУЖИЕ
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/2087/index.m3u8
+#EXTINF:-1 group-title="Познавательные",ОРУЖИЕ
+https://rt-cache1.peers.tv/streaming/oruzhie/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",ОРУЖИЕ
+http://178.49.77.88:3371/udp/239.1.2.7:1234
+#EXTINF:-1 group-title="Кино",PARAMOUNT CHANNEL
+http://7489d2fd.ottrast.com/iptv/WW5BTY9VQ6QXEY/2055/index.m3u8
+#EXTINF:-1 group-title="Кино",PARAMOUNT CHANNEL
+http://95.183.17.204:4021/udp/239.10.2.118:5000
+#EXTINF:-1 group-title="Кино",PARAMOUNT CHANNEL
+http://paramount.live.flumotion.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Кино",PARAMOUNT CHANNEL
+http://paramount.live.flumotion.com/live/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Кино",PARAMOUNT CHANNEL
+http://182.73.122.74:10004/bysid/1105
+#EXTINF:-1 group-title="Кино",PARAMOUNT COMEDY
+http://91.123.82.10:81/udp/239.1.10.33:1234
+#EXTINF:-1 group-title="Кино",PARAMOUNT COMEDY
+http://217.25.216.4:8085/udp/238.2.0.181:1234
+#EXTINF:-1 group-title="Кино",PARAMOUNT COMEDY
+http://51.15.215.116:8081/tv/Paramount-Comedy/playlist.m3u8
+#EXTINF:-1 group-title="Кино",PARAMOUNT COMEDY
+http://158.46.126.41:81/udp/239.255.42.16:1234
+#EXTINF:-1 group-title="Кино",PARAMOUNT COMEDY HD
+http://109.171.6.220:81/udp/239.54.5.117:1234
+#EXTINF:-1 group-title="Кино",PARAMOUNT COMEDY
+http://46.180.99.15:81/udp/239.255.42.16:1234
+#EXTINF:-1 group-title="Кино",PARAMOUNT COMEDY РОССИЯ
+http://217.25.216.4:8085/udp/225.1.2.37:2020
+#EXTINF:-1 group-title="Кино",PARAMOUNT HD
+http://217.25.216.4:8085/udp/225.1.2.36:2020
+#EXTINF:-1 group-title="Кино",PARAMOUNT HD
+http://217.25.216.4:8085/udp/238.2.17.127:1234
+#EXTINF:-1 group-title="Развлекательные",16 ПЯТНИЦА
+http://88.201.131.123:4022/udp/239.239.2.3:5239
+#EXTINF:-1 group-title="Развлекательные",16 ПЯТНИЦА
+http://188.242.237.246:65535/udp/239.239.2.3:5239
+#EXTINF:-1 group-title="Развлекательные",ПЯТНИЦА
+http://tv.ttk.mx:9015
+#EXTINF:-1 group-title="Развлекательные",ПЯТНИЦА
+http://188.242.199.174:81/udp/239.239.2.3:5239
+#EXTINF:-1 group-title="Развлекательные",ПЯТНИЦА
+http://178.163.58.72:4022/udp/234.0.0.235:2000
+#EXTINF:-1 group-title="Развлекательные",ПЯТНИЦА
+http://178.163.15.103:4022/udp/234.0.0.235:2000
+#EXTINF:-1 group-title="Развлекательные",ПЯТНИЦА HD
+http://85.112.114.11:8086/udp/238.2.13.242:1234
+#EXTINF:-1 group-title="Развлекательные",ПЯТНИЦА HD
+http://85.112.114.11:8086/udp/238.2.62.80:1234
+#EXTINF:-1 group-title="Развлекательные",ПЯТНИЦА!
+http://37.235.254.189:81/udp/225.50.66.56:1234
+#EXTINF:-1 group-title="Развлекательные",ПЯТНИЦА!
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/503/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ПЯТНИЦА! (+2)
+http://5.59.200.247:81/udp/239.72.6.177:1234
+#EXTINF:-1 group-title="Развлекательные",ПЯТНИЦА! (+4)
+http://37.195.207.246:4022/udp/239.1.15.17:1234
+#EXTINF:-1 group-title="Развлекательные",ПЯТНИЦА! HD
+http://195.191.208.2:8086/udp/233.170.170.112:58631
+#EXTINF:-1 group-title="Развлекательные",ПЯТНИЦА! HD
+http://195.191.208.2:8086/udp/238.2.62.80:1234
+#EXTINF:-1 group-title="Развлекательные",ПЯТНИЦА! HD
+http://85.112.114.11:8086/udp/233.170.170.112:58631
+#EXTINF:-1 group-title="Развлекательные",ПЯТНИЦА! [HD]
+https://rtmp.radiogroup.com.ua:8080/live/pt/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ПЯТНИЦА!
+http://178.163.18.154:4022/udp/234.0.0.235:2000
+#EXTINF:-1 group-title="Новости",ПЕРШИЙ ЗАХIДНИЙ
+http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Новости",ПЕРШИЙ ЗАХОДНИЙ
+http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Новости",ПЕРВЫЙ ДЕЛОВОЙ
+http://95.67.127.156/hls/pershij-dlovij_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Новости",ПЕРВЫЙ ДЕЛОВОЙ
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Новости",ПЕРВЫЙ ДЕЛОВОЙ
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Новости",ПЕРВЫЙ ДЕЛОВОЙ [HD]
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Познавательные",ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
+http://46.180.99.15:81/udp/239.255.42.178:1234
+#EXTINF:-1 group-title="Познавательные",ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
+http://188.242.199.174:81/udp/239.239.3.31:5239
+#EXTINF:-1 group-title="Познавательные",ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/701/index.m3u8
+#EXTINF:-1 group-title="Детские",ПИКСЕЛЬ ТВ
+http://188.35.9.5:10007/stolen/139e/parasite.install
+#EXTINF:-1 group-title="Познавательные",MY PLANET
+http://tv.ttk.mx:9040
+#EXTINF:-1 group-title="Познавательные",MY PLANET
+http://176.114.192.51:9988/udp/239.255.11.24:1234
+#EXTINF:-1 group-title="Познавательные",PLANETA HD
+http://tv.ttk.mx:9087
+#EXTINF:-1 group-title="Познавательные",ПЛАНЕТА HD
+http://217.25.216.4:8085/udp/225.1.2.38:2020
+#EXTINF:-1 group-title="Познавательные",ПЛАНЕТА HD
+http://217.25.216.4:8085/udp/238.2.17.118:1234
+#EXTINF:-1 group-title="Познавательные",ПЛАНЕТА HD
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/2090/index.m3u8
+#EXTINF:-1 group-title="Познавательные",ТК ПЛАНЕТА
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:XXX
+http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
+#EXTINF:-1 ,#EXTGRP:XXX
+http://37.235.254.189:81/udp/225.50.70.2:1234
+#EXTINF:-1 ,#EXTGRP:XXX
+http://188.35.9.12:21141/udp/184h
+#EXTINF:-1 ,#EXTGRP:XXX
+http://188.35.9.11:21141/udp/184h
+#EXTINF:-1 ,#EXTGRP:XXX
+http://188.35.9.12:21101/udp/127h
+#EXTINF:-1 group-title="Детские",ПЛЮСПЛЮС
+https://live-k2302-kbp.1plus1.video/487229/smil:487229.smil/chunklist_b2928000.m3u8
+#EXTINF:-1 group-title="Детские",ПЛЮСПЛЮС
+https://live-k2311-kbp.1plus1.video/487229/smil:487229.smil/playlist.m3u8
+#EXTINF:-1 group-title="Детские",ПЛЮСПЛЮС
+https://live-k2301-kbp.1plus1.video/487229/smil:487229.smil/chunklist_b2928000.m3u8
+#EXTINF:-1 group-title="Познавательные",POEHALI
+http://31.131.80.12:81/poehali/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",ПОЕХАЛИ
+http://sc.id-tv.kz:80/poehali_38_39.m3u8
+#EXTINF:-1 group-title="Познавательные",ПОЕХАЛИ!
+http://37.235.254.189:81/udp/225.50.64.5:1234
+#EXTINF:-1 group-title="Познавательные",ПОЕХАЛИ!
+http://tv.ttk.mx:9082
+#EXTINF:-1 group-title="Познавательные",ПОЕХАЛИ!
+http://178.124.183.150/hls/CH_POEHALY_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",ПОЕХАЛИ!
+http://185.184.233.174:5000/udp/225.1.2.145:1234
+#EXTINF:-1 group-title="Познавательные",ПОЕХАЛИ!
+http://46.49.25.122:9001/udp/224.100.1.99:1099
+#EXTINF:-1 group-title="Познавательные",ПОЕХАЛИ!
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/135/index.m3u8
+#EXTINF:-1 group-title="Новости",ПРЯМИЙ (UA)
+http://95.67.21.100/hls/prm_ua_low/index.m3u8
+#EXTINF:-1 group-title="Новости",ПРЯМИЙ (UA)
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Новости",ПРЯМИЙ SD
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_low/index.m3u8
+#EXTINF:-1 group-title="Новости",ПРЯМИЙ TIM
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
+#EXTINF:-1 group-title="Новости",ПРЯМОЙ HD
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Новости",ПРЯМЫЙ
+http://95.67.21.100/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Новости",ПРАВДА ТУТ
+http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Новости",ПРАВДА ТУТ HD (КИЕВ)
+http://pravdatytkievshina-hls3.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Новости",ПРАВДА ТУТ HD (КИЕВ)
+http://pravdatytkievshina-hls1.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Новости",ПРАВДА ТУТ SD
+http://pravdatytkievshina-hls3.cosmonova.net.ua/hls/pravdatytkievshina_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Новости",ПРАВДА ТУТ КИЕВ
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Познавательные",ПРИКЛЮЧЕНИЯ
+http://91.192.168.242:9091
+#EXTINF:-1 group-title="Познавательные",ПРИКЛЮЧЕНИЯ HD
+http://37.235.254.189:81/udp/225.50.71.3:1234
+#EXTINF:-1 group-title="Познавательные",ПРИКЛЮЧЕНИЯ HD
+http://217.25.216.4:8085/udp/238.2.16.140:1234
+#EXTINF:-1 group-title="Познавательные",ПРИКЛЮЧЕНИЯ HD
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/920/index.m3u8
+#EXTINF:-1 ,#EXTGRP:XXX
+http://188.35.9.5:10005/stolen/153a/imposter.rar
+#EXTINF:-1 group-title="Спорт",REAL MADRID
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:-1 group-title="Спорт",REAL MADRID
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 group-title="Спорт",REAL MADRID HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Спорт",REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?textatu?iptv.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Спорт",REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=ole=%22Sport%22,Al%20Kass%20Five
+#EXTINF:-1 group-title="Спорт",REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
+#EXTINF:-1 group-title="Спорт",REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&amp;rebase=on?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="Спорт",REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Спорт",REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=ole="Спорт",Al Kass Five
+#EXTINF:-1 group-title="Спорт",REAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+#EXTINF:-1 group-title="Спорт",REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+#EXTINF:-1 group-title="Спорт",REAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+#EXTINF:-1 group-title="Спорт",REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Спорт",REAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Спорт",REAL MADRID TV (ENG)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1 group-title="Спорт",REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 group-title="Спорт",REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?xtreamiptv.m3u8
+#EXTINF:-1 group-title="Спорт",RUSSIAN EXTREME
+http://178.163.83.4:4022/udp/234.0.0.173:2000
+#EXTINF:-1 group-title="Спорт",RUSSIAN EXTREME
+http://178.163.50.209:4022/udp/234.0.0.173:2000
+#EXTINF:-1 group-title="Спорт",RUSSIAN EXTREME
+http://178.163.58.72:4022/udp/234.0.0.173:2000
+#EXTINF:-1 group-title="Спорт",RUSSIAN EXTREME
+http://178.163.18.154:4022/udp/234.0.0.173:2000
+#EXTINF:-1 group-title="Спорт",RUSSIAN EXTREME HD
+http://tv.ttk.mx:9095
+#EXTINF:-1 group-title="Спорт",RUSSIAN EXTREME UHD
+http://217.25.216.4:8085/udp/238.2.19.32:1234
+#EXTINF:-1 ,#EXTGRP:XXX
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/922/index.m3u8
+#EXTINF:-1 group-title="Познавательные",SILENCE TV
+http://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/chunklist_w131157424.m3u8
+#EXTINF:-1 group-title="Познавательные",SILENCE TV HD
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",SETANTA SPORT ПЛЮС
+http://195.158.29.129/live_360/live.stream+_360p.m3u8
+#EXTINF:-1 group-title="Спорт",SETANTA SPORTS + HD (РЕЗЕРВ)
+http://178.124.183.13/hls/5T3FNFICQ4/bw5000000/playlist.m3u8?version=2
+#EXTINF:-1 group-title="Спорт",SETANTA SPORTS HD
+http://178.124.183.15:80/hls/FWHTTL8YXU/bw5000000/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",SETANTA SPORTS HD
+http://188.35.9.12:21081/udp/157s
+#EXTINF:-1 group-title="Спорт",SETANTA SPORTS HD
+http://178.124.183.12:80/hls/FWHTTL8YXU/bw5000000/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",SETANTA SPORTS HD
+http://178.124.183.13/hls/FWHTTL8YXU/bw5000000/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",SETANTA SPORTS HD
+http://178.124.183.14:80/hls/FWHTTL8YXU/bw5000000/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",SETANTA SPORTS UA HD (РЕЗЕРВ)
+https://95-213-224-184.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1 group-title="Спорт",SETANTA SPORTS [FHD]
+http://46.49.25.122:9001/udp/224.100.1.111:1111
+#EXTINF:-1 group-title="Спорт",SETANTA SPORTS [FHD]
+http://178.124.183.13/hls/FWHTTL8YXU/bw5000000/playlist.m3u8?version=2
+#EXTINF:-1 group-title="Спорт",SETANTA SPORTS [FHD]
+http://178.124.183.13/hls/FWHTTL8YXU/bw5000000/playlist.m3u8?version=2?seg-user-zona-iptv.ru-v1-a1
+#EXTINF:-1 group-title="Спорт",SETANTA SPORTS+ [FHD]
+http://178.124.183.13/hls/5T3FNFICQ4/bw5000000/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",SETANTA SPORTS+ [FHD]
+http://178.124.183.13/hls/5T3FNFICQ4/bw5000000/playlist.m3u8?version=2?seg-user-4pda-denms-ru-v1-a1
+#EXTINF:-1 group-title="Спорт",SETANTA SPORTS+ [FHD]
+http://178.124.183.13/hls/5T3FNFICQ4/bw5000000/playlist.m3u8?version=2?seg-user-zona-iptv.ru-v1-a1
+#EXTINF:-1 group-title="Спорт",SETANTA SPORTS EURASIA HD
+http://178.124.183.12/hls/FWHTTL8YXU/bw5000000/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",СЕТАНТА СПОРТ
+http://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="Спорт",СЕТАНТА СПОРТ + HD
+http://185.57.68.33:8091/227/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт",СЕТАНТА СПОРТ HD
+http://185.57.68.33:8091/226/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт",НТА / NTA UKRAINE
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Новости",SKRYPIN UA
+https://open-cdn.lanet.tv/live/1008.m3u8?key=d69eadf593a8396f8f01905b00ae3cf3
+#EXTINF:-1 group-title="Новости",SKRYPIN UA
+https://open-cdn.lanet.tv/live/1008.m3u8
+#EXTINF:-1 group-title="Спорт",SKY SPORTS 1
+http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8
+#EXTINF:-1 group-title="Спорт",SKY SPORT Новости
+http://178.196.237.240:7777/play/a01u
+#EXTINF:-1 group-title="Спорт",SKY SPORT Новости HD
+http://tv.fast-iptv.info:12974/live/Y1DPT1hAN9/W9fsyYiPRC/529.ts
+#EXTINF:-1 group-title="Спорт",SKY SPORT Новости HD
+http://178.196.237.240:3000/play/ccSkyНовостиcc
+#EXTINF:-1 group-title="Спорт",SKY SPORTS PREMIER LEAGUE HD
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
+#EXTINF:-1 group-title="Кино",SONY SCI-FI
+http://178.124.183.12:80/hls/EDVYQYGHF8/bw2000000/playlist.m3u8
+#EXTINF:-1 group-title="Кино",SONY SCI-FI
+http://37.192.106.252:81/udp/239.1.4.7:1234
+#EXTINF:-1 group-title="Кино",SONY SCI-FI
+http://217.25.216.4:8085/udp/225.1.2.6:2020
+#EXTINF:-1 group-title="Кино",SONY SCI-FI
+http://46.181.116.168:81/udp/239.255.42.48:1234
+#EXTINF:-1 group-title="Кино",SONY SCI-FI
+http://178.124.183.12/hls/EDVYQYGHF8/bw2000000/playlist.m3u8
+#EXTINF:-1 group-title="Кино",SONY SCI-FI
+http://178.124.183.14/hls/EDVYQYGHF8/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Кино",SONY SCI-FI
+http://46.180.99.15:81/udp/239.255.42.48:1234
+#EXTINF:-1 group-title="Кино",SONY SCIFI
+http://178.124.183.13/hls/EDVYQYGHF8/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Кино",SONY TURBO
+http://158.46.126.41:81/udp/239.255.42.93:1234
+#EXTINF:-1 group-title="Кино",SONY TURBO
+http://217.25.216.4:8085/udp/225.1.2.45:2020
+#EXTINF:-1 group-title="Кино",SONY TURBO
+http://46.180.99.15:81/udp/239.255.42.93:1234
+#EXTINF:-1 group-title="Кино",SPIKE
+http://5.59.200.247:81/udp/239.72.4.12:1234
+#EXTINF:-1 group-title="Кино",SPIKE
+http://217.25.216.4:8085/udp/225.1.2.133:2020
+#EXTINF:-1 group-title="Кино",SPIKE
+http://188.35.9.12:21111/udp/174r
+#EXTINF:-1 group-title="Кино",SPIKE
+http://188.35.9.11:21111/udp/174r
+#EXTINF:-1 group-title="Кино",SPIKE
+http://217.25.216.4:8085/udp/238.2.15.68:1234
+#EXTINF:-1 group-title="Кино",SPIKE HD
+http://178.49.164.156:81/udp/239.1.21.57:1234
+#EXTINF:-1 group-title="Кино",SPIKE HD
+http://213.234.9.46:7088/udp/239.1.10.10:1234
+#EXTINF:-1 group-title="Спорт",СПОРТ 1 (UA)
+https://95-213-224-184.livesports24.online/sport1ua.m3u8
+#EXTINF:-1 group-title="Спорт",AD SPORT1 HD
+http://77.109.171.191:8000/play/a08p
+#EXTINF:-1 group-title="Спорт",AD SPORTS 2 HD
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1 group-title="Спорт",AD SPPORT
+http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",ALL SPORTS
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 group-title="Спорт",ALL SPORTS
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
+#EXTINF:-1 group-title="Спорт",ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/chunklist_w1933697883.m3u8
+#EXTINF:-1 group-title="Спорт",ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 group-title="Спорт",ALL SPORTS
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/media.m3u8
+#EXTINF:-1 group-title="Спорт",ALL SPORTS TV
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w809987188.m3u8
+#EXTINF:-1 group-title="Спорт",ALL SPORTS TV
+http://59f1cbe63db89.streamlock.net:1935/dgrau/_definst_/dgrau/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",SPORTSKOOL
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+#EXTINF:-1 group-title="Спорт",CBS SPORT HD
+https://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",CT SPORT HD
+http://95.170.215.118/hls/m3u8/CT-Sport.m3u8
+#EXTINF:-1 group-title="Спорт",D SPORT
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+#EXTINF:-1 group-title="Спорт",DD SPORTS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 group-title="Спорт",DD SPORTS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Спорт",DSPORT
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Спорт",DSPORTS
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 group-title="Спорт",KSA SPORT 2
+https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",NBS SPORTS
+http://161.0.157.5/PLTV/88888888/224/3221226881/02.m3u8
+#EXTINF:-1 group-title="Спорт",NBS SPORTS
+http://161.0.157.5/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 group-title="Спорт",NBS SPORTS HD
+http://161.0.157.5/PLTV/88888888/224/3221226881/01.m3u8
+#EXTINF:-1 group-title="Спорт",SPORT
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Спорт",SPORT (ES)
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1 group-title="Спорт",SPORT 1 LT
+http://185.176.117.243/live/eds/Sport1/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Спорт",SPORT 2U
+http://live.sport2u.tv:1935/EvoLive/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",SPORT HD
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Спорт",SPORT KG
+http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",SPORT MAX
+http://161.0.157.8/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:-1 group-title="Спорт",SPORT MAX
+http://161.0.157.8/PLTV/88888888/224/3221226766/03.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Спорт",SPORT MAX
+http://161.0.157.8/PLTV/88888888/224/3221226766/index.m3u8
+#EXTINF:-1 group-title="Спорт",SPORT MAX
+http://161.0.157.8/PLTV/88888888/224/3221226766/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Спорт",SPORT MAX HD
+http://161.0.157.8/PLTV/88888888/224/3221226766/01.m3u8
+#EXTINF:-1 group-title="Спорт",SPORT TV 1 FHD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/7797
+#EXTINF:-1 group-title="Спорт",SPORT TV 1 HD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/3013
+#EXTINF:-1 group-title="Спорт",SPORT TV 2 FHD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/7798
+#EXTINF:-1 group-title="Спорт",SPORT TV 4
+http://188.35.9.11:21081/udp/109o
+#EXTINF:-1 group-title="Спорт",SPORT TV1
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/215.ts
+#EXTINF:-1 group-title="Спорт",SPORT UZ
+http://94.29.47.68:8000/play/a00h
+#EXTINF:-1 group-title="Спорт",SPORT [HD]
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="Спорт",SPORT1
+http://77.109.171.191:8000/play/xxSport1xx
+#EXTINF:-1 group-title="Спорт",SPORT1
+http://185.176.117.243/live/eds/Sport1/HLS_encr/Sport1.m3u8
+#EXTINF:-1 group-title="Спорт",SPORTKLUB HD
+http://188.35.9.12:21161/udp/170z
+#EXTINF:-1 group-title="Спорт",SPORTKLUB HD
+http://188.35.9.11:21161/udp/170z
+#EXTINF:-1 group-title="Спорт",SPORTS MAX
+http://161.0.157.9/PLTV/88888888/224/3221226766/04.m3u8
+#EXTINF:-1 group-title="Спорт",SPORTS MAX HD
+http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8
+#EXTINF:-1 group-title="Спорт",SPORTS MAX HD
+http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Спорт",SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/02.m3u8
+#EXTINF:-1 group-title="Спорт",SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:-1 group-title="Спорт",SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
+#EXTINF:-1 group-title="Спорт",СПОРТ
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",СПОРТ
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Спорт",СПОРТ 1 HD
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 group-title="Кино",STAR CINEMA
+http://178.124.183.13/hls/CH_STARCINEMA/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Кино",STAR FAMILY
+http://178.124.183.13/hls/CH_FAMILY/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",СТБ
+http://51.15.176.84/hls/stb-ua/index.m3u8
+#EXTINF:-1 group-title="Познавательные",СТБ
+http://188.35.9.11:11021/j
+#EXTINF:-1 group-title="Познавательные",СТВ BY
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:-1 group-title="Кино",СТС
+http://79.135.71.195:8010
+#EXTINF:-1 group-title="Кино",СТС
+http://178.163.93.172:4022/udp/234.0.0.239:2000
+#EXTINF:-1 group-title="Кино",СТС
+http://tv.ttk.mx:9012
+#EXTINF:-1 group-title="Кино",СТС
+http://46.180.99.15:81/udp/239.255.42.7:1234
+#EXTINF:-1 group-title="Кино",СТС
+http://188.242.199.174:81/udp/239.239.2.64:5239
+#EXTINF:-1 group-title="Кино",СТС
+http://91.207.76.11:8000/tv_ch2-03
+#EXTINF:-1 group-title="Кино",СТС
+http://46.49.25.122:9001/udp/224.100.1.171:1171
+#EXTINF:-1 group-title="Кино",СТС
+http://sc.id-tv.kz/STS_36_37.m3u8
+#EXTINF:-1 group-title="Кино",СТС
+http://sc.id-tv.kz/STS_36_37.m3u8?seg-user-4pda-denms-ru-v1-a1
+#EXTINF:-1 group-title="Кино",СТС
+https://sc.id-tv.kz/STS_38_39.m3u8
+#EXTINF:-1 group-title="Кино",СТС
+http://37.192.131.195:81/udp/239.1.15.6:1234
+#EXTINF:-1 group-title="Кино",СТС
+http://46.165.2.202:8080/sts/index.m3u8
+#EXTINF:-1 group-title="Кино",СТС
+http://217.25.216.4:8085/udp/238.2.14.249:1234
+#EXTINF:-1 group-title="Кино",СТС
+http://188.35.9.11:21101/udp/131p
+#EXTINF:-1 group-title="Кино",СТС
+http://178.163.18.154:4022/udp/234.0.0.239:2000
+#EXTINF:-1 group-title="Кино",СТС
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/506/index.m3u8
+#EXTINF:-1 group-title="Кино",СТС +2
+http://46.165.2.202:8080/sts/mpegts
+#EXTINF:-1 group-title="Кино",СТС +4
+http://185.184.233.174:5000/udp/225.1.2.12:1234
+#EXTINF:-1 group-title="Познавательные",TIERRAMIA TV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:-1 group-title="Новости",TET
+https://live-k2301-kbp.1plus1.video/233342/smil:233342.smil/chunklist_b2928000.m3u8
+#EXTINF:-1 group-title="Новости",ТЕТ
+http://109.95.47.229:809/TET/index.m3u8
+#EXTINF:-1 group-title="Новости",ТЕТ
+https://live-k2311-kbp.1plus1.video/233342/smil:233342.smil/playlist.m3u8
+#EXTINF:-1 group-title="Новости",ТЕТ
+https://live-k2301-kbp.1plus1.video/233342/smil:233342/chunklist_b2928000.m3u8
+#EXTINF:-1 group-title="Новости",ТЕТ
+http://stream2g01-g50.1plus1.ua/233342/smil:233342.smil/playlist.m3u8
+#EXTINF:-1 group-title="Новости",ТЕТ
+https://live-k2309-kbp.1plus1.video/233342/smil:233342.smil/chunklist_b2928000.m3u8
+#EXTINF:-1 group-title="Кино",THE OLYMPIC CHANNEL HD
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ COMEDY
+http://182.73.122.74:10001/bysid/708
+#EXTINF:-1 group-title="Развлекательные",CTN INTERNACIONAL
+http://ph1.ministeriotv.com:1936/48/smil:48.smil/chunklist_w250775975_b1564000_sleng.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ INTERNATIONAL
+http://178.124.183.150/hls/MVNP5DA4U9_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",TNT HD
+http://188.35.9.11:21151/udp/184g
+#EXTINF:-1 group-title="Развлекательные",TNT4
+http://88.201.131.123:4022/udp/239.239.3.36:5239
+#EXTINF:-1 group-title="Развлекательные",TNT4
+http://94.19.167.157:55555/udp/239.239.3.36:5239
+#EXTINF:-1 group-title="Развлекательные",TNT4
+http://176.114.192.51:9988/udp/239.255.11.39:1234
+#EXTINF:-1 group-title="Развлекательные",TNT4
+http://188.35.9.5:10020/stolen/422r/hot.dll
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+http://178.163.55.176:4022/udp/234.0.0.186:2000
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+http://37.194.55.105:81/udp/239.1.15.7:1234
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+http://193.150.93.38:4022/udp/224.0.90.21:1234
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+http://tv.ttk.mx:9018
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+http://91.207.76.11:8000/tv_ch2-09
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+http://46.49.25.122:9001/udp/224.100.1.223:1223
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+http://86.57.225.245:7012/play/a005
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+http://37.192.131.195:81/udp/239.1.15.7:1234
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+http://188.35.9.5:10020/stolen/441t/hot.dll
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+http://46.165.2.202:8080/tnt/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+http://178.163.58.72:4022/udp/234.0.0.186:2000
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+http://178.163.58.72:4022/udp/234.0.0.9:2000
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/502/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ +4
+http://185.184.233.174:5000/udp/225.1.2.11:1234
+#EXTINF:-1 group-title="Развлекательные",ТНТ +4
+http://178.163.18.154:4022/udp/234.0.0.9:2000
+#EXTINF:-1 group-title="Развлекательные",ТНТ 0
+http://188.35.9.11:11061/z
+#EXTINF:-1 group-title="Развлекательные",ТНТ 4
+http://178.163.55.176:4022/udp/234.0.0.181:2000
+#EXTINF:-1 group-title="Развлекательные",ТНТ 4
+http://195.191.208.2:8086/udp/238.2.13.244:1234
+#EXTINF:-1 group-title="Развлекательные",ТНТ 4 HD
+http://195.191.208.2:8086/udp/233.170.170.130:58631
+#EXTINF:-1 group-title="Развлекательные",ТНТ HD
+http://tv.ttk.mx:9128
+#EXTINF:-1 group-title="Развлекательные",ТНТ HD
+http://85.112.114.11:8086/udp/233.170.170.105:58631
+#EXTINF:-1 group-title="Развлекательные",ТНТ HD
+http://85.112.114.11:8086/udp/238.2.50.6:1234.1.2
+#EXTINF:-1 group-title="Развлекательные",ТНТ HD
+http://85.112.114.11:8086/udp/238.2.50.6:1234.1.3
+#EXTINF:-1 group-title="Развлекательные",ТНТ HD
+http://85.112.114.11:8086/udp/238.2.50.6:1234.1.0
+#EXTINF:-1 group-title="Развлекательные",ТНТ HD
+http://85.112.114.11:8086/udp/238.2.50.6:1234.1.1
+#EXTINF:-1 group-title="Развлекательные",ТНТ HD
+http://195.191.208.2:8086/udp/233.170.170.78:58631
+#EXTINF:-1 group-title="Развлекательные",ТНТ HD
+http://195.191.208.2:8086/udp/238.2.50.6:1234
+#EXTINF:-1 group-title="Развлекательные",ТНТ HD
+http://85.112.114.11:8086/udp/238.2.50.6:1234
+#EXTINF:-1 group-title="Развлекательные",ТНТ HD
+http://85.112.114.11:8086/udp/233.170.170.78:58631
+#EXTINF:-1 group-title="Развлекательные",ТНТ HD
+https://tsargrad-livehls.cdnvideo.ru/tsargrad-publish/streamtr_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ HD
+http://188.35.9.11:2018
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://tv.ttk.mx:9098
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://46.180.99.15:81/udp/239.255.42.196:1234
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://178.49.77.88:3371/udp/239.1.2.16:1234
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://46.49.25.122:9001/udp/224.100.1.141:1141
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://195.14.45.212:4000/udp/233.33.220.164:5050
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://37.192.131.195:81/udp/239.1.2.16:1234
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://178.163.58.72:4022/udp/234.0.0.181:2000
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://178.163.18.154:4022/udp/234.0.0.181:2000
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://78.129.228.178/iptv/XCAVNP7ZUPPBXC/104/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 HD
+http://195.191.208.2:8086/udp/238.2.61.243:1234
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 HD
+http://85.112.114.11:8086/udp/229.54.15.108:1234
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 HD
+http://85.112.114.11:8086/udp/238.2.47.90:1234.1.3
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 HD
+http://85.112.114.11:8086/udp/238.2.47.90:1234.1.0
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 HD
+http://85.112.114.11:8086/udp/238.2.47.90:1234.1.1
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 HD
+http://85.112.114.11:8086/udp/238.2.47.90:1234.1.2
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 HD
+http://85.112.114.11:8086/udp/238.2.47.90:1234
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 HD
+http://85.112.114.11:8086/udp/238.2.62.80:1234.1.3
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 HD
+http://85.112.114.11:8086/udp/238.2.62.80:1234.1.0
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 HD
+http://85.112.114.11:8086/udp/238.2.62.80:1234.1.1
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 HD
+http://85.112.114.11:8086/udp/238.2.62.80:1234.1.2
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 HD
+http://85.112.114.11:8086/udp/238.2.61.243:1234
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 HD
+http://85.112.114.11:8086/udp/233.170.170.130:58631
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 HD 720
+http://195.191.208.2:8086/udp/229.54.13.244:1234
+#EXTINF:-1 group-title="Кино",CINEMA
+http://tv.ttk.mx:9053
+#EXTINF:-1 group-title="Кино",CINEMA
+http://sc.id-tv.kz:80/Cinema_38_39.m3u8
+#EXTINF:-1 group-title="Кино",CINEMA
+http://217.25.216.4:8085/udp/225.1.2.128:2020
+#EXTINF:-1 group-title="Кино",FOX CINEMA
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:-1 group-title="Познавательные",4K TRAVEL XP
+http://ott-stream.sevstar.net/2239/video.m3u8?token=8330162968
+#EXTINF:-1 group-title="Познавательные",TRAVEL CHANNEL
+http://31.13.223.104:1935/travel/community.stream/chunklist_w1003989682.m3u8
+#EXTINF:-1 group-title="Познавательные",TRAVEL CHANNEL
+http://188.35.9.11:21031/udp/038m
+#EXTINF:-1 group-title="Познавательные",TRAVEL CHANNEL HD
+http://217.25.216.4:8085/udp/225.1.2.50:2020
+#EXTINF:-1 group-title="Познавательные",TRAVEL CHANNEL HD
+http://188.35.9.12:21031/udp/038m
+#EXTINF:-1 group-title="Познавательные",TRAVEL CHANNEL HD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w79979599.m3u8
+#EXTINF:-1 group-title="Познавательные",TRAVEL CHANNEL HD (РЕЗЕРВ)
+http://217.25.216.4:8085/udp/238.2.16.190:1234
+#EXTINF:-1 group-title="Познавательные",TRAVEL CHANNEL HD [FHD]
+http://182.73.122.74:10003/bysid/903
+#EXTINF:-1 group-title="Познавательные",TRAVEL GUID TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",TRAVEL HD
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 group-title="Познавательные",TRAVEL HD BG
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",TRAVEL TV
+http://194.179.53.124:1935/live/traveltv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Познавательные",TRAVEL TV
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",TRAVEL TV
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8?hash=?
+#EXTINF:-1 group-title="Познавательные",TRAVEL TV
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+#EXTINF:-1 group-title="Познавательные",ТРОФЕЙ HD
+https://5db1ab4f970be.streamlock.net/live/smil:trofey.smil/chunklist_w506766999_b2128000_slukr.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 ACTION EAST
+http://217.25.216.4:8085/udp/225.1.2.125:2020
+#EXTINF:-1 group-title="Кино",TV 1000 ACTION
+http://188.35.9.5:10016/stolen/374i/onehalf.cab
+#EXTINF:-1 group-title="Кино",TV 1000 ACTION
+http://88.119.220.2/live/eds/TV1000_action_SD/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 ACTION
+http://185.184.233.174:5000/udp/225.1.2.128:1234
+#EXTINF:-1 group-title="Кино",TV1000 ACTION
+http://46.181.116.168:81/udp/239.255.42.46:1234
+#EXTINF:-1 group-title="Кино",TV1000 ACTION
+http://213.252.252.17/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 ACTION
+http://46.49.25.122:9001/udp/224.100.1.102:1102
+#EXTINF:-1 group-title="Кино",TV1000 ACTION
+http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 ACTION
+http://178.124.183.14/hls/9X9NUEEKGW/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 ACTION
+http://178.124.183.13/hls/9X9NUEEKGW/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 ACTION
+http://178.49.77.88:3371/udp/239.1.21.33:1234
+#EXTINF:-1 group-title="Кино",TV1000 ACTION
+http://46.180.99.15:81/udp/239.255.42.46:1234
+#EXTINF:-1 group-title="Кино",TV1000 ACTION
+http://88.119.220.2/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 ACTION
+http://213.174.8.7:22222/index.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 ACTION
+http://213.174.8.7:8000/play/22/index.m3u8
+#EXTINF:-1 group-title="Кино",BTV COMEDY
+http://188.35.9.11:21151/udp/260f
+#EXTINF:-1 group-title="Кино",BTV COMEDY
+http://188.35.9.12:21151/udp/260f
+#EXTINF:-1 group-title="Кино",TV1000 EAST
+http://217.25.216.4:8085/udp/225.1.2.124:2020
+#EXTINF:-1 group-title="Кино",TV1000 EAST
+http://88.119.220.2/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8?version=2
+#EXTINF:-1 group-title="Кино",TV1000 PREMIUM
+http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 PREMIUM EAST HD
+http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 PREMIUM FHD
+http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+#EXTINF:-1 group-title="Кино",TV 100
+http://178.62.176.153/hls/tv100/index.m3u8
+#EXTINF:-1 group-title="Кино",TV100
+http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/chunklist.m3u8
+#EXTINF:-1 group-title="Кино",TV1000
+http://185.184.233.174:5000/udp/225.1.2.119:1234
+#EXTINF:-1 group-title="Кино",TV1000
+http://46.181.116.168:81/udp/239.255.42.49:1234
+#EXTINF:-1 group-title="Кино",TV1000
+http://88.119.220.2/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
+#EXTINF:-1 group-title="Кино",TV1000
+http://46.49.25.122:9001/udp/224.100.1.101:1101
+#EXTINF:-1 group-title="Кино",TV1000
+http://88.119.220.2/live/eds/TV1000_SD/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Кино",TV1000
+http://188.35.9.5:10020/stolen/484c/hot.dll
+#EXTINF:-1 group-title="Кино",TV1000
+http://178.124.183.14/hls/6WMZMUEWGN/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Кино",TV1000
+http://178.124.183.12/hls/6WMZMUEWGN/bw2000000/playlist.m3u8
+#EXTINF:-1 group-title="Кино",TV1000
+http://178.124.183.13/hls/6WMZMUEWGN/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Кино",TV1000
+http://185.176.117.243/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
+#EXTINF:-1 group-title="Кино",TV1000
+http://213.252.252.17/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
+#EXTINF:-1 group-title="Кино",TV1000
+http://46.180.99.15:81/udp/239.255.42.49:1234
+#EXTINF:-1 group-title="Кино",TV1000
+http://178.49.77.88:3371/udp/239.1.21.31:1234
+#EXTINF:-1 group-title="Новости",112 УКРАЇНА
+http://app.live.112.events/hls/112hd_low/index.m3u8
+#EXTINF:-1 group-title="Новости",112 УКРАЇНА
+http://app.live.112.events/hls/112hd_mid/index.m3u8
+#EXTINF:-1 group-title="Новости",112 УКРАЇНА
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_low/index.m3u8
+#EXTINF:-1 group-title="Новости",112 УКРАЇНА HD
+http://app.live.112.events/hls/112hd_hi/index.m3u8
+#EXTINF:-1 group-title="Новости",112 УКРАИНА
+http://95.67.21.132/hls/112hd_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Новости",112 УКРАИНА
+http://app.live.112.events/hls/112hd_hi/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Новости",112 УКРАИНА
+http://95.67.12.67/hls/112hd_mid/index.m3u8
+#EXTINF:-1 group-title="Новости",112 УКРАИНА
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Новости",112 УКРАИНА
+http://app.live.112.events/hls-ua/112hd_low/index.m3u8
+#EXTINF:-1 group-title="Новости",112 УКРАИНА
+http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Новости",112 УКРАИНА
+http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_low/index.m3u8
+#EXTINF:-1 group-title="Новости",112 УКРАИНА
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Новости",112 УКРАИНА HD
+http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Новости",112 УКРАИНА HD
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Новости",112 УКРАИНА HD
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Новости",112 УКРАИНА HD
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1 group-title="Новости",112 УКРАИНА HD
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+#EXTINF:-1 group-title="Новости",24 УКРАИНА
+http://tv.balkanweb.com:8081/Новости24/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Кино",ULTRA HD CINEMA
+http://217.25.216.4:8085/udp/225.1.2.145:2020
+#EXTINF:-1 group-title="Кино",ULTRA HD CINEMA 4K
+http://213.234.9.46:7088/udp/239.1.13.7:1234
+#EXTINF:-1 group-title="Кино",ULTRAHD CINEMA
+http://217.25.216.4:8085/udp/238.2.19.31:1234
+#EXTINF:-1 group-title="Развлекательные",ЮМОР
+http://37.145.19.235:4022/udp/233.33.210.171:5050
+#EXTINF:-1 group-title="Новости",UNICANAL
+http://45.55.127.106/live/unicanal_src.m3u8
+#EXTINF:-1 group-title="Новости",УНІАН ТВ
+https://live-k2304-kbp.1plus1.video/288721/smil:288721.smil/playlist.m3u8
+#EXTINF:-1 group-title="Новости",УНІАН ТВ
+https://live-k2306-kbp.1plus1.video/288721/smil:288721.smil/chunklist_b2928000.m3u8
+#EXTINF:-1 group-title="Познавательные",VIASAT EXPLORE
+http://185.184.233.174:5000/udp/225.1.2.130:1234
+#EXTINF:-1 group-title="Познавательные",VIASAT EXPLORE
+http://46.180.99.15:81/udp/239.255.42.41:1234
+#EXTINF:-1 group-title="Познавательные",VIASAT EXPLORE
+http://46.49.25.122:9001/udp/224.100.1.108:1108
+#EXTINF:-1 group-title="Познавательные",VIASAT EXPLORE
+http://178.124.183.13/hls/JQQ83OBHTQ/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",VIASAT EXPLORE HD (РЕЗЕРВ)
+http://213.252.252.17/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Познавательные",VIASAT EXPLORE
+http://188.35.9.5:10020/stolen/485v/hot.dll
+#EXTINF:-1 group-title="Познавательные",VIASAT EXPLORE
+http://178.49.77.88:3371/udp/239.1.21.35:1234
+#EXTINF:-1 group-title="Познавательные",VIASAT EXPLORER
+http://37.193.232.78:81/udp/239.1.21.56:1234
+#EXTINF:-1 group-title="Познавательные",VIASAT EXPLORER
+http://213.252.252.2/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8
+#EXTINF:-1 group-title="Познавательные",VIASAT EXPLORER
+http://185.176.117.243/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8
+#EXTINF:-1 group-title="Познавательные",VIASAT EXPLORER (РОССИЯ)
+http://217.25.216.4:8085/udp/225.1.2.53:2020
+#EXTINF:-1 group-title="Познавательные",VIASAT EXPLORER HD
+http://185.176.117.243/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Познавательные",VIASAT_EXPLORER
+http://178.124.183.14/hls/JQQ83OBHTQ/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",VIASAT HISTORY
+http://158.46.126.41:81/udp/239.255.42.40:1234
+#EXTINF:-1 group-title="Познавательные",VIASAT HISTORY
+http://217.25.216.4:8085/udp/225.1.2.54:2020
+#EXTINF:-1 group-title="Познавательные",VIASAT HISTORY
+http://46.180.99.15:81/udp/239.255.42.40:1234
+#EXTINF:-1 group-title="Познавательные",VIASAT HISTORY
+http://185.184.233.174:5000/udp/225.1.2.131:1234
+#EXTINF:-1 group-title="Познавательные",VIASAT HISTORY
+http://185.176.117.243/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8
+#EXTINF:-1 group-title="Познавательные",VIASAT HISTORY
+http://178.124.183.13/hls/CH_VIASATHISTORY/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",VIASAT HISTORY
+http://46.49.25.122:9001/udp/224.100.1.106:1106
+#EXTINF:-1 group-title="Познавательные",VIASAT HISTORY (RU)
+http://188.35.9.5:10020/stolen/486b/hot.dll
+#EXTINF:-1 group-title="Познавательные",VIASAT HISTORY HD
+http://188.35.9.11:21121/udp/137s
+#EXTINF:-1 group-title="Познавательные",VIASAT HISTORY HD
+http://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
+#EXTINF:-1 group-title="Познавательные",VIASAT HISTORY HD (РЕЗЕРВ)
+http://213.252.252.17/live/eds/ViasatHistoryHD/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Познавательные",VIASAT HISTORY HD POLSAT
+http://188.35.9.12:21121/udp/137s
+#EXTINF:-1 group-title="Познавательные",VIASAT HISTORY
+http://178.49.77.88:3371/udp/239.1.21.34:1234
+#EXTINF:-1 group-title="Познавательные",VIASAT NATURE/HISTORY HD
+http://217.25.216.4:8085/udp/225.1.2.55:2020
+#EXTINF:-1 group-title="Познавательные",VIASAT NATURE
+http://185.184.233.174:5000/udp/225.1.2.132:1234
+#EXTINF:-1 group-title="Познавательные",VIASAT NATURE
+http://178.124.183.150/hls/BN3FTDY3T8_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",VIASAT NATURE
+http://46.49.25.122:9001/udp/224.100.1.107:1107
+#EXTINF:-1 group-title="Познавательные",VIASAT NATURE
+http://88.119.220.2/live/eds/Viasat_Nature_SD/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Познавательные",VIASAT NATURE
+http://178.49.77.88:3371/udp/239.1.21.36:1234
+#EXTINF:-1 group-title="Познавательные",VIASAT NATURE
+http://185.176.117.243/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
+#EXTINF:-1 group-title="Познавательные",VIASAT NATURE HD
+http://188.35.9.11:21071/udp/078s
+#EXTINF:-1 group-title="Познавательные",VIASATNATURE
+http://185.176.117.243/live/eds/Viasat_Nature_SD/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="Познавательные",VIASAT SPORT
+http://cdn.iptv.monster/play/77/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="Познавательные",VIASAT SPORT
+http://158.46.115.68:81/udp/239.255.42.57:1234
+#EXTINF:-1 group-title="Познавательные",VIASAT SPORT
+http://46.180.99.15:81/udp/239.255.42.57:1234
+#EXTINF:-1 group-title="Познавательные",VIASAT SPORT
+http://185.184.233.174:5000/udp/225.1.2.133:1234
+#EXTINF:-1 group-title="Познавательные",VIASAT SPORT
+http://46.49.25.122:9001/udp/224.100.1.105:1105
+#EXTINF:-1 group-title="Познавательные",VIASAT SPORT (РОССИЯ)
+http://217.25.216.4:8085/udp/225.1.2.56:2020
+#EXTINF:-1 group-title="Познавательные",VIASAT SPORT HD
+http://cdn.iptv.monster/play/198/A94E407714F99C3/video.m3u8
+#EXTINF:-1 group-title="Кино",IBC COMEDY
+https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_std.m3u8
+#EXTINF:-1 group-title="Кино",VIP COMEDY HD
+http://5.128.100.70:81/udp/239.1.21.40:1234
+#EXTINF:-1 group-title="Кино",VIP COMEDY HD
+http://tv545.com/stream/3znj4KV/channel/208.m3u8
+#EXTINF:-1 group-title="Кино",VIP COMEDY HD
+http://37.145.19.235:4022/udp/233.33.210.15:5050
+#EXTINF:-1 group-title="Кино",VIP COMEDY HD
+http://128.69.251.143:4022/udp/233.33.210.15:5050
+#EXTINF:-1 group-title="Кино",VIP COMEDY HD
+http://2.92.160.55:4022/udp/233.33.210.15:5050
+#EXTINF:-1 group-title="Кино",VIP MEGAHIT HD
+http://188.35.9.5:10020/stolen/403x/hot.dll
+#EXTINF:-1 group-title="Кино",VIP MEGAHIT HD
+http://tv545.com/stream/3znj4KV/channel/210.m3u8
+#EXTINF:-1 group-title="Кино",VIP MEGAHIT HD
+http://188.35.9.11:2016
+#EXTINF:-1 group-title="Кино",VIP PREMIERE
+http://188.35.9.11:2013
+#EXTINF:-1 group-title="Радио",TECHNOBASE.FM
+http://mp3.stream.tb-group.fm/tb.mp3
+#EXTINF:-1 group-title="Радио",HOUSETIME.FM
+http://mp3.stream.tb-group.fm/ht.mp3
+#EXTINF:-1 group-title="Радио",HARDBASE.FM
+http://mp3.stream.tb-group.fm/hb.mp3
+#EXTINF:-1 group-title="Радио",TRANCEBASE.FM
+http://mp3.stream.tb-group.fm/trb.mp3
+#EXTINF:-1 group-title="Радио",CORETIME.FM
+http://mp3.stream.tb-group.fm/ct.mp3
+#EXTINF:-1 group-title="Радио",CLUBTIME.FM
+http://mp3.stream.tb-group.fm/clt.mp3
+#EXTINF:-1 group-title="Радио",TEATIME.FM
+http://mp3.stream.tb-group.fm/tt.mp3
+#EXTINF:-1 group-title="Радио",RETRO.FM
+https://hls-01-retro.emgsound.ru/12/96/playlist.m3u8
