@@ -119,3 +119,15 @@ http://127.0.0.1:6878/hls/r/08ac9b0e19a1ead1359837f0e86a1c584c118abc/43555b19a16
 #EXTINF:0,кино тв
 http://50.7.222.90:8081/tv_kino/index.m3u8?wmsAuthSign=7bb2834265bf45b63d4ee7b8aa328c7e-1580580500-832i24i89i64
 
+#EXTINF:-1,Пятый канал
+https://sr2.24tv.org:30443/hls/5tv/chunks.m3u8?nimblesessionid=176314&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6Mjk6MjYgQU0maGFzaF92YWx1ZT1hWGZGeDNsSGF3Tk83UVhWUzRONzN3PT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1,НТВ
+https://sr4.24tv.org:30443/hls/ntv/chunks.m3u8?nimblesessionid=335467&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6MzM6MDQgQU0maGFzaF92YWx1ZT1ucTF6Y3FBYmdmS003RmJWam9vVU9RPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1,РЕН ТВ
+https://sr4.24tv.org:30443/hls/ren/chunks.m3u8?nimblesessionid=335589&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6MzU6MzEgQU0maGFzaF92YWx1ZT1YMVpLYmlPc1RnSklkRzN1UC9wWE5BPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1,ТНТ 4
+ttps://sr2.24tv.org:30443/hls/tnt4/chunks.m3u8?nimblesessionid=176981&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6Mzk6NTcgQU0maGFzaF92YWx1ZT1FeTgzTUxpekNmMmZFWFVkQWk3Sk5RPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1,2х2
+https://sr3.24tv.org/hls/dva/chunks.m3u8?nimblesessionid=304197&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6NDM6NDUgQU0maGFzaF92YWx1ZT1nODZaay9DMW9qNzMxeEkyMVZCWXdRPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1,КИНО ТВ
+http://51.158.65.13:8081/tv/kino-tv/chunks.m3u8?nimblesessionid=4942018&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6NTE6MzUgQU0maGFzaF92YWx1ZT1pRENpcFhGWWRZeEtyalZCVVhJVWVBPT0mdmFsaWRtaW51dGVzPTcyMA==
