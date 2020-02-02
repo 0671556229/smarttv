@@ -1,133 +1,47 @@
-#EXTM3U
-#EXTINF:-1, Amedia 2
-http://178.124.183.13/hls/H4DP5GK3AE/bw1200000/playlist.m3u8
-#EXTINF:-1, Amedia Premium HD
-http://178.124.183.5/hls/CH_AMEDIAPREMIUM/variant.m3u8?version=2
-#EXTINF:-1, Blue Hustler
-#EXTINF:-1, BOLT
-http://178.124.183.5/hls/CH_BOLT/variant.m3u8?version=2
-#EXTINF:-1, Boomerang
-http://178.124.183.13/hls/JSQ2S6VQTE/bw1200000/playlist.m3u8
-#EXTINF:-1, Cartoon Network
-http://178.124.183.13/hls/CNVX7JRQJI/bw1200000/playlist.m3u8
-#EXTINF:-1, FILM TV HD
-http://195.9.195.3:8080/manifest/165462_master.m3u8
-#EXTINF:-1, FOX
-http://178.124.183.4:80/hls/CH_FOX/variant.m3u8
-#EXTINF:-1, FOX
-http://178.124.183.13/hls/CH_FOX/bw1200000/playlist.m3u8
-#EXTINF:-1, FOX
-http://178.124.183.5/hls/CH_FOX/variant.m3u8?version=2
-#EXTINF:-1, FOX Life
-http://178.124.183.5/hls/CH_FOXL/variant.m3u8?version=2
-#EXTINF:-1, FOX Life
-http://178.124.183.4:80/hls/CH_FOXL/variant.m3u8
-#EXTINF:-1, FOX Life
-http://178.124.183.13/hls/CH_FOXL/bw1200000/playlist.m3u8
-#EXTINF:-1, History
-http://178.124.183.13/hls/CH_HISTORY/bw1200000/playlist.m3u8
-#EXTINF:-1, Nat Geo Wild
-http://178.124.183.13/hls/ESCMSBZJ8X/bw1200000/playlist.m3u8
-#EXTINF:-1, National Geographic
-http://178.124.183.13/hls/CH_NATGEO/bw1200000/playlist.m3u8
-#EXTINF:-1, Set HD
-http://178.124.183.4:80/hls/VPRSUR2WN2/variant.m3u8
-#EXTINF:-1, Sony Channel HD
-http://178.124.183.5/hls/VPRSUR2WN2/variant.m3u8?version=2
-#EXTINF:-1, Sony SciFi
-http://178.124.183.13/hls/EDVYQYGHF8/bw1200000/playlist.m3u8
-#EXTINF:-1, Sony SciFi
-http://178.124.183.4:80/hls/EDVYQYGHF8/variant.m3u8
-#EXTINF:-1, Sony Sci-Fi
-http://178.124.183.5/hls/EDVYQYGHF8/variant.m3u8?version=2
-#EXTINF:-1, STAR CINEMA
-http://178.124.183.5/hls/CH_STARCINEMA/variant.m3u8?version=2
-#EXTINF:-1, STAR FAMILY
-http://178.124.183.5/hls/CH_FAMILY/variant.m3u8?version=2
-#EXTINF:-1, TV1000
-http://178.124.183.13/hls/6WMZMUEWGN/bw1200000/playlist.m3u8
-#EXTINF:-1, TV1000
-http://178.124.183.4:80/hls/6WMZMUEWGN/variant.m3u8
-#EXTINF:-1, TV1000
-http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8?version=2
-#EXTINF:-1, TV1000 Action
-http://178.124.183.4:80/hls/9X9NUEEKGW/variant.m3u8
-#EXTINF:-1, TV1000 Action
-http://178.124.183.13/hls/9X9NUEEKGW/bw1200000/playlist.m3u8
-#EXTINF:-1, TV1000 Action
-http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8?version=2
-#EXTINF:-1, TV1000 Premium HD
-http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
-#EXTINF:-1, TV1000 Русское кино
-http://178.124.183.13/hls/PWIKICZUYF/bw1200000/playlist.m3u8
-#EXTINF:-1, TV1000 Русское кино
-http://178.124.183.4:80/hls/PWIKICZUYF/variant.m3u8
-#EXTINF:-1, TV1000 Русское кино
-http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8?version=2
-#EXTINF:-1, U.HD
-http://ultotv.ru:8888/live/uhd/playlist.m3u8
-#EXTINF:-1, Viasat Explore
-http://178.124.183.13/hls/JQQ83OBHTQ/bw1200000/playlist.m3u8
-#EXTINF:-1, Viasat Nature
-http://178.124.183.13/hls/BN3FTDY3T8/bw1200000/playlist.m3u8
-#EXTINF:-1, Детский Мир/Телеклуб
-http://178.124.183.13/hls/9F67L3DGIF/bw1200000/playlist.m3u8
-#EXTINF:-1, Еврокино
-http://178.124.183.13/hls/JEDUS3FS7V/bw1200000/playlist.m3u8
-#EXTINF:-1, Индийское кино
-http://178.124.183.5/hls/CH_INDIYATV/variant.m3u8?version=2
-#EXTINF:-1, КиноМикс
-http://178.124.183.13/hls/VVG76MWUGX/bw1200000/playlist.m3u8
-#EXTINF:-1, Кинопремьера HD
-http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8?version=2
-#EXTINF:-1, Киносемья
-http://178.124.183.5/hls/FEDXG8XPOR/variant.m3u8?version=2
-#EXTINF:-1, Кинохит
-http://178.124.183.13/hls/HDOHSSZQCP/bw1200000/playlist.m3u8
-#EXTINF:-1, Классика кино
-http://serv25.vintera.tv:8081/klasskino/k_kino/chunks.m3u8
-#EXTINF:-1, Мужское кино
-http://178.124.183.5/hls/W7LNWHFGTB/variant.m3u8?version=2
-#EXTINF:-1, Мужское кино
-http://178.124.183.4:80/hls/W7LNWHFGTB/variant.m3u8
-#EXTINF:-1, Мужское кино
-http://178.124.183.13/hls/W7LNWHFGTB/bw1200000/playlist.m3u8
-#EXTINF:-1, Мульт
-http://178.124.183.13/hls/5MWF7XUWZI/bw1200000/playlist.m3u8
-#EXTINF:-1, Наше Новое Кино
-http://178.124.183.13/hls/UVPWPN2KTN/bw1200000/playlist.m3u8
-#EXTINF:-1, Ностальгия
-http://178.124.183.13/hls/SWPQU2UFKD/bw1200000/playlist.m3u8
-#EXTINF:-1, НСТ
-http://178.124.183.5/hls/NEZVX5TVZX/variant.m3u8?version=2
-#EXTINF:-1, НСТ
-http://178.124.183.13/hls/NEZVX5TVZX/bw1200000/playlist.m3u8
-#EXTINF:-1, НСТ
-http://178.124.183.4:80/hls/NEZVX5TVZX/variant.m3u8
-#EXTINF:-1, Русский Иллюзион
-http://178.124.183.13/hls/CMV4SNACFQ/bw1200000/playlist.m3u8
-#EXTINF:-1, Русский Иллюзион
-http://178.124.183.4:80/hls/CMV4SNACFQ/variant.m3u8
-#EXTINF:-1, Русский Роман
-http://188.35.9.11:11159/i
-#EXTINF:-1, ТВ 3
-http://178.124.183.13/hls/KLQQ9ECGSQ/bw1200000/playlist.m3u8
-#EXTINF:-1, Шокирующее HD
-http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&amp;p=87e0c783e9b31451
-#EXTINF:0,ТНТ4
-http://127.0.0.1:6878/hls/r/08ac9b0e19a1ead1359837f0e86a1c584c118abc/43555b19a16d9ecdf85d4b7ce83290fc.m3u8
-#EXTINF:0,кино тв
-http://50.7.222.90:8081/tv_kino/index.m3u8?wmsAuthSign=7bb2834265bf45b63d4ee7b8aa328c7e-1580580500-832i24i89i64
-
+﻿# EXTM3U
+#EXTINF: 0 tvg-name = "FOX", FOX
+http://duga.life:8080/ch219/video.m3u8?token=KIZqoLR8y3
+#EXTINF: 0 tvg-name = "FOX Life", FOX Life
+http://duga.life:8080/ch220/video.m3u8?token=KIZqoLR8y3
+#EXTINF: 0 tvg-name = "Канал Sony", Канал Sony
+http://duga.life:8080/ch242/video.m3u8?token=KIZqoLR8y3
+#EXTINF: 0 tvg-name = "Sony Sci-Fi", Sony Sci-Fi
+http://duga.life:8080/ch243/video.m3u8?token=KIZqoLR8y3
+#EXTINF: 0 tvg-name = "Sony Turbo", Sony Turbo
+http://duga.life:8080/ch244/video.m3u8?token=KIZqoLR8y3
+#EXTINF: 0 tvg-name = "TV 1000", TV 1000
+http://duga.life:8080/ch248/video.m3u8?token=KIZqoLR8y3
+#EXTINF: 0 tvg-name = "TV 1000 Action", TV 1000 Action
+http://duga.life:8080/ch249/video.m3u8?token=KIZqoLR8y3
+#EXTINF: 0 tvg-name = "Русское кино", Русское кино
+http://duga.life:8080/ch250/video.m3u8?token=KIZqoLR8y3
+#EXTINF: 0 tvg-name = "ТВ XXI", ТВ XXI
+http://duga.life:8080/ch251/video.m3u8?token=KIZqoLR8y3
 #EXTINF:-1,Пятый канал
 https://sr2.24tv.org:30443/hls/5tv/chunks.m3u8?nimblesessionid=176314&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6Mjk6MjYgQU0maGFzaF92YWx1ZT1hWGZGeDNsSGF3Tk83UVhWUzRONzN3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1,НТВ
 https://sr4.24tv.org:30443/hls/ntv/chunks.m3u8?nimblesessionid=335467&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6MzM6MDQgQU0maGFzaF92YWx1ZT1ucTF6Y3FBYmdmS003RmJWam9vVU9RPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1,РЕН ТВ
 https://sr4.24tv.org:30443/hls/ren/chunks.m3u8?nimblesessionid=335589&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6MzU6MzEgQU0maGFzaF92YWx1ZT1YMVpLYmlPc1RnSklkRzN1UC9wWE5BPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1,ТНТ 4
-ttps://sr2.24tv.org:30443/hls/tnt4/chunks.m3u8?nimblesessionid=176981&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6Mzk6NTcgQU0maGFzaF92YWx1ZT1FeTgzTUxpekNmMmZFWFVkQWk3Sk5RPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1,2х2
-https://sr3.24tv.org/hls/dva/chunks.m3u8?nimblesessionid=304197&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6NDM6NDUgQU0maGFzaF92YWx1ZT1nODZaay9DMW9qNzMxeEkyMVZCWXdRPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1,КИНОМИКС
+http://163.172.180.208:8081/tv/kinomix/chunks.m3u8?nimblesessionid=22742982&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTE6Mzg6NDkgQU0maGFzaF92YWx1ZT1aT3FHNW9EbFRkNlgzY1NkeW0rbGdBPT0mdmFsaWRtaW51dGVzPTcyMA==
 #EXTINF:-1,КИНО ТВ
 http://51.158.65.13:8081/tv/kino-tv/chunks.m3u8?nimblesessionid=4942018&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6NTE6MzUgQU0maGFzaF92YWx1ZT1pRENpcFhGWWRZeEtyalZCVVhJVWVBPT0mdmFsaWRtaW51dGVzPTcyMA==
+#EXTINF: 0 tvg-name = "Комедия", Комедия
+http://duga.life:8080/ch270/video.m3u8?token=KIZqoLR8y3
+#EXTINF: 0 tvg-name = "Иллюзион +", Иллюзион +
+http://duga.life:8080/ch273/video.m3u8?token=KIZqoLR8y3
+#EXTINF: 0 tvg-name = "Мужское кино", Мужское кино
+http://duga.life:8080/ch281/video.m3u8?token=KIZqoLR8y3
+#EXTINF: 0 tvg-name = "НТВ", НТВ
+http://duga.life:8080/ch285/video.m3u8?token=KIZqoLR8y3
+#EXTINF: 0 tvg-name = "Пятый канал", Пятый канал
+http://duga.life:8080/ch291/video.m3u8?token=KIZqoLR8y3
+#EXTINF: 0 tvg-name = "Рен ТВ", Рен ТВ
+http://duga.life:8080/ch292/video.m3u8?token=KIZqoLR8y3
+#EXTINF: 0 tvg-name = "Русский иллюзион", Русский иллюзион
+http://duga.life:8080/ch297/video.m3u8?token=KIZqoLR8y3
+#EXTINF: 0 tvg-name = "СТС", СТС
+http://duga.life:8080/ch300/video.m3u8?token=KIZqoLR8y3
+#EXTINF: 0 tvg-name = "ТНТ", ТНТ
+http://duga.life:8080/ch304/video.m3u8?token=KIZqoLR8y3
