@@ -21,16 +21,6 @@ http://duga.life:8080/ch250/video.m3u8?token=KIZqoLR8y3
 #EXTINF:-1,tvg-name = "ТВ XXI", ТВ XXI
 http://duga.life:8080/ch251/video.m3u8?token=KIZqoLR8y3
 
-#EXTINF:-1,Пятый канал
-https://sr2.24tv.org:30443/hls/5tv/chunks.m3u8?nimblesessionid=176314&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6Mjk6MjYgQU0maGFzaF92YWx1ZT1hWGZGeDNsSGF3Tk83UVhWUzRONzN3PT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1,НТВ
-https://sr4.24tv.org:30443/hls/ntv/chunks.m3u8?nimblesessionid=335467&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6MzM6MDQgQU0maGFzaF92YWx1ZT1ucTF6Y3FBYmdmS003RmJWam9vVU9RPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1,РЕН ТВ
-https://sr4.24tv.org:30443/hls/ren/chunks.m3u8?nimblesessionid=335589&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6MzU6MzEgQU0maGFzaF92YWx1ZT1YMVpLYmlPc1RnSklkRzN1UC9wWE5BPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1,КИНОМИКС
-http://163.172.180.208:8081/tv/kinomix/chunks.m3u8?nimblesessionid=22742982&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTE6Mzg6NDkgQU0maGFzaF92YWx1ZT1aT3FHNW9EbFRkNlgzY1NkeW0rbGdBPT0mdmFsaWRtaW51dGVzPTcyMA==
-#EXTINF:-1,КИНО ТВ
-http://51.158.65.13:8081/tv/kino-tv/chunks.m3u8?nimblesessionid=4942018&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6NTE6MzUgQU0maGFzaF92YWx1ZT1pRENpcFhGWWRZeEtyalZCVVhJVWVBPT0mdmFsaWRtaW51dGVzPTcyMA==
 
 #EXTINF:-1,tvg-name = "Комедия", Комедия
 http://duga.life:8080/ch270/video.m3u8?token=KIZqoLR8y3
