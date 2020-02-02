@@ -1,26 +1,4 @@
-﻿# EXTM3U
-#EXTINF: 0 tvg-name = "FOX", FOX
-http://duga.life:8080/ch219/video.m3u8?token=KIZqoLR8y3
-#EXTINF: 0 tvg-name = "FOX Life", FOX Life
-http://duga.life:8080/ch220/video.m3u8?token=KIZqoLR8y3
-
-
-#EXTINF: 0 tvg-name = "Канал Sony", Канал Sony
-http://duga.life:8080/ch242/video.m3u8?token=KIZqoLR8y3
-#EXTINF: 0 tvg-name = "Sony Sci-Fi", Sony Sci-Fi
-http://duga.life:8080/ch243/video.m3u8?token=KIZqoLR8y3
-#EXTINF: 0 tvg-name = "Sony Turbo", Sony Turbo
-http://duga.life:8080/ch244/video.m3u8?token=KIZqoLR8y3
-
-#EXTINF: 0 tvg-name = "TV 1000", TV 1000
-http://duga.life:8080/ch248/video.m3u8?token=KIZqoLR8y3
-#EXTINF: 0 tvg-name = "TV 1000 Action", TV 1000 Action
-http://duga.life:8080/ch249/video.m3u8?token=KIZqoLR8y3
-#EXTINF: 0 tvg-name = "Русское кино", Русское кино
-http://duga.life:8080/ch250/video.m3u8?token=KIZqoLR8y3
-#EXTINF: 0 tvg-name = "ТВ XXI", ТВ XXI
-http://duga.life:8080/ch251/video.m3u8?token=KIZqoLR8y3
-
+#EXTM3U
 #EXTINF:-1,Пятый канал
 https://sr2.24tv.org:30443/hls/5tv/chunks.m3u8?nimblesessionid=176314&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6Mjk6MjYgQU0maGFzaF92YWx1ZT1hWGZGeDNsSGF3Tk83UVhWUzRONzN3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1,НТВ
@@ -31,30 +9,4 @@ https://sr4.24tv.org:30443/hls/ren/chunks.m3u8?nimblesessionid=335589&wmsAuthSig
 http://163.172.180.208:8081/tv/kinomix/chunks.m3u8?nimblesessionid=22742982&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTE6Mzg6NDkgQU0maGFzaF92YWx1ZT1aT3FHNW9EbFRkNlgzY1NkeW0rbGdBPT0mdmFsaWRtaW51dGVzPTcyMA==
 #EXTINF:-1,КИНО ТВ
 http://51.158.65.13:8081/tv/kino-tv/chunks.m3u8?nimblesessionid=4942018&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6NTE6MzUgQU0maGFzaF92YWx1ZT1pRENpcFhGWWRZeEtyalZCVVhJVWVBPT0mdmFsaWRtaW51dGVzPTcyMA==
-
-#EXTINF: 0 tvg-name = "Комедия", Комедия
-http://duga.life:8080/ch270/video.m3u8?token=KIZqoLR8y3
-
-#EXTINF: 0 tvg-name = "Иллюзион +", Иллюзион +
-http://duga.life:8080/ch273/video.m3u8?token=KIZqoLR8y3
-
-#EXTINF: 0 tvg-name = "Мужское кино", Мужское кино
-http://duga.life:8080/ch281/video.m3u8?token=KIZqoLR8y3
-
-#EXTINF: 0 tvg-name = "НТВ", НТВ
-http://duga.life:8080/ch285/video.m3u8?token=KIZqoLR8y3
-
-#EXTINF: 0 tvg-name = "Пятый канал", Пятый канал
-http://duga.life:8080/ch291/video.m3u8?token=KIZqoLR8y3
-
-#EXTINF: 0 tvg-name = "Рен ТВ", Рен ТВ
-http://duga.life:8080/ch292/video.m3u8?token=KIZqoLR8y3
-
-#EXTINF: 0 tvg-name = "Русский иллюзион", Русский иллюзион
-http://duga.life:8080/ch297/video.m3u8?token=KIZqoLR8y3
-
-#EXTINF: 0 tvg-name = "СТС", СТС
-http://duga.life:8080/ch300/video.m3u8?token=KIZqoLR8y3
-
-#EXTINF: 0 tvg-name = "ТНТ", ТНТ
-http://duga.life:8080/ch304/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1,
