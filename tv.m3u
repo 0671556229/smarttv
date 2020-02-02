@@ -9,4 +9,13 @@ https://sr4.24tv.org:30443/hls/ren/chunks.m3u8?nimblesessionid=335589&wmsAuthSig
 http://163.172.180.208:8081/tv/kinomix/chunks.m3u8?nimblesessionid=22742982&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTE6Mzg6NDkgQU0maGFzaF92YWx1ZT1aT3FHNW9EbFRkNlgzY1NkeW0rbGdBPT0mdmFsaWRtaW51dGVzPTcyMA==
 #EXTINF:-1,КИНО ТВ
 http://51.158.65.13:8081/tv/kino-tv/chunks.m3u8?nimblesessionid=4942018&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTA6NTE6MzUgQU0maGFzaF92YWx1ZT1pRENpcFhGWWRZeEtyalZCVVhJVWVBPT0mdmFsaWRtaW51dGVzPTcyMA==
-#EXTINF:-1,
+#EXTINF:-1,TV1000
+http://163.172.180.208:8081/tv/tv1000/chunks.m3u8?nimblesessionid=22744990&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTI6NTY6NDcgUE0maGFzaF92YWx1ZT1nQTM4V2Vvb2hHK0xJeDVybVhMK3hBPT0mdmFsaWRtaW51dGVzPTcyMA==
+#EXTINF:-1,кинокомедия
+http://50.7.231.220:8081/129/index.m3u8?wmsAuthSign=1580666437p82i21i89i64S109cd46ec2e8c8e24becd163fc5dea20
+#EXTINF:-1,ictv
+http://50.7.231.220:8081/103/index.m3u8?wmsAuthSign=1580666510p82i21i89i64S0d63b46a1d53e73dd7bbe83fafe831fc
+#EXTINF:-1,домкино
+http://50.7.172.58:8081/555/index.m3u8?wmsAuthSign=1580666575p82i21i89i64S6ec41d4c661923cdecca83d11cc76b8f
+#EXTINF:-1,ЕВРОКИНО
+http://163.172.180.208:8081/tv/evrokino/chunks.m3u8?nimblesessionid=22745207&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMTowNDo1MiBQTSZoYXNoX3ZhbHVlPUMzc1F4ekIzMnJxSUZ4eUJtRk0xZnc9PSZ2YWxpZG1pbnV0ZXM9NzIw
