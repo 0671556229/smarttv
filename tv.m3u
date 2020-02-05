@@ -1,25 +1,310 @@
-#EXTM3U
-#EXTINF:-1 ,КИНОПАБ Хит
-https://or-be-01.mycdn.video/pub/hit/index.m3u8
-#EXTINF:-1 ,КИНОПАБ VHS
-https://or-be-01.mycdn.video/pub/vhs/index.m3u8
-#EXTINF:-1 ,КИНОПАБ UHD 4K
-https://or-be-01.mycdn.video/pub/4k/index.m3u8
-#EXTINF:-1 ,КИНОПАБ Комедия
-https://or-be-01.mycdn.video/pub/comedy/index.m3u8
-#EXTINF:-1 ,КИНОПАБ Боевик
-https://or-be-01.mycdn.video/pub/action/index.m3u8
-#EXTINF:-1 ,КИНОПАБ Ужасы
-https://or-be-01.mycdn.video/pub/horror/index.m3u8
-#EXTINF:-1 ,КИНОПАБ Фантастика
-https://or-be-01.mycdn.video/pub/scifi/index.m3u8
-#EXTINF:-1 ,КИНОПАБ Футурама
-https://or-be-01.mycdn.video/pub/futurama/index.m3u8
-#EXTINF:-1 ,КИНОПАБ Секретные материалы
-https://or-be-01.mycdn.video/pub/xfiles/index.m3u8
-#EXTINF:-1 ,КИНОПАБ Южный Парк
-https://or-be-01.mycdn.video/pub/southpark/index.m3u8
-#EXTINF:-1 ,КИНОПАБ Гриффины
-https://or-be-01.mycdn.video/pub/familyguy/index.m3u8
-#EXTINF:-1 ,КИНОПАБ Симпсоны
-https://or-be-01.mycdn.video/pub/simpsons/index.m3u8
+﻿#EXTM3U
+
+#EXTINF:-1 group-title="РАЗНОЕ",360
+http://178.163.58.72:4022/udp/234.0.0.8:2000
+
+#EXTINF:-1 group-title="РАЗНОЕ",Твой Дом
+http://178.163.58.72:4022/udp/234.0.0.106:2000
+
+#EXTINF:-1 group-title="РАЗНОЕ",Успех
+http://178.163.50.209:4022/udp/234.0.0.117:2000
+
+#EXTINF:-1 group-title="Спорт",Extreme Sports
+http://178.163.55.217:4022/udp/234.0.0.150:2000
+
+#EXTINF:-1 group-title="Детский",Nickelodion
+http://178.163.50.209:4022/udp/234.0.0.153:2000
+
+#EXTINF:-1 group-title="Кино",Амедиа Home Of HBO Ru
+http://178.163.55.217:4022/udp/234.0.0.169:2000
+
+#EXTINF:-1 group-title="Спорт",Russian Extreme
+http://178.163.50.209:4022/udp/234.0.0.173:2000
+
+#EXTINF:-1 group-title="Кино",Иллюзион+
+http://178.163.58.72:4022/udp/234.0.0.175:2000
+
+#EXTINF:-1 group-title="Кино",Любимое Кино
+http://178.163.50.209:4022/udp/234.0.0.177:2000
+
+#EXTINF:-1 group-title="Кино",Русский Иллюзион
+http://178.163.58.72:4022/udp/234.0.0.178:2000
+
+#EXTINF:-1 group-title="Музыка",Bridge TV Русский Хит
+http://178.163.58.72:4022/udp/234.0.0.179:2000
+
+#EXTINF:-1 group-title="Основной канал",ТНТ 4
+http://178.163.55.217:4022/udp/234.0.0.181:2000
+
+#EXTINF:-1 group-title="Познавательное",Совершенно Секретно
+http://178.163.55.217:4022/udp/234.0.0.185:2000
+
+#EXTINF:-1 group-title="Основной канал",ТНТ
+http://178.163.55.217:4022/udp/234.0.0.186:2000
+
+#EXTINF:-1 group-title="Кино",XXI
+http://178.163.50.209:4022/udp/234.0.0.187:2000
+
+#EXTINF:-1 group-title="РАЗНОЕ",Ностальгия
+http://178.163.55.217:4022/udp/234.0.0.190:2000
+
+#EXTINF:-1 group-title="РАЗНОЕ",Домашний
+http://178.163.58.72:4022/udp/234.0.0.191:2000
+
+#EXTINF:-1 group-title="Кино",Bolliwood HD
+http://178.163.50.209:4022/udp/234.0.0.195:2000
+
+#EXTINF:-1 group-title="РАЗНОЕ",Бекларусь 24
+http://178.163.50.209:4022/udp/234.0.0.199:2000
+
+#EXTINF:-1 group-title="Основной канал",Россия 1
+http://178.163.55.217:4022/udp/234.0.0.201:2000
+
+#EXTINF:-1 group-title="Основной канал",Карусель
+http://178.163.55.217:4022/udp/234.0.0.203:2000
+
+#EXTINF:-1 group-title="Основной канал",Матч ТВ
+http://178.163.58.72:4022/udp/234.0.0.204:2000
+
+#EXTINF:-1 group-title="Основной канал",5 Канал
+http://178.163.50.209:4022/udp/234.0.0.205:2000
+
+#EXTINF:-1 group-title="Кино",Амедиа Home Of HBO Rus
+http://178.163.55.217:4022/udp/234.0.0.209:2000
+
+#EXTINF:-1 group-title="Спорт",Матч Игра
+http://178.163.55.217:4022/udp/234.0.0.211:2000
+
+#EXTINF:-1 group-title="Кино",Дом Кино
+http://178.163.50.209:4022/udp/234.0.0.219:2000
+
+#EXTINF:-1 group-title="РАЗНОЕ",Здоровое ТВ
+http://178.163.50.209:4022/udp/234.0.0.221:2000
+
+#EXTINF:-1 group-title="РАЗНОЕ",Время
+http://178.163.58.72:4022/udp/234.0.0.225:2000
+
+#EXTINF:-1 group-title="Познавательное",Наука 2.0
+http://178.163.50.209:4022/udp/234.0.0.226:2000
+
+#EXTINF:-1 group-title="Познавательное",Авто 24
+http://178.163.58.72:4022/udp/234.0.0.227:2000
+
+#EXTINF:-1 group-title="Познавательное",Моя планета
+http://178.163.58.72:4022/udp/234.0.0.228:2000
+
+#EXTINF:-1 group-title="РАЗНОЕ",Охота и рыбалка
+http://178.163.58.72:4022/udp/234.0.0.230:2000
+
+#EXTINF:-1 group-title="Музыка",ТНТ Music
+http://178.163.55.217:4022/udp/234.0.0.231:2000
+
+#EXTINF:-1 group-title="РАЗНОЕ",Доктор
+http://178.163.50.209:4022/udp/234.0.0.232:2000
+
+#EXTINF:-1 group-title="Музыка",MTV Dance
+http://178.163.58.72:4022/udp/234.0.0.233:2000
+
+#EXTINF:-1 group-title="РАЗНОЕ",Открытый Мир
+http://178.163.55.217:4022/udp/234.0.0.238:2000
+
+#EXTINF:-1 group-title="Познавательное",Драйв
+http://178.163.58.72:4022/udp/234.0.0.245:2000
+
+#EXTINF:-1 group-title="Познавательное",Техно 24
+http://178.163.58.72:4022/udp/234.0.0.247:2000
+
+#EXTINF:-1 group-title="РАЗНОЕ",Телекафе
+http://178.163.50.209:4022/udp/234.0.0.249:2000
+
+#EXTINF:-1 group-title="Развлекательные",2х2
+http://37.195.247.86:81/udp/239.1.2.1:1234
+
+#EXTINF:-1 group-title="РАЗНОЕ",365 Дней
+http://37.195.247.86:81/udp/239.1.5.20:1234
+
+#EXTINF:-1 group-title="Кино",Амедиа 1
+http://37.195.247.86:81/udp/239.1.4.4:1234
+
+#EXTINF:-1 group-title="Музыка",Bridge TV
+http://37.195.247.86:81/udp/239.1.8.8:1234
+
+#EXTINF:-1 group-title="Музыка",Bridge TV Dance
+http://37.195.247.86:81/udp/239.1.8.17:1234
+
+#EXTINF:-1 group-title="Детский",Da Vinci
+http://37.195.247.86:81/udp/239.1.5.6:1234
+
+#EXTINF:-1 group-title="Познавательное",Discovery
+http://37.195.247.86:81/udp/239.1.5.1:1234
+
+#EXTINF:-1 group-title="Новости",ЕвроНьюс
+http://37.195.247.86:81/udp/239.1.1.5:1234
+
+#EXTINF:-1 group-title="HD",FOX HD
+http://37.195.247.86:81/udp/239.1.17.5:1234
+
+#EXTINF:-1 group-title="HD",HD Life
+http://37.195.247.86:81/udp/239.1.9.2:1234
+
+#EXTINF:-1 group-title="Музыка",MTV Dance
+http://37.195.247.86:81/udp/239.1.8.15:1234
+
+#EXTINF:-1 group-title="Музыка",Music Box Russian
+http://37.195.247.86:81/udp/239.1.8.5:1234
+
+#EXTINF:-1 group-title="Познавательное",National Geograhgic
+http://37.195.247.86:81/udp/239.1.5.8:1234
+
+#EXTINF:-1 group-title="HD",Sony
+http://37.195.247.86:81/udp/239.1.17.18:1234
+
+#EXTINF:-1 group-title="Кино",Sony Sci-Fi
+http://37.195.247.86:81/udp/239.1.4.7:1234
+
+#EXTINF:-1 group-title="Развлекательные",TLC
+http://37.195.247.86:81/udp/239.1.3.16:1234
+
+#EXTINF:-1 group-title="Познавательное",Большая Азия
+http://37.195.247.86:81/udp/239.1.3.9:1234
+
+#EXTINF:-1 group-title="Детский",Детский
+http://37.195.247.86:81/udp/239.1.3.5:1234
+
+#EXTINF:-1 group-title="Кино",Дом Кино
+http://37.195.247.86:81/udp/239.1.4.8:1234
+
+#EXTINF:-1 group-title="Основной канал",Домашний
+http://37.195.247.86:81/udp/239.1.10.5:1234
+
+#EXTINF:-1 group-title="Основной канал",Звезда
+http://37.195.247.86:81/udp/239.1.15.9:1234
+
+#EXTINF:-1 group-title="Спорт",КХЛ
+http://37.195.247.86:81/udp/239.1.12.6:1234
+
+#EXTINF:-1 group-title="Основной канал",Карусель
+http://37.195.247.86:81/udp/239.1.15.11:1234
+
+#EXTINF:-1 group-title="Познавательное",Кухня ТВ
+http://37.195.247.86:81/udp/239.1.2.15:1234
+
+#EXTINF:-1 group-title="Музыка",Ля Минор
+http://37.195.247.86:81/udp/239.1.8.13:1234
+
+#EXTINF:-1 group-title="Детский",Мульт
+http://37.195.247.86:81/udp/239.1.3.1:1234
+
+#EXTINF:-1 group-title="Детский",Мама
+http://37.195.247.86:81/udp/239.1.3.14:1234
+
+#EXTINF:-1 group-title="HD",Матч ТВ
+http://37.195.247.86:81/udp/239.1.15.23:1234
+
+#EXTINF:-1 group-title="Новости",Мир
+http://37.195.247.86:81/udp/239.1.15.31:1234
+
+#EXTINF:-1 group-title="HD",Мир HD
+http://37.195.247.86:81/udp/239.1.17.7:1234
+
+#EXTINF:-1 group-title="Музыка",Муз ТВ
+http://37.195.247.86:81/udp/239.1.15.13:1234
+
+#EXTINF:-1 group-title="Детский",Мульт Музыка
+http://37.195.247.86:81/udp/239.1.1.9:1234
+
+#EXTINF:-1 group-title="HD",Наша Сибирь HD
+http://37.195.247.86:81/udp/239.1.9.7:1234
+
+#EXTINF:-1 group-title="РАЗНОЕ",ОТР
+http://37.195.247.86:81/udp/239.1.15.8:1234
+
+#EXTINF:-1 group-title="Познавательное",Оружие
+http://37.195.247.86:81/udp/239.1.2.7:1234
+
+#EXTINF:-1 group-title="РАЗНОЕ",Открытый Мир
+http://37.195.247.86:81/udp/239.1.5.24:1234
+
+#EXTINF:-1 group-title="Основной канал",Первый канал
+http://37.195.247.86:81/udp/239.1.15.1:1234
+
+#EXTINF:-1 group-title="HD",Первый канал HD
+http://37.195.247.86:81/udp/239.1.15.20:1234
+
+#EXTINF:-1 group-title="Основной канал",5 Канал
+http://37.195.247.86:81/udp/239.1.10.3:1234
+
+#EXTINF:-1 group-title="Новости",РБК
+http://37.195.247.86:81/udp/239.1.1.2:1234
+
+#EXTINF:-1 group-title="Основной канал",Рен ТВ
+http://37.195.247.86:81/udp/239.1.15.5:1234
+
+#EXTINF:-1 group-title="Основной канал",Россия К
+http://37.195.247.86:81/udp/239.1.10.7:1234
+
+#EXTINF:-1 group-title="Кино",Русский Детектив
+http://37.195.247.86:81/udp/239.1.4.16:1234
+
+#EXTINF:-1 group-title="Основной канал",СТС
+http://37.195.247.86:81/udp/239.1.15.6:1234
+
+#EXTINF:-1 group-title="РАЗНОЕ",Сарафан
+http://37.195.247.86:81/udp/239.1.2.11:1234
+
+#EXTINF:-1 group-title="Основной канал",ТНТ
+http://37.195.247.86:81/udp/239.1.15.7:1234
+
+#EXTINF:-1 group-title="Музыка",ТНТ Music
+http://37.195.247.86:81/udp/239.1.8.2:1234
+
+#EXTINF:-1 group-title="Познавательное",Техно-24
+http://37.195.247.86:81/udp/239.1.5.10:1234
+
+#EXTINF:-1 group-title="РАЗНОЕ",Усадьба
+http://37.195.247.86:81/udp/239.1.2.17:1234
+
+#EXTINF:-1 group-title="Спорт",Футбол
+http://37.195.247.86:81/udp/239.1.12.5:1234
+
+#EXTINF:-1 group-title="РАЗНОЕ",Че!
+http://37.195.247.86:81/udp/239.1.15.14:1234
+
+#EXTINF:-1 group-title="РАЗНОЕ",Ю
+http://37.195.247.86:81/udp/239.1.15.18:1234
+
+#EXTINF:-1 group-title="Разное",Живи
+http://37.195.247.86:81/udp/239.1.2.12:1234
+
+#EXTINF:-1 group-title="Разное",Fashion One HD
+http://37.195.247.86:81/udp/239.1.17.8:1234
+
+#EXTINF:-1 group-title="New group",Живая Планета
+http://37.195.247.86:81/udp/239.1.5.23:1234
+
+#EXTINF:-1 group-title="Музыка",MTV Live HD
+http://37.195.247.86:81/udp/239.1.17.83:1234
+
+#EXTINF:-1 group-title="Разное",НТН 24
+http://37.195.247.86:81/udp/239.1.21.20:1234
+
+#EXTINF:-1 group-title="РАЗНОЕ",ОТС
+http://37.195.247.86:81/udp/239.1.21.23:1234
+
+#EXTINF:-1 group-title="Детский",Сказка
+http://37.195.247.86:81/udp/239.1.21.54:1234
+
+#EXTINF:-1 group-title="Разное",Здоровье
+http://37.195.247.86:81/udp/239.1.21.17:1234
+
+#EXTINF:-1 group-title="Развлекательные",Viasat History
+http://37.195.247.86:81/udp/239.1.21.34:1234
+
+#EXTINF:-1 group-title="Развлекательные",Супер
+http://37.195.247.86:81/udp/239.1.21.45:1234
+
+#EXTINF:-1 group-title="Развлекательные",Viasat Explorer
+http://37.195.247.86:81/udp/239.1.21.56:1234
+
+#EXTINF:-1 group-title="Кино",Дорама
+http://37.195.247.86:81/udp/239.1.21.89:1234
