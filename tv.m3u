@@ -45,16 +45,16 @@ http://178.124.183.15/hls/W7LNWHFGTB/bw2000000/playlist.m3u8
 http://fra1.ruip.tv/6799/video.m3u8?username=Artart111&password=firence&token=b1b3377aaba83fb9b6eb3ff0ea1dc635
 #EXTINF:-1,Hollywood HD
 https://plbl.m9.lfstrm.tv/amc/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr2&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1,домкино
+https://mfe20.svc.ott.zala.by/hls/CH_DOMKINO_HLS/bw2000000/playlist.m3u8?version=2
+#EXTINF:-1,ЕВРОКИНО
+http://193.46.210.28/stream/x9cmf8n9da5a4ytjwtrev2377hb84uani6apts7na598q7szeg6ha6kfypcpk5kp5sjsndjnhpadchca48wfzdfguu79msfp743ykfygwvyr3uf447agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
 #EXTINF:-1,Интер
 http://193.46.210.28/stream/p468se6rnmtjt8gjd7tx4zvny37sxu3tfknqdr7bx8zkm2h5m93xtkx4wfpuknzmpkw2fjmwbyv6vxhq947g2y3vfimf6mdxpmcyh4xi8hb47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
 #EXTINF:-1,Новый канал 
 http://193.46.210.28/stream/ap6j7tbbq4qkaewzyq8j7sp2p75fry4ghdiq9wzzvxdsngtd5sae79m4ivkc838uqutjzgxjmn2bec9fr47g2y3vfimf6mdxp38vh7qvjkb47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
 #EXTINF:-1,ICTV
 http://193.46.210.28/stream/7vzrgggqh9hi27shrnvecmyp9kduw789bgsrm5ak34mwjxhj3grg5a39tk3tc9pm2d4z8jz9dyi2bfpmeax3j75wc3ctwzpjq6xrkupf6hiaxm2447agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
-#EXTINF:-1,домкино
-https://mfe20.svc.ott.zala.by/hls/CH_DOMKINO_HLS/bw2000000/playlist.m3u8?version=2
-#EXTINF:-1,ЕВРОКИНО
-http://193.46.210.28/stream/x9cmf8n9da5a4ytjwtrev2377hb84uani6apts7na598q7szeg6ha6kfypcpk5kp5sjsndjnhpadchca48wfzdfguu79msfp743ykfygwvyr3uf447agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
 #EXTINF:-1,ТНТ4
 https://plbl.m9.lfstrm.tv/comedytv/normal/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr2&provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:-1,СТС
