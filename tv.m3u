@@ -34,7 +34,7 @@ http://193.46.210.28/stream/eefmrfsprrdqczqmdmaxv4nymj5bhjh5xvw76jn3udisdcf43g26
 #EXTINF:-1,КИНОМИКС
 https://plbl.m9.lfstrm.tv/ntv_plus_kino_plus/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:-1,TV1000
-http://88.119.220.2/live/eds/TV1000_SD/HLS_encr/TV1000_SD-avc1_2200000=14
+http://193.46.210.28/stream/giys6mu8zccne9exs9qxrdrzd77yr7py5wpiewaj4kr5jhqhe253pzwhwmrymtpy22jppb28kkhpcksn8p9yyab8qpqhqm4vhmkric2c373ufjrf47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
 #EXTINF:-1,TV1000 Action
 http://193.46.210.28/stream/wtnbd9w8f4pedjacba3h9vxzqmna8wimkytxe2tkv7jgvrqfmr47jkqmvxzyb54jjk8w7g6g66tg9x63haj79f3ejmxsixmrbmjzu7r2faw77qgd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
 #EXTINF:-1,TV1000 World Kino
@@ -53,8 +53,8 @@ http://213.252.252.17/live/eds/FOX/HLS_encr/FOX-avc1_2200000=6.m3u8
 http://178.124.183.13/hls/CH_FOXL/bw2000000/playlist.m3u8?version=2
 #EXTINF:-1,Кинокомедия ТВ
 https://plbl.m9.lfstrm.tv/komediatv/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
-#EXTINF:-1,Кинокомедия
-https://plbl.m9.lfstrm.tv/komediatv/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1,Киномикс
+https://plbl.m9.lfstrm.tv/ntv_plus_kino_plus/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:-1,Киносемья
 http://178.124.183.5/hls/FEDXG8XPOR/variant.m3u8
 #EXTINF:-1,Кинохит
