@@ -2,9 +2,9 @@
 #EXTINF:-1,Интер
 http://193.46.210.28/stream/p468se6rnmtjt8gjd7tx4zvny37sxu3tfknqdr7bx8zkm2h5m93xtkx4wfpuknzmpkw2fjmwbyv6vxhq947g2y3vfimf6mdxpmcyh4xi8hb47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
 #EXTINF:-1,Новый канал 
-http://193.46.210.28/stream/ap6j7tbbq4qkaewzyq8j7sp2p75fry4ghdiq9wzzvxdsngtd5sae79m4ivkc838uqutjzgxjmn2bec9fr47g2y3vfimf6mdxp38vh7qvjkb47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
+http://127.0.0.1:6878/hls/r/9a1bf9977d337034fd5f410355ceb46372d42397/7d8a41568882ccd2fa68dfe603c063b7.m3u8
 #EXTINF:-1,ICTV
-http://193.46.210.28/stream/7vzrgggqh9hi27shrnvecmyp9kduw789bgsrm5ak34mwjxhj3grg5a39tk3tc9pm2d4z8jz9dyi2bfpmeax3j75wc3ctwzpjq6xrkupf6hiaxm2447agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
+http://127.0.0.1:6878/hls/r/3cb12727663788482136cb15904d34239c33aa09/90b90662778b64132ba0899287dd0705.m3u8
 #EXTINF:-1,ТНТ4
 https://plbl.m9.lfstrm.tv/comedytv/normal/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr2&provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:-1,СТС
@@ -60,7 +60,7 @@ http://178.124.183.5/hls/FEDXG8XPOR/variant.m3u8
 #EXTINF:-1,Кинохит
 https://plbl.m9.lfstrm.tv/ntv_plus_kinohit_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:-1,TV XXI
-http://193.46.210.28/stream/46gqmb78ybhbm8jrjwgdjwesfys9p3ju6rskbk85ph9d2wu29nhs3d27vnbaqccunkhg58fej7fqieb5pq82mcgszz4wir234gqjnzqvr9fq96it47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
+http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/chunklist.m3u8
 #EXTINF:-1,НСТ
 https://plbl.m9.lfstrm.tv/nctv/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr2&provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:-1,Кино ТВ
@@ -70,6 +70,6 @@ https://plbl.m9.lfstrm.tv/interesnoetv/normal/1/index.m3u8?account=3f378f7832e53
 #EXTINF:-1,Hollywood HD
 https://plbl.m9.lfstrm.tv/amc/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr2&provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:-1,Дом кино
-https://mfe20.svc.ott.zala.by/hls/CH_DOMKINO_HLS/bw2000000/playlist.m3u8?version=2
+http://127.0.0.1:6878/hls/r/a264c03ad629faf5f13044608caa5cc3cc485043/d59f6f67eee39ec9591f57d5c51c55db.m3u8
 #EXTINF:-1,ЕВРОКИНО
 http://193.46.210.28/stream/x9cmf8n9da5a4ytjwtrev2377hb84uani6apts7na598q7szeg6ha6kfypcpk5kp5sjsndjnhpadchca48wfzdfguu79msfp743ykfygwvyr3uf447agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
