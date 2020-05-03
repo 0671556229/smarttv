@@ -1,14 +1,16 @@
 #EXTM3U
-#EXTINF:-1,����� �����
+#EXTINF:-1, НОВЫЙ КАНАЛ
 https://hls11.sweet.tv/stream/m4qqnjmc7bvchy32caxkg7u6cwgteuv4vytp2i8rcyy67piq2dskr8rysb8bmkyv3s6z7nywsqgpwf6c4uidew5zdcj8ke6t86mqsutu34rqrak3wpwkkn8uja9bxq7b446z89t39xwrjsxbk85f4===.m3u8
-#EXTINF:-1,ICTV
+#EXTINF:-1, ICTV
 https://hls9.sweet.tv/stream/63c77yfhfq9f7z68rczrjq5sr4brn84acsh9zwhxttde56sd2yyiqnrdzp8hpiuwskgyxqsn7e244u6nxybbphbrw8ehbxj8jk955g2xve92ei6iv32aejkq4mi7bysxizaua257u6skicedaagpy===.m3u8
-#EXTINF:-1,���
+#EXTINF:-1, ТНТ
 https://live-303.zxz.su/LIVE/LIVE:317850/HLS/1588505010/kx79ORdP1JKyH_qG6Z4H_g/live/317850_3/chunklist.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,THT4
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d127c8ae736ff66271f69a35ab91c361ed5256c8&transcode_audio=1
+#EXTINF:-1, fox
+https://hls9.sweet.tv/stream/2wjhf3pud5pzph5fuu2tatffkcnt6cadmvh82grkhiriedtjpqig528ak6k23xbrtmnsaqebd9d83e3j8zt7ewm3my6c8bh67puab8sxbvj3hck8dvr3nptqbpsby253xaibkay2x39jkr9d8sjg48xa9m7a====.m3u8
+#EXTINF:-1,paramount-comedy
+https://hls12.sweet.tv/stream/25tnwuykjuxvquv8sgwh985mmxxwwcj5s9fci4b8ru4cetp7c938agwrnbtaazykwepmq9x6hhamgjzpvgjryx472tst7sd5x69nbpe3msjmwr735gmqqkqbpb9qn8ab2f46gaxbtmchfezqtgdhtu7bsf7s====.m3u8
 #EXTINF:-1,tv1000-action
 https://hls7.sweet.tv/stream/5b6fwj5xjqvfgmk84ehrmijve8wixau68ivn3sesrs9c5hr9acdpw2ig4sdnwyedbbajfec7vdd8afy5tr9z2meg75qaczpdbdf9jxqftruw8mpe5au67n4q7ybzcvzzqfdpaanb96mkcnhaf3489nai.m3u8
 #EXTINF:-1,tv1000
@@ -23,8 +25,3 @@ https://hls14.sweet.tv/stream/xmfrb3du34ty7ev8p73wxqdgr994wxh8freiwca8w7dtcyryie
 https://hls15.sweet.tv/stream/w3jimk8tdftnvzapiagsug4qg9kajfviijms97rnf5knnricutzjvnnqzcxwynrqrb77td4avparymxnzmuyhvg22pppicqrbwtp2st4kivnwj4qyve3tqh4tix4796ygz4pt5rtvgjwbkffk782hp4xxi======.m3u8
 #EXTINF:-1,paramount-channel
 https://hls12.sweet.tv/stream/xbtfrmdyb7n5p9f9uureuf6kj7ddmpyf3pp6472smfmz3n5iudewdv7429de66h56btkt8eu9s96ee9q4k3m43dafzfqyn2cgxbbhxbegb9bdkjd56h6he8t2spj9rqhg3vqct57sc9t7uyb5eamgvedj6======.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
