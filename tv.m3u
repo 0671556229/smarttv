@@ -1,15 +1,1 @@
-#EXTM3U
-#EXTINF:-1,ТНТ4
-http://127.0.0.1:6878/ace/manifest.m3u8?id=1f555e38fcb67e7acf686176b05d5b915d55398d&transcode_audio=1
-#EXTINF:-1,СТС
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e2fe666bbec21148dc37c34985cbf81837c1f93e&transcode_audio=1
-#EXTINF:-1,ТНТ
-http://127.0.0.1:6878/ace/manifest.m3u8?id=53793e7e28816241047bad3ce46b3efe0a6db243&transcode_audio=1
-#EXTINF:-1,2Х2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e422175c195dfcaeeab3ec8b7403b9bd7a46a880&transcode_audio=1
-#EXTINF:-1,Paramount Comedy
-http://127.0.0.1:6878/hls/m/941e22dce1e6c6c24d87ad98661dc2a46fbf8909/f528764d624db129b32c21fbca0cb8d6/0/index.m3u8
-#EXTINF:-1,TV1000 Action
-http://127.0.0.1:6878/ace/manifest.m3u8?id=bdcd46d5b6b08a85fbcb0146a707f339a897085c&transcode_audio=1
-#EXTINF:-1,Кинохит
-http://127.0.0.1:6878/ace/manifest.m3u8?id=17a7bdf381d98ea110654d230a22b08136cc6d7b&transcode_audio=1
+ http://my.prosto.tv/2if5btnm.m3u
