@@ -1,1 +1,35 @@
- http://my.prosto.tv/2if5btnm.m3u
+#EXTM3U
+#EXTINF:-1,ИНТЕР
+https://edge2.iptv.macc.com.ua/img/inter_1/index.m3u8
+#EXTINF:-1,НОВЫЙ КАНАЛ
+http://51.15.176.84/hls/ua-novy-tv/index.m3u8
+#EXTINF:-1,ICTV
+http://51.15.176.84/hls/ua-ictv-tv/index.m3u8
+#EXTINF:-1,ТНТ4
+https://s2.ttranslit.com:8082/s4g_tnt_4/index.m3u8?wmsAuthSign=1588678863S3b38c3bc6b28bc8ae818196da7102898S222h66h89h64
+#EXTINF:-1,ТНТ
+http://nsk9.peers.tv/streaming/tnt/16/vh1w/playlist.m3u8
+#EXTINF:-1,СТС
+http://str06.ottg.tv/9716/video.m3u8?username=PraVitelb&password=123456&token=44243a1696de169610f09affc43ad26b&ch_id=70&req_host=pkjX3BL
+#EXTINF:-1,2X2
+http://str06.ottg.tv/2935/video.m3u8?username=PraVitelb&password=123456&token=44243a1696de169610f09affc43ad26b&ch_id=70&req_host=pkjX3BL
+EXTINF:-1,VIP Megahit HD
+http://78.129.228.178/iptv/6BWB96ZFKFYP42/201/index.m3u8
+EXTINF:-1,КИНОКОМЕДИЯ ТВ
+http://78.129.228.178/iptv/PW2F8DZXLQM8LY/2132/index.m3u8
+EXTINF:-1,КИНОХИТ
+http://str06.ottg.tv/3955/video.m3u8?username=PraVitelb&password=123456&token=44243a1696de169610f09affc43ad26b&ch_id=70&req_host=pkjX3BL&ch_id=237
+EXTINF:-1,TV1000 ACTION
+http://78.129.228.178/iptv/L66YS6HVTC5T8X/131/index.m3u8
+EXTINF:-1,КИНО ТВ
+http://str06.ottg.tv/8409/video.m3u8?username=PraVitelb&password=123456&token=44243a1696de169610f09affc43ad26b&ch_id=770&req_host=pkjX3BL
+EXTINF:-1,VIP COMEDY HD
+http://78.129.228.178/iptv/6BWB96ZFKFYP42/200/index.m3u8
+EXTINF:-1,TV1000
+http://78.129.228.178/iptv/L66YS6HVTC5T8X/132/index.m3u8
+EXTINF:-1,Мужское кино тв
+http://str06.ottg.tv/6241/video.m3u8?username=PraVitelb&password=123456&token=44243a1696de169610f09affc43ad26b&ch_id=652&req_host=pkjX3BL
+EXTINF:-1,КИНОМИКС
+http://str06.ottg.tv/2446/video.m3u8?username=PraVitelb&password=123456&token=44243a1696de169610f09affc43ad26b&ch_id=70&req_host=pkjX3BL
+EXTINF:-1,5 КАНАЛ
+http://str06.ottg.tv/4750/video.m3u8?username=PraVitelb&password=123456&token=44243a1696de169610f09affc43ad26b&ch_id=70&req_host=pkjX3BL
