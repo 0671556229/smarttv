@@ -14,13 +14,11 @@ http://nsk9.peers.tv/streaming/tnt/16/vh1w/playlist.m3u8
 #EXTINF:-1,СТС
 http://str06.ottg.tv/9716/video.m3u8?
 
-username=PraVitelb&password=123456&token=44243a1696de169610f09affc43ad
 
 26b&ch_id=70&req_host=pkjX3BL
 #EXTINF:-1,2X2
 http://str06.ottg.tv/2935/video.m3u8?
 
-username=PraVitelb&password=123456&token=44243a1696de169610f09affc43ad
 
 26b&ch_id=70&req_host=pkjX3BL
 #EXTINF:-1,VIP Megahit HD
@@ -30,7 +28,7 @@ http://78.129.228.178/iptv/PW2F8DZXLQM8LY/2132/index.m3u8
 #EXTINF:-1,,КИНОХИТ
 http://str06.ottg.tv/3955/video.m3u8?
 
-username=PraVitelb&password=123456&token=44243a1696de169610f09affc43ad
+
 
 26b&ch_id=70&req_host=pkjX3BL&ch_id=237
 #EXTINF:-1,TV1000 ACTION
